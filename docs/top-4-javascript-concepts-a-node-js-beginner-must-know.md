@@ -1,6 +1,6 @@
 # Node.js 初学者必须知道的 4 个 Javascript 概念
 
-> 原文:[https://simple programmer . com/top-4-JavaScript-concepts-a-node-js-beginner-must-know/](https://simpleprogrammer.com/top-4-javascript-concepts-a-node-js-beginner-must-know/)
+> 原文：<https://simpleprogrammer.com/top-4-javascript-concepts-a-node-js-beginner-must-know/>
 
 如果您只需要知道一种编程语言来构建一个全栈应用程序，这不是很棒吗？Ryan Dahl 将这一想法付诸实践，并创建了 Node.js. Node.js 是一个服务器端框架，建立在 Chrome 强大的 V8 JavaScript 引擎之上。虽然最初是用 C++编写的，但它使用 JavaScript 来应用。
 

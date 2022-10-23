@@ -1,6 +1,6 @@
 # 如何为你的应用获取用户
 
-> 原文:[https://simple programmer . com/how-to-acquire-users-for-your-app/](https://simpleprogrammer.com/how-to-acquire-users-for-your-app/)
+> 原文：<https://simpleprogrammer.com/how-to-acquire-users-for-your-app/>
 
 ![acquire users for mobile app](img/b5ecc0129b28f095e6bb793154c066c1.png)
 

@@ -1,6 +1,6 @@
 # 当你不想写作又无话可说时该怎么办
 
-> 原文:[https://simple programmer . com/dont-feel-like-writing-nothing-say/](https://simpleprogrammer.com/dont-feel-like-writing-nothing-say/)
+> 原文：<https://simpleprogrammer.com/dont-feel-like-writing-nothing-say/>
 
 我花了很多时间做两件事:写博客和告诉其他开发者做一些事情的好处，比如开始他们自己的博客。(偶尔我也会挤出一点时间来编码。我妻子说我花了太多时间回复邮件和查看手机——她希望我把这一点写到这篇文章里。)
 

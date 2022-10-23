@@ -1,6 +1,6 @@
 # 宣布 Entreprogrammers 播客
 
-> 原文:[https://simple programmer . com/announcing-entre programmers-podcast/](https://simpleprogrammer.com/announcing-entreprogrammers-podcast/)
+> 原文：<https://simpleprogrammer.com/announcing-entreprogrammers-podcast/>
 
 几个月来，我每周都和我的几个软件开发/企业家伙伴会面，他们是吴镇男·贝利和 T2·乔希·厄尔，他们被称为智囊团。
 

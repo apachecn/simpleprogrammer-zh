@@ -1,6 +1,6 @@
 # 我荒谬生产力的秘密。(我现在正在用)
 
-> 原文:[https://simple programmer . com/secret-raving-productivity-im-using-now/](https://simpleprogrammer.com/secret-ridiculous-productivity-im-using-now/)
+> 原文：<https://simpleprogrammer.com/secret-ridiculous-productivity-im-using-now/>
 
 去年，我:
 

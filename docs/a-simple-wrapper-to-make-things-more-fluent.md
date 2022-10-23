@@ -1,6 +1,6 @@
 # 一个简单的包装器让事情更流畅
 
-> 原文:[https://simple programmer . com/a-simple-wrapper-to-make-things-more-fluent/](https://simpleprogrammer.com/a-simple-wrapper-to-make-things-more-fluent/)
+> 原文：<https://simpleprogrammer.com/a-simple-wrapper-to-make-things-more-fluent/>
 
 这篇文章实际上是我的上一篇文章的延续，我的上一篇文章是关于使用一种采取*动作*的方法来解决横切关注点，比如日志记录，而不必进行全面的 AOP 实现。
 

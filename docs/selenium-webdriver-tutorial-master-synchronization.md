@@ -1,6 +1,6 @@
 # 硒教程
 
-> 原文:[https://simple programmer . com/selenium-web driver-tutorial-master-synchron ization/](https://simpleprogrammer.com/selenium-webdriver-tutorial-master-synchronization/)
+> 原文：<https://simpleprogrammer.com/selenium-webdriver-tutorial-master-synchronization/>
 
 为什么对自动化测试进行适当的同步很重要？
 

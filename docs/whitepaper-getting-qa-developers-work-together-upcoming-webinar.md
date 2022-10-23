@@ -1,6 +1,6 @@
 # 关于让 QA 和开发人员一起工作的白皮书和即将举行的网络研讨会
 
-> 原文:[https://simple programmer . com/white paper-get-QA-developers-work-together-upcoming-webinar/](https://simpleprogrammer.com/whitepaper-getting-qa-developers-work-together-upcoming-webinar/)
+> 原文：<https://simpleprogrammer.com/whitepaper-getting-qa-developers-work-together-upcoming-webinar/>
 
 我只想写一个简短的帖子，谈谈我为一家公司写的白皮书，这家公司是泽法博客的忠实支持者，我还想邀请你参加我下周将举办的一个网上研讨会，主题是“试图学习太多可能会伤害你，以及该如何应对。”
 

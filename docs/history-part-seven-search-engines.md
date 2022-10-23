@@ -1,6 +1,6 @@
 # 互联网的历史:第七部分-搜索引擎
 
-> 原文:[https://simple programmer . com/history-part-seven-search-engines/](https://simpleprogrammer.com/history-part-seven-search-engines/)
+> 原文：<https://simpleprogrammer.com/history-part-seven-search-engines/>
 
 欢迎来到我们穿越时空之旅的第七部分，了解互联网是如何发展的，以及它对我们生活的影响。在前两篇文章中，我们关注了微软和网景公司争夺浏览器市场主导权的激烈竞争。然而在同一时期，另一场战斗正在搜索引擎市场展开。
 

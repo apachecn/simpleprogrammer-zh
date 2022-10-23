@@ -1,6 +1,6 @@
 # 程序员能从高尔夫传奇人物默伊·诺曼身上学到什么
 
-> 原文:[https://simple programmer . com/programmers-can-learn-golfing-legend-moe-Norman/](https://simpleprogrammer.com/programmers-can-learn-golfing-legend-moe-norman/)
+> 原文：<https://simpleprogrammer.com/programmers-can-learn-golfing-legend-moe-norman/>
 
 如果我问你“谁是老虎伍兹？”你可能会告诉我，他是最近历史上最伟大的高尔夫球手，甚至可能是有史以来最伟大的。或者，你可能会提到他在过去十年之交的失宠。
 

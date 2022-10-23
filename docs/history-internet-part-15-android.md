@@ -1,6 +1,6 @@
 # 互联网的历史:第十五部分——安卓的诞生
 
-> 原文:[https://simple programmer . com/history-internet-part-15-Android/](https://simpleprogrammer.com/history-internet-part-15-android/)
+> 原文：<https://simpleprogrammer.com/history-internet-part-15-android/>
 
 拥有超过 20 亿用户的 Android 是世界上使用最广泛的智能手机操作系统。但是这种成功曾经看起来很渺茫。在这里，我们将看看谷歌智能手机从苹果的阴影下崛起到市场顶端的不可思议的过程。
 

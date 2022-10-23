@@ -1,6 +1,6 @@
 # 编程书籍的终极列表
 
-> 原文:[https://simple programmer . com/the-ultimate-list-of-programming-books/](https://simpleprogrammer.com/the-ultimate-list-of-programming-books/)
+> 原文：<https://simpleprogrammer.com/the-ultimate-list-of-programming-books/>
 
 经常有人问我，我会推荐所有软件开发人员阅读哪些顶级编程书籍。
 

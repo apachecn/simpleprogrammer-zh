@@ -1,6 +1,6 @@
 # 为开发者训练营付费值得吗？
 
-> 原文:[https://simple programmer . com/is-paying-for-developer-boot camp-worth-it/](https://simpleprogrammer.com/is-paying-for-developer-bootcamp-worth-it/)
+> 原文：<https://simpleprogrammer.com/is-paying-for-developer-bootcamp-worth-it/>
 
 在这一集里，我分享了为开发者训练营付费的利弊。
 

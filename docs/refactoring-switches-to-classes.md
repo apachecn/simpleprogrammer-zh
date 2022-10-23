@@ -1,6 +1,6 @@
 # 重构切换到类
 
-> 原文:[https://simple programmer . com/refactoring-switches-to-classes/](https://simpleprogrammer.com/refactoring-switches-to-classes/)
+> 原文：<https://simpleprogrammer.com/refactoring-switches-to-classes/>
 
 我之前讲过几次重构 switch 语句。
 

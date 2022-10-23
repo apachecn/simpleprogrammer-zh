@@ -1,6 +1,6 @@
 # 在人工智能行业创造成功职业的程序员指南
 
-> 原文:[https://simple programmer . com/successful-career-in-ai-industry/](https://simpleprogrammer.com/successful-career-in-ai-industry/)
+> 原文：<https://simpleprogrammer.com/successful-career-in-ai-industry/>
 
 
 

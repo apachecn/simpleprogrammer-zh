@@ -1,6 +1,6 @@
 # 构建平台如何改变了我的程序员生涯
 
-> 原文:[https://simple programmer . com/building-a-platform-changed-career/](https://simpleprogrammer.com/building-a-platform-changed-career/)
+> 原文：<https://simpleprogrammer.com/building-a-platform-changed-career/>
 
 ![](img/434e765b818f5aa38ae122f41abb20a7.png)
 

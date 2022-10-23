@@ -1,6 +1,6 @@
 # 2022 年移动应用开发的主要趋势
 
-> 原文:[https://simple programmer . com/mobile-app-development-trends-2022/](https://simpleprogrammer.com/mobile-app-development-trends-2022/)
+> 原文：<https://simpleprogrammer.com/mobile-app-development-trends-2022/>
 
 ![](img/6afdf8f4fdcb658479ea653dac84effa.png)
 

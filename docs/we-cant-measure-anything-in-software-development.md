@@ -1,6 +1,6 @@
 # 我们不能在软件开发中测量任何东西
 
-> 原文:[https://simple programmer . com/we-cant-measure-any-in-software-development/](https://simpleprogrammer.com/we-cant-measure-anything-in-software-development/)
+> 原文：<https://simpleprogrammer.com/we-cant-measure-anything-in-software-development/>
 
 百家乐是一种有趣的纸牌游戏，你可以在许多赌场找到。游戏的目标是正确预测银行或玩家是否会赢一手牌。
 

@@ -1,6 +1,6 @@
 # 你有一个不同罪恶感的案例吗？
 
-> 原文:[https://simple programmer . com/do-you-have-a-case-of-var-歉疚/](https://simpleprogrammer.com/do-you-have-a-case-of-var-guilt/)
+> 原文：<https://simpleprogrammer.com/do-you-have-a-case-of-var-guilt/>
 
 自从 *var* 被宣布为 C# 3.0 的关键字以来，我就一直有这个问题。
 

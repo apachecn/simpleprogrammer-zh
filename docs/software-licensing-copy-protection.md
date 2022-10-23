@@ -1,6 +1,6 @@
 # 软件许可和版权保护开发者指南
 
-> 原文:[https://simple programmer . com/software-licensing-copy-protection/](https://simpleprogrammer.com/software-licensing-copy-protection/)
+> 原文：<https://simpleprogrammer.com/software-licensing-copy-protection/>
 
 ![](img/1840246de2c6f1689cfa1a6a3c8a3ad3.png)
 

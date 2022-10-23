@@ -1,6 +1,6 @@
 # 不学测试可以做程序员吗？
 
-> 原文:[https://simple programmer . com/can-programmer-without-learning-testing/](https://simpleprogrammer.com/can-programmer-without-learning-testing/)
+> 原文：<https://simpleprogrammer.com/can-programmer-without-learning-testing/>
 
 今天的视频，我就说说不学测试做程序员。我收到一个来自编程新手的问题，告诉我老程序员会说“但是如果你对测试一无所知，你怎么可能说你是程序员呢？”
 

@@ -1,6 +1,6 @@
 # 如何成为没有学位的全栈开发者
 
-> 原文:[https://simple programmer . com/become-full-stack-developer-without-degree/](https://simpleprogrammer.com/become-full-stack-developer-without-degree/)
+> 原文：<https://simpleprogrammer.com/become-full-stack-developer-without-degree/>
 
 ![become full-stack developer](img/4035a4b9f6114431bbe31a60ad4dd376.png)
 

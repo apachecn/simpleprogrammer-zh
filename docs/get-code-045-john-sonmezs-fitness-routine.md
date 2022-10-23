@@ -1,6 +1,6 @@
 # 起床编码 045:约翰·桑梅兹的健身程序
 
-> 原文:[https://simple programmer . com/get-code-045-John-sonmezs-fitness-routine/](https://simpleprogrammer.com/get-code-045-john-sonmezs-fitness-routine/)
+> 原文：<https://simpleprogrammer.com/get-code-045-john-sonmezs-fitness-routine/>
 
 在这一集里，我回顾了我的个人健身计划，并解释了我为什么要这样做。如果你想知道我吃什么，怎么锻炼，这一集将揭示其中的奥秘。
 

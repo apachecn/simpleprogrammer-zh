@@ -1,6 +1,6 @@
 # 我会因为没有专注于正确的事情而降低我的收入潜力吗？
 
-> 原文:[https://simple programmer . com/will-I-lower-my-income-potential by-not-focusing-on-the-right thing/](https://simpleprogrammer.com/will-i-lower-my-earnings-potential-by-not-focusing-on-the-right-thing/)
+> 原文：<https://simpleprogrammer.com/will-i-lower-my-earnings-potential-by-not-focusing-on-the-right-thing/>
 
 在这一集里，我将通过关注正确的事情来谈论收益潜力。
 

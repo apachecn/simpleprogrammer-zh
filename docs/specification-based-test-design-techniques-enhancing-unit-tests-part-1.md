@@ -1,6 +1,6 @@
 # 增强单元测试的基于规范的测试设计技术第 1 部分
 
-> 原文:[https://simple programmer . com/specification-based-test-design-techniques-enhancing-unit-tests-part-1/](https://simpleprogrammer.com/specification-based-test-design-techniques-enhancing-unit-tests-part-1/)
+> 原文：<https://simpleprogrammer.com/specification-based-test-design-techniques-enhancing-unit-tests-part-1/>
 
 大多数开发人员的主要目标通常是实现 100%的代码覆盖率，如果他们编写任何单元测试的话。在这篇测试设计指南文章中，我将向您展示如何使用**基于规范的测试设计技术**来通过您的单元测试覆盖更多的需求。
 

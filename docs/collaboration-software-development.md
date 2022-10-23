@@ -1,6 +1,6 @@
 # 为什么程序员需要协作以及如何帮助他们
 
-> 原文:[https://simple programmer . com/collaboration-software-development/](https://simpleprogrammer.com/collaboration-software-development/)
+> 原文：<https://simpleprogrammer.com/collaboration-software-development/>
 
 <figure class="alignright is-resized">
 

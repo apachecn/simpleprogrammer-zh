@@ -1,6 +1,6 @@
 # 应对软件开发的挑战
 
-> 原文:[https://simple programmer . com/coping-challenges-software-developer/](https://simpleprogrammer.com/coping-challenges-software-developer/)
+> 原文：<https://simpleprogrammer.com/coping-challenges-software-developer/>
 
 ![](img/5e1b8024f0ec4f8a75f7c669fe8001f5.png)
 

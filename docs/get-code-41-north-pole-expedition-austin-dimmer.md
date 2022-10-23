@@ -1,6 +1,6 @@
 # 起床，代码 41:奥斯汀·迪莫的北极探险
 
-> 原文:[https://simple programmer . com/get-code-41-north-pole-expedition-Austin-dimmer/](https://simpleprogrammer.com/get-code-41-north-pole-expedition-austin-dimmer/)
+> 原文：<https://simpleprogrammer.com/get-code-41-north-pole-expedition-austin-dimmer/>
 
 在这一集《起床与编码》中，我和艾瑞斯采访了奥斯汀·迪默，讲述了他在北极探险的经历。奥斯汀有一个非凡的坚持和决心的故事，我们都可以学习。看看下面这一集。
 

@@ -1,6 +1,6 @@
 # 我对未来几年软件开发的预测
 
-> 原文:[https://simple programmer . com/software-development-predictions/](https://simpleprogrammer.com/software-development-predictions/)
+> 原文：<https://simpleprogrammer.com/software-development-predictions/>
 
 我们正处于软件开发世界的快速变革时期，我认为变革的步伐在未来几年只会继续加快。因此，我认为发布一些我认为在不久的将来我们的软件开发世界将会发生的软件开发预测是一个好主意。
 

@@ -1,6 +1,6 @@
 # 2021 年十大简单程序员帖子
 
-> 原文:[https://simple programmer . com/top-simple-programmer-posts-2021/](https://simpleprogrammer.com/top-simple-programmer-posts-2021/)
+> 原文：<https://simpleprogrammer.com/top-simple-programmer-posts-2021/>
 
 ![](img/df9d89a2f0aa61472938fa958bbe3781.png)
 

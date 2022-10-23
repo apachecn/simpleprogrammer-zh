@@ -1,6 +1,6 @@
 # 保持健康、高效和联系的远程工作习惯
 
-> 原文:[https://simple programmer . com/remote-work-habits-healthy-productive/](https://simpleprogrammer.com/remote-work-habits-healthy-productive/)
+> 原文：<https://simpleprogrammer.com/remote-work-habits-healthy-productive/>
 
 ![remote work habits](img/6e8fcbb110f4f3a1f2b827a890454591.png)
 

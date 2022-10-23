@@ -1,6 +1,6 @@
 # 4 个最重要的软件开发技能
 
-> 原文:[https://simple programmer . com/软件开发人员最重要的 4 项技能/](https://simpleprogrammer.com/the-4-most-important-skills-for-a-software-developer/)
+> 原文：<https://simpleprogrammer.com/the-4-most-important-skills-for-a-software-developer/>
 
 **2017 年 12 月 13 日更新**
 

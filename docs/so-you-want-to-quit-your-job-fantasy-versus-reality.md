@@ -1,6 +1,6 @@
 # 那么，你想辞职吗？(幻想对现实)
 
-> 原文:[https://simple programmer . com/so-you-want-to-quit-you-the-job-fantasy vs . reality/](https://simpleprogrammer.com/so-you-want-to-quit-your-job-fantasy-versus-reality/)
+> 原文：<https://simpleprogrammer.com/so-you-want-to-quit-your-job-fantasy-versus-reality/>
 
 这是关于辞职系列的第二部分。点击此处查看第一篇帖子。T3】
 

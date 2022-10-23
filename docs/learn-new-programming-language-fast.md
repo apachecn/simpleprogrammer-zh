@@ -1,6 +1,6 @@
 # 如何快速学习一门新的编程语言！
 
-> 原文:[https://simple programmer . com/learn-new-programming-language-fast/](https://simpleprogrammer.com/learn-new-programming-language-fast/)
+> 原文：<https://simpleprogrammer.com/learn-new-programming-language-fast/>
 
 学习一门新的编程语言似乎是一项具有挑战性的任务。然而，就像所有类型的学习一样，有一些特定的技巧和实践可以帮助你更快更有效地学习编程语言。
 

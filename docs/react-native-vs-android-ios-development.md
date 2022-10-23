@@ -1,6 +1,6 @@
 # react Native vs . Native Android/iOS 开发:2021 年选哪个
 
-> 原文:[https://simple programmer . com/react-native-vs-Android-IOs-development/](https://simpleprogrammer.com/react-native-vs-android-ios-development/)
+> 原文：<https://simpleprogrammer.com/react-native-vs-android-ios-development/>
 
 ![react native app development](img/e9198e85434264222ee6be96ca44c7bb.png)
 

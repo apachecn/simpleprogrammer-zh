@@ -1,6 +1,6 @@
 # 初露头角的程序员如何让自己的工作受到关注
 
-> 原文:[https://simple programmer . com/budding-programmers-can-get-work-notified/](https://simpleprogrammer.com/budding-programmers-can-get-work-noticed/)
+> 原文：<https://simpleprogrammer.com/budding-programmers-can-get-work-noticed/>
 
 随着在线技术解决方案数量的增加，对程序员的需求也在不断增长。今天，为了促进信息流和工作效率，几乎每个公司都需要一个用户友好的网站、一个应用程序或一个高度优化的软件。换句话说，做一名自由开发人员从来没有像现在这样简单和有利可图。
 

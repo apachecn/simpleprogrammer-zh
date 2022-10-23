@@ -1,6 +1,6 @@
 # 应该选择哪个跨移动开发平台？
 
-> 原文:[https://simple programmer . com/跨平台-移动-开发/](https://simpleprogrammer.com/cross-platform-mobile-development/)
+> 原文：<https://simpleprogrammer.com/cross-platform-mobile-development/>
 
 我处在一个独特的位置，几乎开发过所有主要的跨平台移动开发解决方案。
 

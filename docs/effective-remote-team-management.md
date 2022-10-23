@@ -1,6 +1,6 @@
 # 有效管理远程团队的 3 个示例
 
-> 原文:[https://simple programmer . com/effective-remote-team-management/](https://simpleprogrammer.com/effective-remote-team-management/)
+> 原文：<https://simpleprogrammer.com/effective-remote-team-management/>
 
 ![remote team management](img/317b0aaec16943287549c3f58686534c.png)
 

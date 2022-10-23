@@ -1,6 +1,6 @@
 # 面向开发者的 5 分钟软件货币化入门
 
-> 原文:[https://simple programmer . com/software-monetization-for-developers/](https://simpleprogrammer.com/software-monetization-for-developers/)
+> 原文：<https://simpleprogrammer.com/software-monetization-for-developers/>
 
 对于开发者来说，软件货币化是关于增加软件的盈利能力。实现这一点的一个关键方法是建立一套许可参数，从软件中获取比传统的一次性许可费用更大的价值。
 

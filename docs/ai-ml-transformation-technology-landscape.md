@@ -1,6 +1,6 @@
 # AI 和 ML 是如何扩展技术格局的？
 
-> 原文:[https://simple programmer . com/ai-ml-transformation-technology-landscape/](https://simpleprogrammer.com/ai-ml-transformation-technology-landscape/)
+> 原文：<https://simpleprogrammer.com/ai-ml-transformation-technology-landscape/>
 
 ![](img/f3083865708a7e844185f4758ca8e801.png)
 

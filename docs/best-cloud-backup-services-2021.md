@@ -1,6 +1,6 @@
 # 2021 年最佳云备份服务
 
-> 原文:[https://simple programmer . com/best-cloud-backup-services-2021/](https://simpleprogrammer.com/best-cloud-backup-services-2021/)
+> 原文：<https://simpleprogrammer.com/best-cloud-backup-services-2021/>
 
 ![best cloud backup services](img/66044163ac8f193980d84925463783ae.png)
 

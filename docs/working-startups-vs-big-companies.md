@@ -1,6 +1,6 @@
 # 作为一名软件开发人员，在初创公司和大公司工作
 
-> 原文:[https://simple programmer . com/working-startups-vs-big-companies/](https://simpleprogrammer.com/working-startups-vs-big-companies/)
+> 原文：<https://simpleprogrammer.com/working-startups-vs-big-companies/>
 
 成为一名新的程序员意味着让你的话在那里，发送你的简历到许多不同的公司，并希望你被打电话。
 

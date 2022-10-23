@@ -1,6 +1,6 @@
 # 软件开发人员(和其他科技极客)2016 年圣诞礼物清单
 
-> 原文:[https://simple programmer . com/the-software-developer-and-other-tech-geeks-Christmas-gift-list/](https://simpleprogrammer.com/the-software-developer-and-other-tech-geeks-christmas-gift-list/)
+> 原文：<https://simpleprogrammer.com/the-software-developer-and-other-tech-geeks-christmas-gift-list/>
 
 ## **更新:[点击这里查看最新的 2020 年软件开发者礼物清单](https://simpleprogrammer.com/gifts-for-programmers/)**
 

@@ -1,6 +1,6 @@
 # 程序员如何优先考虑他们的心理健康
 
-> 原文:[https://simple programmer . com/programmers-prioritize-mental-health/](https://simpleprogrammer.com/programmers-prioritize-mental-health/)
+> 原文：<https://simpleprogrammer.com/programmers-prioritize-mental-health/>
 
 ![](img/135c9be3083f0b5622997e5defe94054.png)
 

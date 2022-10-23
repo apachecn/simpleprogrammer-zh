@@ -1,6 +1,6 @@
 # 为什么你离改变你的生活只有一步之遥。
 
-> 原文:[https://simple programmer . com/you-one-piece-content-away-changing-life/](https://simpleprogrammer.com/youre-one-piece-content-away-changing-life/)
+> 原文：<https://simpleprogrammer.com/youre-one-piece-content-away-changing-life/>
 
 你认识的每个人都是从默默无闻开始的，直到他们做了让他们出名的事情—加里·维纳查克
 

@@ -1,6 +1,6 @@
 # 学编程:应该先学什么编程语言？
 
-> 原文:[https://simple programmer . com/programming-language-should-I-learn-first/](https://simpleprogrammer.com/programming-language-should-i-learn-first/)
+> 原文：<https://simpleprogrammer.com/programming-language-should-i-learn-first/>
 
 我经常被问到学什么编程语言的问题。
 

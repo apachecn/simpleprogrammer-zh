@@ -1,6 +1,6 @@
 # 敏捷的合同谈判，不要做骗子
 
-> 原文:[https://simple programmer . com/agile-contract-negotiation-don ' t-be-a-liar/](https://simpleprogrammer.com/agile-contract-negotiation-dont-be-a-liar/)
+> 原文：<https://simpleprogrammer.com/agile-contract-negotiation-dont-be-a-liar/>
 
 我写了一篇文章，谈到你必须选择是基于特性发布还是基于时间发布，但不能两者都选。
 

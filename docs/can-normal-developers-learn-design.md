@@ -1,6 +1,6 @@
 # “普通开发者”可以学设计吗？
 
-> 原文:[https://simple programmer . com/can-normal-developers-learn-design/](https://simpleprogrammer.com/can-normal-developers-learn-design/)
+> 原文：<https://simpleprogrammer.com/can-normal-developers-learn-design/>
 
 “普通开发者”可以学设计吗？这是我经常被问到的一个常见问题:普通程序员可以学习设计吗？
 

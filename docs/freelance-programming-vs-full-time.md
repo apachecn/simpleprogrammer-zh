@@ -1,6 +1,6 @@
 # 全职 Vs 自由程序员:你是哪种类型？
 
-> 原文:[https://simple programmer . com/freelance-programming-vs . full-time/](https://simpleprogrammer.com/freelance-programming-vs-full-time/)
+> 原文：<https://simpleprogrammer.com/freelance-programming-vs-full-time/>
 
 ![](img/a1491ca450a9d7cd7496d8a30e428768.png)
 

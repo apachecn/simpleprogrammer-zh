@@ -1,6 +1,6 @@
 # 转向产品管理的 4 个原因和不转向产品管理的一个重要原因
 
-> 原文:[https://simple programmer . com/product-management-change-programmes/](https://simpleprogrammer.com/product-management-change-programmers/)
+> 原文：<https://simpleprogrammer.com/product-management-change-programmers/>
 
 ![switch to product management](img/68fdc515b7c31d966966c97356e52766.png)
 

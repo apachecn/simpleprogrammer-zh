@@ -1,6 +1,6 @@
 # 起床码 36:竞争…爱还是恨？
 
-> 原文:[https://simple programmer . com/get-code-36-competition-love-hate/](https://simpleprogrammer.com/get-code-36-competition-love-hate/)
+> 原文：<https://simpleprogrammer.com/get-code-36-competition-love-hate/>
 
 你对竞争有什么看法？
 

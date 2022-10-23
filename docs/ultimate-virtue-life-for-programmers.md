@@ -1,6 +1,6 @@
 # 生活中的终极美德(对程序员也是如此)
 
-> 原文:[https://simple programmer . com/ultimate-virtue-life-for-programmers/](https://simpleprogrammer.com/ultimate-virtue-life-for-programmers/)
+> 原文：<https://simpleprogrammer.com/ultimate-virtue-life-for-programmers/>
 
 今天我会给你们一个话题，我认为这是人生中很重要的一课，甚至适用于作为程序员的你们。
 

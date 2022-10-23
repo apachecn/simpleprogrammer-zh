@@ -1,6 +1,6 @@
 # 我被谷歌集体同化了… DROID
 
-> 原文:[https://simple programmer . com/I-am-analized-to-the-Google-collective-droid/](https://simpleprogrammer.com/i-am-assimilated-to-the-google-collective-droid/)
+> 原文：<https://simpleprogrammer.com/i-am-assimilated-to-the-google-collective-droid/>
 
 在这一点上不可否认。我是微软开发平台的忠实粉丝，也非常喜欢这个平台。NET 和 C#，[我所有的基地都属于](http://en.wikipedia.org/wiki/All_your_base_are_belong_to_us)谷歌。在使用 Window Mobile 智能手机多年后，从第一台惠普 iPAQ Pocket PC h6315 开始，最后退役了我的 HTC Fuze，我终于切换到 Android 操作系统，在[摩托罗拉 DROID](http://www.amazon.com/gp/product/B002UUTCKC?ie=UTF8&tag=makithecompsi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B002UUTCKC) 上
 

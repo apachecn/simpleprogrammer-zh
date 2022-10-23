@@ -1,6 +1,6 @@
 # 成为一名职业道德编程人员需要什么
 
-> 原文:[https://simple programmer . com/ethical-programming-professional/](https://simpleprogrammer.com/ethical-programming-professional/)
+> 原文：<https://simpleprogrammer.com/ethical-programming-professional/>
 
 ![](img/9e79f2ecd0a08883108405024e7e74e1.png)
 

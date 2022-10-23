@@ -1,6 +1,6 @@
 # 即使是有经验的开发者在 WordPress 也会犯的典型错误
 
-> 原文:[https://simple programmer . com/typical-errors-even-explored-developers-make-in-WordPress/](https://simpleprogrammer.com/typical-mistakes-even-experienced-developers-make-in-wordpress/)
+> 原文：<https://simpleprogrammer.com/typical-mistakes-even-experienced-developers-make-in-wordpress/>
 
 我们都知道并热爱 WordPress，这就是为什么它被互联网上 4.7%的网站使用。有人可能会认为，到现在为止，开发人员在这样一个巨大的平台上不会犯任何错误。其中一个是错误的。
 

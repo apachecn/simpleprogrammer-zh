@@ -1,6 +1,6 @@
 # 网络安全 Python 编程指南
 
-> 原文:[https://simple programmer . com/python-programming-for-cyber security/](https://simpleprogrammer.com/python-programming-for-cybersecurity/)
+> 原文：<https://simpleprogrammer.com/python-programming-for-cybersecurity/>
 
 网络安全是保护网络、系统和程序免受数字攻击的实践。据估计，到 2019 年，这是一个价值 1120 亿美元的行业，到 2021 年[估计有 350 万个职位空缺。](https://cybersecurityventures.com/jobs/)
 

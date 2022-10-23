@@ -1,6 +1,6 @@
 # 敏捷开发的软件解决方案基础
 
-> 原文:[https://simple programmer . com/software-solutions-agile-development/](https://simpleprogrammer.com/software-solutions-agile-development/)
+> 原文：<https://simpleprogrammer.com/software-solutions-agile-development/>
 
 与十年前相比，今天的软件工程世界已经发生了巨大的变化。
 

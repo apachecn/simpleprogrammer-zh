@@ -1,6 +1,6 @@
 # 我知道的越多，我知道的越少
 
-> 原文:[https://simple programmer . com/the-more-I-know-the-less-I-know/](https://simpleprogrammer.com/the-more-i-know-the-less-i-know/)
+> 原文：<https://simpleprogrammer.com/the-more-i-know-the-less-i-know/>
 
 作为一名软件开发人员，我曾经对自己的能力非常自信。
 

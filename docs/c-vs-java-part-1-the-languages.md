@@ -1,6 +1,6 @@
 # C#与 Java 第 1 部分:语言
 
-> 原文:[https://simple programmer . com/c-vs-Java-part-1-the-languages/](https://simpleprogrammer.com/c-vs-java-part-1-the-languages/)
+> 原文：<https://simpleprogrammer.com/c-vs-java-part-1-the-languages/>
 
 我一直在考虑这个帖子，因为我认为这是一个非常重要的话题，但我也感叹写这个话题的争议性，并担心我不会像应得的那样准确。尽管如此，我将尝试在一个由几部分组成的系列文章《C#与 Java》中讨论这个主题的部分内容。
 

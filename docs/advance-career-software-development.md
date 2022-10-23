@@ -1,6 +1,6 @@
 # 促进你软件开发职业发展的 9 个技巧
 
-> 原文:[https://simple programmer . com/advance-career-software-development/](https://simpleprogrammer.com/advance-career-software-development/)
+> 原文：<https://simpleprogrammer.com/advance-career-software-development/>
 
 ![](img/39397da66eddf22dce49d79c23acebce.png)
 

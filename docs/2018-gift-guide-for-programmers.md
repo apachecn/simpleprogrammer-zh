@@ -1,6 +1,6 @@
 # 2018 程序员送礼指南
 
-> 原文:[https://simple programmer . com/2018-gift-guide-for-programmers/](https://simpleprogrammer.com/2018-gift-guide-for-programmers/)
+> 原文：<https://simpleprogrammer.com/2018-gift-guide-for-programmers/>
 
 ## **更新:[点击这里查看最新的 2020 年软件开发者礼物清单](https://simpleprogrammer.com/gifts-for-programmers/)**
 

@@ -1,6 +1,6 @@
 # 如何从初级编程走向高级编程？
 
-> 原文:[https://simple programmer . com/move-初学者-高级-编程/](https://simpleprogrammer.com/move-beginner-advanced-programming/)
+> 原文：<https://simpleprogrammer.com/move-beginner-advanced-programming/>
 
 你是一个初学程序员。你不知道编程世界提供的所有东西，但是你知道一些东西。然而，你感觉被困住了。你感觉自己正处于想要从初级编程过渡到高级编程的阶段，但却不知道如何实现。
 

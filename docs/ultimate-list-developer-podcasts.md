@@ -1,6 +1,6 @@
 # 开发者播客的终极列表
 
-> 原文:[https://simple programmer . com/ultimate-list-developer-podcast/](https://simpleprogrammer.com/ultimate-list-developer-podcasts/)
+> 原文：<https://simpleprogrammer.com/ultimate-list-developer-podcasts/>
 
 **最后更新:2017 年 7 月 6 日**
 

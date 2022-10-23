@@ -1,6 +1,6 @@
 # 测试的正确测试用例设计——第 2 部分——边界值分析
 
-> 原文:[https://simple programmer . com/proper-test-case-design-for-testing-part-2/](https://simpleprogrammer.com/proper-test-case-design-for-testing-part-2/)
+> 原文：<https://simpleprogrammer.com/proper-test-case-design-for-testing-part-2/>
 
 本系列的第二篇文章关注于使用黑盒测试的高效测试用例设计。这些帖子的目标是让你更好地设计测试用例，这样你就可以开发更高质量的系统。深入的解释和实践练习是这些教程的核心。
 

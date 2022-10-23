@@ -1,6 +1,6 @@
 # 在你打破规则之前，你必须掌握规则
 
-> 原文:[https://simple programmer . com/you-have-to-master the-rules before you-can-break-the-rules/](https://simpleprogrammer.com/you-have-to-master-the-rules-before-you-can-break-the-rules/)
+> 原文：<https://simpleprogrammer.com/you-have-to-master-the-rules-before-you-can-break-the-rules/>
 
 我的大部分建议最终被误解了。
 

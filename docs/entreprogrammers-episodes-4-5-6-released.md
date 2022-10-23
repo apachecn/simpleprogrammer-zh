@@ -1,6 +1,6 @@
 # 更多 Entreprogrammers:第 4、5、6 集发布
 
-> 原文:[https://simple programmer . com/entre programmers-episodes-4-5-6-released/](https://simpleprogrammer.com/entreprogrammers-episodes-4-5-6-released/)
+> 原文：<https://simpleprogrammer.com/entreprogrammers-episodes-4-5-6-released/>
 
 我们还在赶 Entreprogrammers 的剧集，所以这周我们发布了 3 集新的剧集。
 

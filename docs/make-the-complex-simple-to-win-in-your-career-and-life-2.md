@@ -1,6 +1,6 @@
 # 化繁为简，赢得你的职业和生活
 
-> 原文:[https://simple programmer . com/make-the-complex-to-win-in-your-career and-life-2/](https://simpleprogrammer.com/make-the-complex-simple-to-win-in-your-career-and-life-2/)
+> 原文：<https://simpleprogrammer.com/make-the-complex-simple-to-win-in-your-career-and-life-2/>
 
 因为，在内心深处，我肯定是一个有点俗气的人，当约翰问我是否有兴趣为简单程序员写帖子时，我做的第一件事就是思考“简单程序员”这个标题对我意味着什么。更具体地说，我开始思考一句口号，“让复杂变得简单”，这句口号在我阅读约翰博客的这些年里一直伴随着我。这个简单的标语蕴含着巨大的希望。
 

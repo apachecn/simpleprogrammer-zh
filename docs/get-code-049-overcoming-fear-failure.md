@@ -1,6 +1,6 @@
 # 起床编码 049:克服对失败的恐惧
 
-> 原文:[https://simple programmer . com/get-code-049-克服恐惧-失败/](https://simpleprogrammer.com/get-code-049-overcoming-fear-failure/)
+> 原文：<https://simpleprogrammer.com/get-code-049-overcoming-fear-failure/>
 
 失败并不可怕。相反，你应该完全接受它，并认识到它是获得长期成功的唯一途径。在这一集里，我将谈论失败以及为什么你需要学会克服它。
 

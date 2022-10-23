@@ -1,6 +1,6 @@
 # 跨越现实，影响您的客户
 
-> 原文:[https://simple programmer . com/extended-reality-impact-customers/](https://simpleprogrammer.com/extended-reality-impact-customers/)
+> 原文：<https://simpleprogrammer.com/extended-reality-impact-customers/>
 
 大多数科幻电影已经在我们的大脑中种下了种子，我们将能够立即远程传输自己，就像电影《Jumper》中的主角能够通过打个响指从世界的一个地方“跳到”另一个地方。
 

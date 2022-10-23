@@ -1,6 +1,6 @@
 # 如何创建您可以信赖的简单备份解决方案
 
-> 原文:[https://simple programmer . com/create-simple-backup-solution-can-trust/](https://simpleprogrammer.com/create-simple-backup-solution-can-trust/)
+> 原文：<https://simpleprogrammer.com/create-simple-backup-solution-can-trust/>
 
 备份数据非常重要。
 

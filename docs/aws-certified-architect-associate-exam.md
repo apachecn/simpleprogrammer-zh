@@ -1,6 +1,6 @@
 # 如何通过 AWS 认证建筑师助理考试
 
-> 原文:[https://simple programmer . com/AWS-certified-architect-associate-exam/](https://simpleprogrammer.com/aws-certified-architect-associate-exam/)
+> 原文：<https://simpleprogrammer.com/aws-certified-architect-associate-exam/>
 
 > ![AWS Certified Architect Associate Exam](img/a0a1f1a6666b73d0f2a4f15c6f328fe1.png)
 > 

@@ -1,6 +1,6 @@
 # 编程工作——现实与期望
 
-> 原文:[https://simple programmer . com/programming-job-reality-vs-expectations/](https://simpleprogrammer.com/programming-job-reality-vs-expectations/)
+> 原文：<https://simpleprogrammer.com/programming-job-reality-vs-expectations/>
 
 现实中的编程可能与其预期大相径庭。当涉及到编程工作时，这些差异会更加引人注目！#编程#编程工作#编程期望
 

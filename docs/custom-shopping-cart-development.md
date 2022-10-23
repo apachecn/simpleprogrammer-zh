@@ -1,6 +1,6 @@
 # 定制购物车开发:好处、提示和关键考虑
 
-> 原文:[https://simple programmer . com/custom-shopping-cart-development/](https://simpleprogrammer.com/custom-shopping-cart-development/)
+> 原文：<https://simpleprogrammer.com/custom-shopping-cart-development/>
 
 <figure class="alignright is-resized">
 

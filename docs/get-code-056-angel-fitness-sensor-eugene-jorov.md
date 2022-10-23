@@ -1,6 +1,6 @@
 # 起床和代码 056:天使健康传感器与尤金乔罗夫
 
-> 原文:[https://simple programmer . com/get-code-056-angel-fitness-sensor-Eugene-jorov/](https://simpleprogrammer.com/get-code-056-angel-fitness-sensor-eugene-jorov/)
+> 原文：<https://simpleprogrammer.com/get-code-056-angel-fitness-sensor-eugene-jorov/>
 
 我非常兴奋能够与天使可穿戴设备的共同创造者之一交谈。我对这款产品感到非常兴奋，因为它能够监测心率和氧气水平。
 看看下面这一集。

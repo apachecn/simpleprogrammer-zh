@@ -1,6 +1,6 @@
 # 每个独立开发者都应该避免的基本错误
 
-> 原文:[https://simple programmer . com/fundamental-errors-indie-developer/](https://simpleprogrammer.com/fundamental-mistakes-indie-developer/)
+> 原文：<https://simpleprogrammer.com/fundamental-mistakes-indie-developer/>
 
 作为一名业余独立游戏开发者很有趣。你有机会用你自己的逻辑和想象力来决定这个世界的规则，你将把你的潜在用户带入这个世界。
 

@@ -1,6 +1,6 @@
 # 软件开发人员在工作中做什么？
 
-> 原文:[https://simple programmer . com/what-software-developers-do-at-work/](https://simpleprogrammer.com/what-software-developers-do-at-work/)
+> 原文：<https://simpleprogrammer.com/what-software-developers-do-at-work/>
 
 真实的故事。
 

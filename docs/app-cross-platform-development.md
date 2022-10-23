@@ -1,6 +1,6 @@
 # 5 个跨平台应用开发框架将在 2021 年占据主导地位
 
-> 原文:[https://simple programmer . com/app-跨平台-开发/](https://simpleprogrammer.com/app-cross-platform-development/)
+> 原文：<https://simpleprogrammer.com/app-cross-platform-development/>
 
 跨平台应用程序开发已经成为最热门的应用程序开发趋势之一，这是有充分理由的:随着像 Flutter 和 React Native 这样的平台在很大程度上得到开发，跨平台应用程序开发意味着在时间和精力以及金钱方面的重要节省。
 

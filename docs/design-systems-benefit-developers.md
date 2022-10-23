@@ -1,6 +1,6 @@
 # 设计系统如何让开发者受益
 
-> 原文:[https://simple programmer . com/design-systems-benefit-developers/](https://simpleprogrammer.com/design-systems-benefit-developers/)
+> 原文：<https://simpleprogrammer.com/design-systems-benefit-developers/>
 
 ![](img/ff94946514d58d268bda3abdde744b83.png)
 

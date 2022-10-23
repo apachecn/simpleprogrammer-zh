@@ -1,6 +1,6 @@
 # 如何解决软件开发速度的挑战
 
-> 原文:[https://simple programmer . com/软件-开发-速度-挑战/](https://simpleprogrammer.com/software-development-speed-challenge/)
+> 原文：<https://simpleprogrammer.com/software-development-speed-challenge/>
 
 ![](img/7633c92faa4e961505bee1c706867e1b.png)
 

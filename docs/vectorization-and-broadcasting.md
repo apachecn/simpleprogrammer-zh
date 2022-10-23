@@ -1,6 +1,6 @@
 # 数据科学基础:矢量化和广播
 
-> 原文:[https://simple programmer . com/矢量化广播/](https://simpleprogrammer.com/vectorization-and-broadcasting/)
+> 原文：<https://simpleprogrammer.com/vectorization-and-broadcasting/>
 
 <figure class="alignright is-resized">
 

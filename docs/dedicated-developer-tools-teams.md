@@ -1,6 +1,6 @@
 # 专门的开发人员工具团队
 
-> 原文:[https://simple programmer . com/dedicated-developer-tools-teams/](https://simpleprogrammer.com/dedicated-developer-tools-teams/)
+> 原文：<https://simpleprogrammer.com/dedicated-developer-tools-teams/>
 
 **每个大型团队都需要一个开发工具团队**
 

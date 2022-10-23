@@ -1,6 +1,6 @@
 # 所有程序员都应该遵守的 11 条规则
 
-> 原文:[https://simple programmer . com/11-rules-all-programmers-should-live-by/](https://simpleprogrammer.com/11-rules-all-programmers-should-live-by/)
+> 原文：<https://simpleprogrammer.com/11-rules-all-programmers-should-live-by/>
 
 我是一个倾向于按规则生活的人。
 

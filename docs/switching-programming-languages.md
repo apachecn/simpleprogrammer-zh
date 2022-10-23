@@ -1,6 +1,6 @@
 # 从一种编程语言切换到另一种编程语言:灵活性的好处
 
-> 原文:[https://simple programmer . com/switching-programming-languages/](https://simpleprogrammer.com/switching-programming-languages/)
+> 原文：<https://simpleprogrammer.com/switching-programming-languages/>
 
 <figure class="alignright is-resized">
 

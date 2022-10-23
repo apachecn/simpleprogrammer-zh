@@ -1,6 +1,6 @@
 # 让你成为不可阻挡的程序员的行为
 
-> 原文:[https://simple programmer . com/unstopped-programmer-behaviors/](https://simpleprogrammer.com/unstoppable-programmer-behaviors/)
+> 原文：<https://simpleprogrammer.com/unstoppable-programmer-behaviors/>
 
 <figure class="alignright is-resized">
 

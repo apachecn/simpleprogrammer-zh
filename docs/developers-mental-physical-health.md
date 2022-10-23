@@ -1,6 +1,6 @@
 # 作为软件开发人员保持健康的 7 个技巧
 
-> 原文:[https://simple programmer . com/developers-mental-physical-health/](https://simpleprogrammer.com/developers-mental-physical-health/)
+> 原文：<https://simpleprogrammer.com/developers-mental-physical-health/>
 
 ![](img/9a47dbb0ac0d9c95ed5abcaf168e25e7.png)
 

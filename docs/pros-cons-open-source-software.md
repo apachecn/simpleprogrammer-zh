@@ -1,6 +1,6 @@
 # 开源软件的利与弊
 
-> 原文:[https://simple programmer . com/pros-consens-open-source-software/](https://simpleprogrammer.com/pros-cons-open-source-software/)
+> 原文：<https://simpleprogrammer.com/pros-cons-open-source-software/>
 
 ![open-source software](img/2d95394bbdc83a373304c52626e930cd.png)
 

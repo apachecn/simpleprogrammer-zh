@@ -1,6 +1,6 @@
 # 软件开发人员的工作保障
 
-> 原文:[https://simple programmer . com/job-security-software-developers/](https://simpleprogrammer.com/job-security-software-developers/)
+> 原文：<https://simpleprogrammer.com/job-security-software-developers/>
 
 跟我重复:
 

@@ -1,6 +1,6 @@
 # 你需要知道一种以上的语言吗？
 
-> 原文:[https://simple programmer . com/do-you-need-to-know-over-a-language/](https://simpleprogrammer.com/do-you-need-to-know-more-than-one-language/)
+> 原文：<https://simpleprogrammer.com/do-you-need-to-know-more-than-one-language/>
 
 我刚刚自杀了。嗯，我是这么听说的。
 

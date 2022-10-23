@@ -1,6 +1,6 @@
 # 互联网的历史:第四部分——回到前面的路
 
-> 原文:[https://simple programmer . com/history-of-the-internet-part-4/](https://simpleprogrammer.com/history-of-the-internet-part-4/)
+> 原文：<https://simpleprogrammer.com/history-of-the-internet-part-4/>
 
 欢迎来到我们穿越时空之旅的第四部分，了解互联网是如何发展的，并记住它对我们生活的影响。
 

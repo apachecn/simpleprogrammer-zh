@@ -1,6 +1,6 @@
 # 最合适的解决方案选择模式
 
-> 原文:[https://simple programmer . com/appropriate-solution-selection-pattern/](https://simpleprogrammer.com/appropriate-solution-selection-pattern/)
+> 原文：<https://simpleprogrammer.com/appropriate-solution-selection-pattern/>
 
 ## 什么是软技能模式？
 

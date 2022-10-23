@@ -1,6 +1,6 @@
 # 作为软件开发人员，战胜失败的 5 种方法:化失败为成功
 
-> 原文:[https://simple programmer . com/defeat-failure-software-developer/](https://simpleprogrammer.com/defeat-failure-software-developer/)
+> 原文：<https://simpleprogrammer.com/defeat-failure-software-developer/>
 
 ![defeat failure software developer](img/2c0434e2def484d0eb780a1be9febc6f.png)
 

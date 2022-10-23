@@ -1,6 +1,6 @@
 # 物联网应用开发过程中应遵循的步骤——其最终商业价值
 
-> 原文:[https://simple programmer . com/steps-to-follow-IOT-app-development/](https://simpleprogrammer.com/steps-to-follow-iot-app-development/)
+> 原文：<https://simpleprogrammer.com/steps-to-follow-iot-app-development/>
 
 ![](img/7f9c869b7d9949906ee96826f54905ef.png)
 

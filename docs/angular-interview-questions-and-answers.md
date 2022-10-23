@@ -1,6 +1,6 @@
 # 15 大角度面试问答
 
-> 原文:[https://simple programmer . com/angular-interview-questions-and-answers/](https://simpleprogrammer.com/angular-interview-questions-and-answers/)
+> 原文：<https://simpleprogrammer.com/angular-interview-questions-and-answers/>
 
 ![](img/062038f9ac9d019d014644bb87b75fc0.png)
 

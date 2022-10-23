@@ -1,6 +1,6 @@
 # 软件开发人员网络指南
 
-> 原文:[https://simple programmer . com/software-developers-networking/](https://simpleprogrammer.com/software-developers-networking/)
+> 原文：<https://simpleprogrammer.com/software-developers-networking/>
 
 我必须对你完全诚实。
 

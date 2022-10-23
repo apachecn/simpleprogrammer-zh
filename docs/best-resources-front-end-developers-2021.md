@@ -1,6 +1,6 @@
 # 2021 年前端开发人员的最佳资源
 
-> 原文:[https://simple programmer . com/best-resources-front-end-developers-2021/](https://simpleprogrammer.com/best-resources-front-end-developers-2021/)
+> 原文：<https://simpleprogrammer.com/best-resources-front-end-developers-2021/>
 
 ![](img/4775008d8a41f9b57c6461a9e08f890e.png)
 

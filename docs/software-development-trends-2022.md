@@ -1,6 +1,6 @@
 # 2022 年值得关注的十大软件发展趋势
 
-> 原文:[https://simple programmer . com/software-development-trends-2022/](https://simpleprogrammer.com/software-development-trends-2022/)
+> 原文：<https://simpleprogrammer.com/software-development-trends-2022/>
 
 ![software development trends 2022](img/9cfeec153ba89cb8dc2bbb61dce9948f.png)
 

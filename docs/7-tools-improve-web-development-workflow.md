@@ -1,6 +1,6 @@
 # 改善 Web 开发工作流程的 7 大工具
 
-> 原文:[https://simple programmer . com/7-tools-improve-we B- development-workflow/](https://simpleprogrammer.com/7-tools-improve-web-development-workflow/)
+> 原文：<https://simpleprogrammer.com/7-tools-improve-web-development-workflow/>
 
 ![web development tools](img/5e5c8c4b8753d5d2133baa037b17da32.png)
 

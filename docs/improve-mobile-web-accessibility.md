@@ -1,6 +1,6 @@
 # 如何提高移动网页的可访问性
 
-> 原文:[https://simple programmer . com/improve-mobile-we B- accessibility/](https://simpleprogrammer.com/improve-mobile-web-accessibility/)
+> 原文：<https://simpleprogrammer.com/improve-mobile-web-accessibility/>
 
 全球有超过 10 亿人患有某种形式的残疾。例如，根据世卫组织(世界卫生组织)的一份报告，大约有 2 . 85 亿人患有视觉障碍。有了这么多的残疾人，[移动网络](https://simpleprogrammer.com/2012/04/23/predicting-the-mobile-future/)变得更容易被残疾人使用是很重要的。
 

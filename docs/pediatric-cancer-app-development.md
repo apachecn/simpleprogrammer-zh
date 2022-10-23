@@ -1,6 +1,6 @@
 # 开发儿童友好型癌症应用程序的 4 个技巧
 
-> 原文:[https://simple programmer . com/pediatric-cancer-app-development/](https://simpleprogrammer.com/pediatric-cancer-app-development/)
+> 原文：<https://simpleprogrammer.com/pediatric-cancer-app-development/>
 
 ![pediatric cancer app development](img/e5c59cec3413ec1db26a35a6002fa9b0.png)
 

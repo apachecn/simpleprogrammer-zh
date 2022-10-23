@@ -1,6 +1,6 @@
 # 2017 年要学习的顶级编程语言
 
-> 原文:[https://simple programmer . com/top-programming-languages-learn-2017/](https://simpleprogrammer.com/top-programming-languages-learn-2017/)
+> 原文：<https://simpleprogrammer.com/top-programming-languages-learn-2017/>
 
 很多人问我他们应该学习什么编程语言。我发现自己处于困境，因为这是一个很难回答的问题。在做决定之前，有很多事情需要考虑，尤其是当涉及到你应该学习哪种编程语言时。
 

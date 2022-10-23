@@ -1,6 +1,6 @@
 # 了解垂直切片
 
-> 原文:[https://simple programmer . com/understanding-the-vertical-slice/](https://simpleprogrammer.com/understanding-the-vertical-slice/)
+> 原文：<https://simpleprogrammer.com/understanding-the-vertical-slice/>
 
 分解积压工作的最大挑战之一是知道如何将工作从积压工作中分割成大小合适的部分。
 

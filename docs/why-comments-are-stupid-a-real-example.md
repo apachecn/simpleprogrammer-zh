@@ -1,6 +1,6 @@
 # 为什么评论很蠢，一个真实的例子
 
-> 原文:[https://simple programmer . com/why-comments-is-blind-a-real-example/](https://simpleprogrammer.com/why-comments-are-stupid-a-real-example/)
+> 原文：<https://simpleprogrammer.com/why-comments-are-stupid-a-real-example/>
 
 似乎没有什么比我[写一篇帖子](https://simpleprogrammer.com/2015/03/16/11-rules-all-programmers-should-live-by/)或做一个 [YouTube 视频](https://www.youtube.com/watch?v=ErW6fEvulAc)更能激起**宗教辩论**的了，这些视频提到大多数时候评论是不必要的，实际上是弊大于利。
 

@@ -1,6 +1,6 @@
 # 个人责任和成功之路
 
-> 原文:[https://simple programmer . com/personal-respons ibility-road-success/](https://simpleprogrammer.com/personal-responsibility-road-success/)
+> 原文：<https://simpleprogrammer.com/personal-responsibility-road-success/>
 
 个人责任在成功的道路上是否起到了一些作用？
 

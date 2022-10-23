@@ -1,6 +1,6 @@
 # 什么是业务流程建模符号(BPMN ),它将如何使你的下一个编程项目受益？
 
-> 原文:[https://simple programmer . com/business-process-modeling-notation/](https://simpleprogrammer.com/business-process-modeling-notation/)
+> 原文：<https://simpleprogrammer.com/business-process-modeling-notation/>
 
 ![business process modeling notation](img/f158479e4544c431a30071315fc17c54.png)
 

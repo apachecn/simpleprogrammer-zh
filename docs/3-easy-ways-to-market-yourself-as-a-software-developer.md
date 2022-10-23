@@ -1,6 +1,6 @@
 # 作为软件开发人员推销自己的 3 种简单方法
 
-> 原文:[https://simple programmer . com/3-easy-ways-to-market-yourself-as-a-a-a-software-developer/](https://simpleprogrammer.com/3-easy-ways-to-market-yourself-as-a-software-developer/)
+> 原文：<https://simpleprogrammer.com/3-easy-ways-to-market-yourself-as-a-software-developer/>
 
 你想得到一份更好的工作吗？
 

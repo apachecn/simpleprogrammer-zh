@@ -1,6 +1,6 @@
 # 不要沉迷于设计模式
 
-> 原文:[https://simple programmer . com/don-get-obtained-design-patterns/](https://simpleprogrammer.com/dont-get-obsessed-design-patterns/)
+> 原文：<https://simpleprogrammer.com/dont-get-obsessed-design-patterns/>
 
 正确使用时，设计模式可以成为我们最好的盟友。
 

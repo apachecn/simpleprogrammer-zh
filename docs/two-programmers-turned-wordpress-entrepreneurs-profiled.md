@@ -1,6 +1,6 @@
 # 两个程序员成为 WordPress 的企业家
 
-> 原文:[https://simple programmer . com/two-programmers-turned-WordPress-entrepreneurs-profiled/](https://simpleprogrammer.com/two-programmers-turned-wordpress-entrepreneurs-profiled/)
+> 原文：<https://simpleprogrammer.com/two-programmers-turned-wordpress-entrepreneurs-profiled/>
 
 自从我开设了“[如何创建一个博客来促进你的职业发展](http://devcareerboost.com/blog-course/)”课程以来，我已经参与了 WordPress 社区相当一段时间。
 

@@ -1,6 +1,6 @@
 # 移动 UX 设计的最佳实践
 
-> 原文:[https://simple programmer . com/best-practices-mobile-UX-designs/](https://simpleprogrammer.com/best-practices-mobile-ux-designs/)
+> 原文：<https://simpleprogrammer.com/best-practices-mobile-ux-designs/>
 
 ![mobile ux design](img/6139b2e505e67fb5ccb1bdb500caf7fe.png)
 

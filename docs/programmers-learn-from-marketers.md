@@ -1,6 +1,6 @@
 # 程序员可以从营销人员那里学到更有效的 4 件事
 
-> 原文:[https://simple programmer . com/programmers-向营销人员学习/](https://simpleprogrammer.com/programmers-learn-from-marketers/)
+> 原文：<https://simpleprogrammer.com/programmers-learn-from-marketers/>
 
 ![programmers learn from marketers](img/b9f5f3140e9ba12a381fa594f2c09b73.png)
 

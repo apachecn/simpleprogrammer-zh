@@ -1,6 +1,6 @@
 # 如何在老板面前自信
 
-> 原文:[https://simple programmer . com/how-to-be confident-around-your-boss/](https://simpleprogrammer.com/how-to-be-confident-around-your-boss/)
+> 原文：<https://simpleprogrammer.com/how-to-be-confident-around-your-boss/>
 
 “那么，那个设计怎么样了？”
 

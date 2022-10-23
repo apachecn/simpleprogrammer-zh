@@ -1,6 +1,6 @@
 # 软件开发如何入门？
 
-> 原文:[https://simple programmer . com/get-started-software-development-2/](https://simpleprogrammer.com/get-started-software-development-2/)
+> 原文：<https://simpleprogrammer.com/get-started-software-development-2/>
 
 我知道我经常被问到这个问题。日复一日，新的有抱负的程序员进入劳动力市场。来自世界各地的人，主要是来自不同领域的人，都希望成为或学习编程。
 

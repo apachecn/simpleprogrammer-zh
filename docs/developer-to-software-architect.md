@@ -1,6 +1,6 @@
 # 我如何从开发人员过渡到软件架构师
 
-> 原文:[https://simple programmer . com/开发者到软件架构师/](https://simpleprogrammer.com/developer-to-software-architect/)
+> 原文：<https://simpleprogrammer.com/developer-to-software-architect/>
 
 ![software architect](img/e9884df7a812a351ce46c0822c05fb14.png)
 

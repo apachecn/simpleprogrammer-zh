@@ -1,6 +1,6 @@
 # 程序员的企业教育:如何使其有效
 
-> 原文:[https://simple programmer . com/corporate-education-for-programmers/](https://simpleprogrammer.com/corporate-education-for-programmers/)
+> 原文：<https://simpleprogrammer.com/corporate-education-for-programmers/>
 
 ![corporate education for programmers](img/0748f4388b2f6eb8c1953794944b6651.png)
 

@@ -1,6 +1,6 @@
 # 雷纳德·阿道夫将喜剧与科技结合在一起
 
-> 原文:[https://simple programmer . com/reyna LD-Adolphe-is-mixing-comedy-with-tech/](https://simpleprogrammer.com/reynald-adolphe-is-mixing-comedy-with-tech/)
+> 原文：<https://simpleprogrammer.com/reynald-adolphe-is-mixing-comedy-with-tech/>
 
 我一直想和雷纳德·阿道夫谈谈，因为他正在做一些有趣的事情。我知道这会是不同的事情，我非常感谢他接受了采访。
 

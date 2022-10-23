@@ -1,6 +1,6 @@
 # 找网络安全工作需要知道的 5 种编程语言
 
-> 原文:[https://simple programmer . com/cyber security-programming-languages/](https://simpleprogrammer.com/cybersecurity-programming-languages/)
+> 原文：<https://simpleprogrammer.com/cybersecurity-programming-languages/>
 
 ![cybersecurity programming languages](img/dc57a9376169033f7a2cba4a71845582.png)
 

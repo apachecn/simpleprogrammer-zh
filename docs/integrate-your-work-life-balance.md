@@ -1,6 +1,6 @@
 # 如何整合你的工作和生活以避免倦怠
 
-> 原文:[https://simple programmer . com/integrate-your-work-life-balance/](https://simpleprogrammer.com/integrate-your-work-life-balance/)
+> 原文：<https://simpleprogrammer.com/integrate-your-work-life-balance/>
 
 ![work-life balance](img/ebee5ab018cc8a2b7b50624087882c52.png)
 

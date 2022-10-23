@@ -1,6 +1,6 @@
 # 如何让你的软件文档兼容 Web 3
 
-> 原文:[https://simple programmer . com/software-documentation-compatible-we B- 3/](https://simpleprogrammer.com/software-documentation-compatible-web-3/)
+> 原文：<https://simpleprogrammer.com/software-documentation-compatible-web-3/>
 
 ![software documentation web 3](img/f38b2fa3f88439d11118027149061adb.png)
 

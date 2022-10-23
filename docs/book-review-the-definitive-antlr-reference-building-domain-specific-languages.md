@@ -1,6 +1,6 @@
 # 书评:权威的 Antlr 参考:构建特定领域语言
 
-> 原文:[https://simple programmer . com/book-review-the-definitive-antlr-reference-building-domain-specific-languages/](https://simpleprogrammer.com/book-review-the-definitive-antlr-reference-building-domain-specific-languages/)
+> 原文：<https://simpleprogrammer.com/book-review-the-definitive-antlr-reference-building-domain-specific-languages/>
 
 
 

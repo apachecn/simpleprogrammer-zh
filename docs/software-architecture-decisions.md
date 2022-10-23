@@ -1,6 +1,6 @@
 # 软件开发团队中的架构决策
 
-> 原文:[https://simple programmer . com/software-architecture-decisions/](https://simpleprogrammer.com/software-architecture-decisions/)
+> 原文：<https://simpleprogrammer.com/software-architecture-decisions/>
 
 ![](img/0dedd15b6f179e555e873cadf86c3791.png)
 

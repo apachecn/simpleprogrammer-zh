@@ -1,6 +1,6 @@
 # 机器人先生:黑客、工具和赛博朋克
 
-> 原文:[https://simple programmer . com/Mr-robot-hacking-tools-and-cyber punk/](https://simpleprogrammer.com/mr-robot-hacking-tools-and-cyberpunk/)
+> 原文：<https://simpleprogrammer.com/mr-robot-hacking-tools-and-cyberpunk/>
 
 自从黑客在 80 年代被引入以来，好莱坞已经设法不断地歪曲他们。他们被描绘成坐在电脑前快速打字的反社会天才。
 

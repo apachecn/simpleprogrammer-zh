@@ -1,6 +1,6 @@
 # 移动应用程序开发流程:分步指南[2022]
 
-> 原文:[https://simple programmer . com/mobile-app-development-process-guide-2022/](https://simpleprogrammer.com/mobile-app-development-process-guide-2022/)
+> 原文：<https://simpleprogrammer.com/mobile-app-development-process-guide-2022/>
 
 ![](img/09d9d9fa81e3612faf69c66032546627.png)
 

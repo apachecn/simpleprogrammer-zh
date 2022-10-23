@@ -1,6 +1,6 @@
 # 你所知道的关于如何变得有说服力的一切可能都是错的
 
-> 原文:[https://simple programmer . com/everything-know-impulsive-may-wrong/](https://simpleprogrammer.com/everything-know-persuasive-might-wrong/)
+> 原文：<https://simpleprogrammer.com/everything-know-persuasive-might-wrong/>
 
 他们说生活中的一切都是买卖。
 

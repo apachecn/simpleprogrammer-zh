@@ -1,6 +1,6 @@
 # 互联网的历史:第十三部分 iPhone 的救赎
 
-> 原文:[https://simple programmer . com/history-internet-13-批评 iphone/](https://simpleprogrammer.com/history-internet-13-criticism-of-the-iphone/)
+> 原文：<https://simpleprogrammer.com/history-internet-13-criticism-of-the-iphone/>
 
 在第 12 部分中，我们报道了直到 2007 年初第一代 iPhone 的发展故事。此时，苹果公司首席执行官史蒂夫·乔布斯即将发布 iPhone，但开发工作仍在疯狂进行，该设备尚未接近完成。
 

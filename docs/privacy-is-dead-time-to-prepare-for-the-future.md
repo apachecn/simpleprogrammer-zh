@@ -1,6 +1,6 @@
 # 隐私已死，是时候为未来做准备了
 
-> 原文:[https://simple programmer . com/privacy-is-dead-time-to-prepare-for-the-future/](https://simpleprogrammer.com/privacy-is-dead-time-to-prepare-for-the-future/)
+> 原文：<https://simpleprogrammer.com/privacy-is-dead-time-to-prepare-for-the-future/>
 
 个人隐私结束了。
 

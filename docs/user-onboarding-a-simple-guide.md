@@ -1,6 +1,6 @@
 # 用户入门:创建用户入门流程的简单指南
 
-> 原文:[https://simple programmer . com/user-on boarding-a-simple-guide/](https://simpleprogrammer.com/user-onboarding-a-simple-guide/)
+> 原文：<https://simpleprogrammer.com/user-onboarding-a-simple-guide/>
 
 ![user onboarding](img/a251b6adce0c3751cab5b609195632ed.png)
 

@@ -1,6 +1,6 @@
 # 五大在线编码认证(2018 年更新)
 
-> 原文:[https://simple programmer . com/top-5-online-coding-certificates/](https://simpleprogrammer.com/top-5-online-coding-certifications/)
+> 原文：<https://simpleprogrammer.com/top-5-online-coding-certifications/>
 
 无论你是选择特定语言的证书还是面向平台的证书，都值得看看我为软件开发人员提供的五大在线编码认证。
 

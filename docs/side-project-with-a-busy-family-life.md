@@ -1,6 +1,6 @@
 # 作为一个家庭生活繁忙的开发者，如何打造一个副业项目
 
-> 原文:[https://simple programmer . com/side-project-with-a-busy-family-life/](https://simpleprogrammer.com/side-project-with-a-busy-family-life/)
+> 原文：<https://simpleprogrammer.com/side-project-with-a-busy-family-life/>
 
 毫无疑问:作为一名程序员从事兼职项目总是一件好事。但这并不意味着，将编写下一个应用程序或 SaaS 项目这样的副业嵌入到有配偶、孩子和日常工作的繁忙生活中会很容易。
 

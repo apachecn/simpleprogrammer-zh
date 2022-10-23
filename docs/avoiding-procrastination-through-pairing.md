@@ -1,6 +1,6 @@
 # 通过配对避免拖延
 
-> 原文:[https://simple programmer . com/通过配对避免拖延/](https://simpleprogrammer.com/avoiding-procrastination-through-pairing/)
+> 原文：<https://simpleprogrammer.com/avoiding-procrastination-through-pairing/>
 
 你有没有遇到过这样的情况:解决一个问题却碰上了一个路障，让你陷入困境，不知道下一步该做什么？
 

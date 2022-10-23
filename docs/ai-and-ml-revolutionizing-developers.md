@@ -1,6 +1,6 @@
 # AI 和 ML 是如何彻底改变开发者的世界的？
 
-> 原文:[https://simple programmer . com/ai-and-ml-revolutionary-developers/](https://simpleprogrammer.com/ai-and-ml-revolutionizing-developers/)
+> 原文：<https://simpleprogrammer.com/ai-and-ml-revolutionizing-developers/>
 
 ![AI and ML](img/b23c58a714323a1bd7b1d173954e11a7.png)
 

@@ -1,6 +1,6 @@
 # 109 个可怕的编码面试问题的解答
 
-> 原文:[https://simple programmer . com/programming-interview-questions/](https://simpleprogrammer.com/programming-interview-questions/)
+> 原文：<https://simpleprogrammer.com/programming-interview-questions/>
 
 ![Programming Interview Questions](img/1ccd0a60a4722b6eb4590fdfc55c5133.png)
 

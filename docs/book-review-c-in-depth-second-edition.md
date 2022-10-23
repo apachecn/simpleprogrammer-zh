@@ -1,6 +1,6 @@
 # 书评:C#深度第二版
 
-> 原文:[https://simple programmer . com/book-review-c-in-depth-second-edition/](https://simpleprogrammer.com/book-review-c-in-depth-second-edition/)
+> 原文：<https://simpleprogrammer.com/book-review-c-in-depth-second-edition/>
 
 最近很忙，所以我没有读太多书，但是我刚刚读完乔恩·斯基特的《T2》C #深度第二版。
 

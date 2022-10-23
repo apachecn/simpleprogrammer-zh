@@ -1,6 +1,6 @@
 # 不负责任的创业心态
 
-> 原文:[https://simple programmer . com/responsible-startup-mentality/](https://simpleprogrammer.com/irresponsible-startup-mentality/)
+> 原文：<https://simpleprogrammer.com/irresponsible-startup-mentality/>
 
 **什么是创业心态？**
 

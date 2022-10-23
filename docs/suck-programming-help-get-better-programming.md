@@ -1,6 +1,6 @@
 # 我不擅长编程…帮帮我！(如何更好地学习编程)
 
-> 原文:[https://simple programmer . com/suck-programming-help-get-better-programming/](https://simpleprogrammer.com/suck-programming-help-get-better-programming/)
+> 原文：<https://simpleprogrammer.com/suck-programming-help-get-better-programming/>
 
 我不擅长编程…帮帮我！
 

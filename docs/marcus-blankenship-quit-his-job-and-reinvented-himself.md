@@ -1,6 +1,6 @@
 # 马库斯·布兰肯希普辞去了工作，彻底改造了自己
 
-> 原文:[https://simple programmer . com/Marcus-blankenship-quit-the-your-job-and-reinvested-self/](https://simpleprogrammer.com/marcus-blankenship-quit-his-job-and-reinvented-himself/)
+> 原文：<https://simpleprogrammer.com/marcus-blankenship-quit-his-job-and-reinvented-himself/>
 
 当马库斯·布兰肯希普(Marcus Blankenship)联系我，询问有关离职和成功的采访时，我知道我必须分享这份采访。
 

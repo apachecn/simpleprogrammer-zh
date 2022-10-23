@@ -1,6 +1,6 @@
 # 埃里克·格罗斯正在教人们如何编码
 
-> 原文:[https://simple programmer . com/Erik-gross-is-teaching-people-how-to-code/](https://simpleprogrammer.com/erik-gross-is-teaching-people-how-to-code/)
+> 原文：<https://simpleprogrammer.com/erik-gross-is-teaching-people-how-to-code/>
 
 开发者训练营是当今非常热门的话题。
 

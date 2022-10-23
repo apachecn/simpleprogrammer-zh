@@ -1,6 +1,6 @@
 # 软件开发人员提高评估能力的 5 种方法
 
-> 原文:[https://simple programmer . com/5-ways-software-developers-can-be-better-estimation/](https://simpleprogrammer.com/5-ways-software-developers-can-become-better-estimation/)
+> 原文：<https://simpleprogrammer.com/5-ways-software-developers-can-become-better-estimation/>
 
 在我的上一篇文章中，我详细列出了软件开发人员评估能力差的四个最大原因，但是我没有谈到如何解决我提出的任何问题。
 

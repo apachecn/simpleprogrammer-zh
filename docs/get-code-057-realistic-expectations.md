@@ -1,6 +1,6 @@
 # 起床编码 057:现实的期望
 
-> 原文:[https://simple programmer . com/get-code-057-reality-expectations/](https://simpleprogrammer.com/get-code-057-realistic-expectations/)
+> 原文：<https://simpleprogrammer.com/get-code-057-realistic-expectations/>
 
 你对自己体质和健身水平的预期有多现实？
 

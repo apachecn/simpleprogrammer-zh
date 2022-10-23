@@ -1,6 +1,6 @@
 # 信息架构——开发者学习设计的秘密秘籍
 
-> 原文:[https://simple programmer . com/information-architecture-developer-learning-design/](https://simpleprogrammer.com/information-architecture-developers-learning-design/)
+> 原文：<https://simpleprogrammer.com/information-architecture-developers-learning-design/>
 
 ![information architecture](img/5fdaa8efbf3d84caf1a97fdc728c9993.png)
 

@@ -1,6 +1,6 @@
 # 作为一名软件开发人员，你需要具备的技术技能
 
-> 原文:[https://simple programmer . com/technical-skills-software-developer/](https://simpleprogrammer.com/technical-skills-software-developer/)
+> 原文：<https://simpleprogrammer.com/technical-skills-software-developer/>
 
 在本帖中，我们将讨论成为软件开发人员或软件工程师所需的技术技能。
 

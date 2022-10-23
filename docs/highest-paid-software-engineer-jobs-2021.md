@@ -1,6 +1,6 @@
 # 2021 年收入最高的 10 个软件工程师职位
 
-> 原文:[https://simple programmer . com/高薪软件工程师乔布斯 2021/](https://simpleprogrammer.com/highest-paid-software-engineer-jobs-2021/)
+> 原文：<https://simpleprogrammer.com/highest-paid-software-engineer-jobs-2021/>
 
 根据 [Indeed 报告](https://www.indeed.com/career/software-engineer/salaries)显示，美国平均[软件开发费率](https://youteam.io/blog/offshore-developers-rates-in-2020-best-countries-and-best-platforms-to-hire-a-remote-development-team/)为每年 110539 美元。
 

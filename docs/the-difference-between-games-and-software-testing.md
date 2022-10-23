@@ -1,6 +1,6 @@
 # 游戏和软件测试的区别
 
-> 原文:[https://simple programmer . com/the-difference-between-games-and-software-testing/](https://simpleprogrammer.com/the-difference-between-games-and-software-testing/)
+> 原文：<https://simpleprogrammer.com/the-difference-between-games-and-software-testing/>
 
 当我经历从游戏测试员到软件测试员的转变过程时，我在上面找不到任何材料。
 

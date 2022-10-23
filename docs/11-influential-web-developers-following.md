@@ -1,6 +1,6 @@
 # 你应该关注的 11 位有影响力的网络开发者
 
-> 原文:[https://simple programmer . com/11-impressive-web-developers-following/](https://simpleprogrammer.com/11-influential-web-developers-following/)
+> 原文：<https://simpleprogrammer.com/11-influential-web-developers-following/>
 
 > “世上没有‘白手起家’的人。我们是由成千上万的其他人组成的。每一个曾经为我们做过一件好事的人，或者对我们说过一句鼓励的话的人，都已经融入了我们的性格和思想，以及我们的成功。”
 

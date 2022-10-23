@@ -1,6 +1,6 @@
 # 如何在敏捷环境中使用测试指标
 
-> 原文:[https://simple programmer . com/testing-metrics-agile-environment/](https://simpleprogrammer.com/testing-metrics-agile-environment/)
+> 原文：<https://simpleprogrammer.com/testing-metrics-agile-environment/>
 
 敏捷项目管理方法背后的思想是鼓励集成团队之间的协作、透明和对反馈的响应。敏捷软件开发意味着经常使用敏捷宣言中概述的一套原则来开发高质量的工作软件。
 

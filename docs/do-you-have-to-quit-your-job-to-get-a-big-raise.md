@@ -1,6 +1,6 @@
 # 你必须辞职才能获得大幅加薪吗？
 
-> 原文:[https://simple programmer . com/do-you-have-to-quit-you-you-have-to-get-a-big-raise/](https://simpleprogrammer.com/do-you-have-to-quit-your-job-to-get-a-big-raise/)
+> 原文：<https://simpleprogrammer.com/do-you-have-to-quit-your-job-to-get-a-big-raise/>
 
 如何从现在开始赚更多的钱？
 

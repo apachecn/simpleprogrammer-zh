@@ -1,6 +1,6 @@
 # 敏捷时代的 UML:为什么它仍然相关
 
-> 原文:[https://simple programmer . com/unified-modeling-language-age-of-agile/](https://simpleprogrammer.com/unified-modeling-language-age-of-agile/)
+> 原文：<https://simpleprogrammer.com/unified-modeling-language-age-of-agile/>
 
 ![unified modeling language](img/42b38b31dfd19a27df687454d2132513.png)
 

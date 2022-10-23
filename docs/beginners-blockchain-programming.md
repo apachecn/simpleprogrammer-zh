@@ -1,6 +1,6 @@
 # 如何成为区块链编程向导:初学者到专业人士
 
-> 原文:[https://simple programmer . com/初学者-区块链-编程/](https://simpleprogrammer.com/beginners-blockchain-programming/)
+> 原文：<https://simpleprogrammer.com/beginners-blockchain-programming/>
 
 进入未来最热门的开发人员职业:
 

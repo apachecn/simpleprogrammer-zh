@@ -1,6 +1,6 @@
 # 你需要具备网络安全技能的开发人员的 10 个理由
 
-> 原文:[https://simple programmer . com/cyber security-skills-for-developers/](https://simpleprogrammer.com/cybersecurity-skills-for-developers/)
+> 原文：<https://simpleprogrammer.com/cybersecurity-skills-for-developers/>
 
 ![cybersecurity](img/e7866f95206fccba5b6b19e6bee6b165.png)
 

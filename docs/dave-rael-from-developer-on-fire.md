@@ -1,6 +1,6 @@
 # 戴夫·雷尔，来自《着火的开发者:成为著名的程序员》
 
-> 原文:[https://simple programmer . com/Dave-rael-from-developer-on-fire/](https://simpleprogrammer.com/dave-rael-from-developer-on-fire/)
+> 原文：<https://simpleprogrammer.com/dave-rael-from-developer-on-fire/>
 
 今天我和 Dave Rael 做了一个视频，他是来自神奇播客**“着火的开发者”**的一个神奇的开发者。在这次令人惊叹的采访中，我们讨论了很多事情。对于那些观看我的频道的人，你们知道我谈论了多少关于采取行动，以及为什么改变你们的现状是如此重要。很多人被动地吸收了很多内容，但他们实际上并没有将这些东西付诸实践。
 

@@ -1,6 +1,6 @@
 # 接近蝙蝠:将蝙蝠加入你的接受标准
 
-> 原文:[https://simple programmer . com/get-up-to-bat-adding-bats-to-your-acceptance-criteria/](https://simpleprogrammer.com/getting-up-to-bat-adding-bats-to-your-acceptance-criteria/)
+> 原文：<https://simpleprogrammer.com/getting-up-to-bat-adding-bats-to-your-acceptance-criteria/>
 
 所以现在我们已经[构建了我们的自动化框架](https://simpleprogrammer.com/2011/03/16/getting-up-to-bat-designing-an-automation-framework/)，并且让我们的[冒烟测试作为构建](https://simpleprogrammer.com/2011/04/05/getting-up-to-bat-adding-smoke-tests-to-your-build/)的一部分运行，我们现在需要确保为新的积压工作创建新的 bat。
 

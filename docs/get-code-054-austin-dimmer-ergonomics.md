@@ -1,6 +1,6 @@
 # 起床，代码 054:奥斯汀·迪默谈人体工程学
 
-> 原文:[https://simple programmer . com/get-code-054-Austin-dimmer-ergonomics/](https://simpleprogrammer.com/get-code-054-austin-dimmer-ergonomics/)
+> 原文：<https://simpleprogrammer.com/get-code-054-austin-dimmer-ergonomics/>
 
 时光倒流。(我知道，今天不是星期四，但是…)
 这是我在 Iris 还在节目中的时候录制的一集。一直在保存这个，但决定本周发布。

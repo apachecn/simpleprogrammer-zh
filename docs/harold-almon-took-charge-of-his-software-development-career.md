@@ -1,6 +1,6 @@
 # 哈罗德·阿尔蒙负责他的软件开发事业
 
-> 原文:[https://simple programmer . com/Harold-almon-take-charge-of-his-software-development-career/](https://simpleprogrammer.com/harold-almon-took-charge-of-his-software-development-career/)
+> 原文：<https://simpleprogrammer.com/harold-almon-took-charge-of-his-software-development-career/>
 
 当哈罗德·阿尔蒙给我发邮件，告诉我他在听了一集 JavaScript Jabber 后职业生涯的转变，然后不仅仅是阅读，而是实际执行了这个博客上的建议时，我知道我必须分享它。
 

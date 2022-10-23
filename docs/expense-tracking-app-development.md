@@ -1,6 +1,6 @@
 # 费用追踪应用程序开发指南
 
-> 原文:[https://simple programmer . com/expense-tracking-app-development/](https://simpleprogrammer.com/expense-tracking-app-development/)
+> 原文：<https://simpleprogrammer.com/expense-tracking-app-development/>
 
 ![](img/a9b3c69a9aff86e548626d38e92fe645.png)
 

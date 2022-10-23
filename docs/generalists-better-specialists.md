@@ -1,6 +1,6 @@
 # 多面手比专家强吗？
 
-> 原文:[https://simple programmer . com/generalitts-better-specialists/](https://simpleprogrammer.com/generalists-better-specialists/)
+> 原文：<https://simpleprogrammer.com/generalists-better-specialists/>
 
 这是另一个视频，我将讨论关于你是否应该成为专家的老式争论。我已经做了很多关于这个话题的视频，强烈建议你查看我的播放列表“专业化和细分化”。
 

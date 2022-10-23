@@ -1,6 +1,6 @@
 # 为什么你的薪酬没有达到你的价值(以及如何获得更多薪酬)
 
-> 原文:[https://simple programmer . com/arent-payed-more-worth-get-payed/](https://simpleprogrammer.com/arent-paid-much-worth-get-paid/)
+> 原文：<https://simpleprogrammer.com/arent-paid-much-worth-get-paid/>
 
 软件开发人员通常收入颇丰，但你知道吗，雇佣软件开发人员的公司从单个软件开发人员身上赚的钱通常比他们付给那个软件开发人员的要多得多。
 

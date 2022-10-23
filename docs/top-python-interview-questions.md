@@ -1,6 +1,6 @@
 # 2022 年热门 Python 面试问答
 
-> 原文:[https://simple programmer . com/top-python-interview-questions/](https://simpleprogrammer.com/top-python-interview-questions/)
+> 原文：<https://simpleprogrammer.com/top-python-interview-questions/>
 
 ![python interview questions](img/436cae864e0f2c6db61028f9bd94dda7.png)
 

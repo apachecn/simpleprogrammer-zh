@@ -1,6 +1,6 @@
 # 跨平台移动开发(iOS、Android、WP8)
 
-> 原文:[https://simple programmer . com/跨平台-移动-开发-ios-android-wp8/](https://simpleprogrammer.com/cross-platform-mobile-development-ios-android-wp8/)
+> 原文：<https://simpleprogrammer.com/cross-platform-mobile-development-ios-android-wp8/>
 
 你的跨平台移动开发策略是什么？这是一个很难回答的问题，因为有太多的选择。
 在这个视频中，我谈了我对跨平台移动开发的看法，定义了你的选择，并给了你我的建议。

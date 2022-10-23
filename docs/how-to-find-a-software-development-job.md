@@ -1,6 +1,6 @@
 # 如何一开始就找到一份有前途的软件开发工作
 
-> 原文:[https://simple programmer . com/how-to-find-a-software-development-job/](https://simpleprogrammer.com/how-to-find-a-software-development-job/)
+> 原文：<https://simpleprogrammer.com/how-to-find-a-software-development-job/>
 
 每周，我都会收到软件开发人员的电子邮件或对我的 YouTube 视频的评论，他们中的一些人很有经验，但似乎找不到工作。
 

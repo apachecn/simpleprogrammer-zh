@@ -1,6 +1,6 @@
 # 在 Pluralsight 上发布了我的第一个课程
 
-> 原文:[https://simple programmer . com/published-my-first-course-on-plural sight/](https://simpleprogrammer.com/published-my-first-course-on-pluralsight/)
+> 原文：<https://simpleprogrammer.com/published-my-first-course-on-pluralsight/>
 
 在过去的几个月里，我的博文数量确实比我喜欢的少了一些，但是我有一个很好的理由。
 

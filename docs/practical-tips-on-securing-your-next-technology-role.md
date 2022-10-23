@@ -1,6 +1,6 @@
 # 获得下一个技术职位的实用技巧
 
-> 原文:[https://simple programmer . com/practical-tips-on-securing-your-next-technology-role/](https://simpleprogrammer.com/practical-tips-on-securing-your-next-technology-role/)
+> 原文：<https://simpleprogrammer.com/practical-tips-on-securing-your-next-technology-role/>
 
 选择下一份工作并继续你的职业生涯可能是你一生中最重要的决定之一。
 

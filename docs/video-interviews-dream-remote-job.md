@@ -1,6 +1,6 @@
 # 内向程序员的视频面试指南&获得你梦想中的远程工作
 
-> 原文:[https://simple programmer . com/video-interests-dream-remote-job/](https://simpleprogrammer.com/video-interviews-dream-remote-job/)
+> 原文：<https://simpleprogrammer.com/video-interviews-dream-remote-job/>
 
 ![viedeo interview remote](img/4df202c4577ff6ffd448efe949682d07.png)
 

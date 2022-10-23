@@ -1,6 +1,6 @@
 # 为 2022 年设定的 10 个即将到来的技术和编程趋势
 
-> 原文:[https://simple programmer . com/2022-技术-编程-趋势/](https://simpleprogrammer.com/2022-technology-programming-trends/)
+> 原文：<https://simpleprogrammer.com/2022-technology-programming-trends/>
 
 ![programming trends](img/327d51a43bb5a38c2afdbb100467b8ea.png)
 

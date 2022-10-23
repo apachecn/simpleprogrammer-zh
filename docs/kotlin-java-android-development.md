@@ -1,6 +1,6 @@
 # Kotlin 和 Java:Android 开发应该选哪个？
 
-> 原文:[https://simple programmer . com/kot Lin-Java-Android-development/](https://simpleprogrammer.com/kotlin-java-android-development/)
+> 原文：<https://simpleprogrammer.com/kotlin-java-android-development/>
 
 谷歌在 2017 年[谷歌 I/O 大会](https://events.google.com/io2017/recap/)上宣布 [Kotlin 为他们的官方语言](https://simpleprogrammer.com/kotlin-future-android-development/)。这一突如其来的声明在想要成为 Android 开发者的人心中制造了混乱。主要的问题是应该关注 Java 还是 Kotlin。
 

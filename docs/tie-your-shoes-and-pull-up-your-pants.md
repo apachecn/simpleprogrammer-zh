@@ -1,6 +1,6 @@
 # 系上你的鞋子，拉起你的裤子
 
-> 原文:[https://simple programmer . com/tie-your-shoes and-pull-up-your-pants/](https://simpleprogrammer.com/tie-your-shoes-and-pull-up-your-pants/)
+> 原文：<https://simpleprogrammer.com/tie-your-shoes-and-pull-up-your-pants/>
 
 是什么减缓了软件的发展？
 

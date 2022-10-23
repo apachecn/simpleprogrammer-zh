@@ -1,6 +1,6 @@
 # 如何找到一份零人脉的编程工作
 
-> 原文:[https://simple programmer . com/get-a-programming-job-zero-connections/](https://simpleprogrammer.com/get-a-programming-job-zero-connections/)
+> 原文：<https://simpleprogrammer.com/get-a-programming-job-zero-connections/>
 
 想象一下，如果能突然找到一份新的编程工作，那该有多好。你会得到丰厚的薪水和福利，最重要的是，你可以用自己的钱享受生活。
 

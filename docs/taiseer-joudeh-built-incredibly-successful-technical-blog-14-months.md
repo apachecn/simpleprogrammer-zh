@@ -1,6 +1,6 @@
 # Taiseer Joudeh 如何在 14 个月内创建了一个非常成功的技术博客
 
-> 原文:[https://simple programmer . com/tai seer-Jou DEH-build-exceibly-successful-technical-blog-14-months/](https://simpleprogrammer.com/taiseer-joudeh-built-incredibly-successful-technical-blog-14-months/)
+> 原文：<https://simpleprogrammer.com/taiseer-joudeh-built-incredibly-successful-technical-blog-14-months/>
 
  ![](img/b9c8238524cd5a3c06f16c89fac69cd4.png) 
 

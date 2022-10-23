@@ -1,6 +1,6 @@
 # 发布管理、功能或时间
 
-> 原文:[https://simple programmer . com/release-management-features-or-time/](https://simpleprogrammer.com/release-management-features-or-time/)
+> 原文：<https://simpleprogrammer.com/release-management-features-or-time/>
 
 在发布管理中有一个有趣的约束经常被忽视。
 

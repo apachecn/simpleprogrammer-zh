@@ -1,6 +1,6 @@
 # 吴镇男·贝利是一位信息大师
 
-> 原文:[https://simple programmer . com/derick-Bailey-is-a-messaging-master/](https://simpleprogrammer.com/derick-bailey-is-a-messaging-master/)
+> 原文：<https://simpleprogrammer.com/derick-bailey-is-a-messaging-master/>
 
 吴镇男·贝利是我的好朋友。你可能从 Entreprogrammers 播客中认识他，或者如果你听过【T2 起床编码】，他已经作为我的嘉宾出现过几次。
 

@@ -1,6 +1,6 @@
 # 可视化云基础架构指南
 
-> 原文:[https://simple programmer . com/visualizing-cloud-infra structure/](https://simpleprogrammer.com/visualizing-cloud-infrastructure/)
+> 原文：<https://simpleprogrammer.com/visualizing-cloud-infrastructure/>
 
 ![visualizing cloud infrastructure](img/51bf5d075ef2dae4ca84420c842124b0.png)
 

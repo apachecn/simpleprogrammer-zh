@@ -1,6 +1,6 @@
 # 你能掌控自己的生活吗？
 
-> 原文:[https://simple programmer . com/are-you-in-control-of-you-life/](https://simpleprogrammer.com/are-you-in-control-of-your-life/)
+> 原文：<https://simpleprogrammer.com/are-you-in-control-of-your-life/>
 
 你能掌控自己的生活吗？
 

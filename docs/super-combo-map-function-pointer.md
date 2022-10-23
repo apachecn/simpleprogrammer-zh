@@ -1,6 +1,6 @@
 # 超级组合:地图+功能指针
 
-> 原文:[https://simple programmer . com/super-combo-map-function-pointer/](https://simpleprogrammer.com/super-combo-map-function-pointer/)
+> 原文：<https://simpleprogrammer.com/super-combo-map-function-pointer/>
 
 任何和我一起编码的人，如果被要求用三个词来描述我，会说…
 

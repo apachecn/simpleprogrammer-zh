@@ -1,6 +1,6 @@
 # 互联网的历史:第十一部分——苹果和史蒂夫·乔布斯
 
-> 原文:[https://simple programmer . com/history-internet-11-apple-and-Steve-jobs/](https://simpleprogrammer.com/history-internet-11-apple-and-steve-jobs/)
+> 原文：<https://simpleprogrammer.com/history-internet-11-apple-and-steve-jobs/>
 
 欢迎来到我们穿越时空之旅的第十一部分，了解互联网是如何发展的，以及它对我们生活的影响。
 

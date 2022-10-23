@@ -1,6 +1,6 @@
 # 起床编码 33:我们对咖啡因和甜味剂的看法
 
-> 原文:[https://simple programmer . com/get-code-33-thoughts-咖啡因-甜味剂/](https://simpleprogrammer.com/get-code-33-thoughts-caffeine-sweeteners/)
+> 原文：<https://simpleprogrammer.com/get-code-33-thoughts-caffeine-sweeteners/>
 
 我一直认为开发人员和咖啡因之间的联系有点奇怪。
 

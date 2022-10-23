@@ -1,6 +1,6 @@
 # 关于番茄栽培技术的几个问题
 
-> 原文:[https://simple programmer . com/some-questions-about-the-pomodoro-technique/](https://simpleprogrammer.com/some-questions-about-the-pomodoro-technique/)
+> 原文：<https://simpleprogrammer.com/some-questions-about-the-pomodoro-technique/>
 
 在这一集里，我回答了一个关于番茄工作法的问题。
 

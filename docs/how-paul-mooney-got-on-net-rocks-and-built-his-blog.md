@@ -1,6 +1,6 @@
 # 保罗.穆尼是如何成长的？NET 摇滚并建立了他的博客
 
-> 原文:[https://simple programmer . com/how-Paul-mooney-get-on-net-rocks-and-build-his-blog/](https://simpleprogrammer.com/how-paul-mooney-got-on-net-rocks-and-built-his-blog/)
+> 原文：<https://simpleprogrammer.com/how-paul-mooney-got-on-net-rocks-and-built-his-blog/>
 
 我喜欢保罗·穆尼，因为保罗实际上采取了行动。
 

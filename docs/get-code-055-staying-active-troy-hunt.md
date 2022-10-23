@@ -1,6 +1,6 @@
 # 起床，代码 055:与特洛伊·亨特保持活跃
 
-> 原文:[https://simple programmer . com/get-code-055-staying-active-troy-hunt/](https://simpleprogrammer.com/get-code-055-staying-active-troy-hunt/)
+> 原文：<https://simpleprogrammer.com/get-code-055-staying-active-troy-hunt/>
 
 在这一集里，我有机会和远在世界另一端的特洛伊·亨特交谈。
 

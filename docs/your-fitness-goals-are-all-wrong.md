@@ -1,6 +1,6 @@
 # 你的健身目标都是错的
 
-> 原文:[https://simple programmer . com/your-fitness-goals-are-all-wrong/](https://simpleprogrammer.com/your-fitness-goals-are-all-wrong/)
+> 原文：<https://simpleprogrammer.com/your-fitness-goals-are-all-wrong/>
 
 对所有人来说，照顾好自己是很重要的。通常，我们会有一种困扰的感觉，认为我们应该为自己做得更好:定期锻炼，吃“正确的”东西，避免有害的食物和活动。
 

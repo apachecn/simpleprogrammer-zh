@@ -1,6 +1,6 @@
 # 如何开发有效的软件开发生命周期
 
-> 原文:[https://simple programmer . com/effective-software-development-life-cycle/](https://simpleprogrammer.com/effective-software-development-life-cycle/)
+> 原文：<https://simpleprogrammer.com/effective-software-development-life-cycle/>
 
 ![software development life cycle](img/70cdaabc6cb368e0cf78e0a912d5dec8.png)
 

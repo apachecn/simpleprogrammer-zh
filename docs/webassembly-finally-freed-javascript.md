@@ -1,6 +1,6 @@
 # WebAssembly:终于从 JavaScript 中解脱了？
 
-> 原文:[https://simple programmer . com/web assembly-finally-freed-JavaScript/](https://simpleprogrammer.com/webassembly-finally-freed-javascript/)
+> 原文：<https://simpleprogrammer.com/webassembly-finally-freed-javascript/>
 
 我们大多数人都讨厌 JavaScript，这是由[布伦丹·艾希](https://en.wikipedia.org/wiki/Brendan_Eich)在 10 天内开发的著名软件[。](https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript)
 

@@ -1,6 +1,6 @@
 # 信息技术(IT):它是什么？
 
-> 原文:[https://simple programmer . com/information-technology-it-what-is/](https://simpleprogrammer.com/information-technology-it-what-is/)
+> 原文：<https://simpleprogrammer.com/information-technology-it-what-is/>
 
 当我第一次收到这个问题时，我必须承认我认为这是一个非常愚蠢的问题…拜托，怎么会有人不知道这是什么？
 

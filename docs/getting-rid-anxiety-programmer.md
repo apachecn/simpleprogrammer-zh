@@ -1,6 +1,6 @@
 # 作为程序员如何应对焦虑
 
-> 原文:[https://simple programmer . com/getting-rid-anxiety-programmer/](https://simpleprogrammer.com/getting-rid-anxiety-programmer/)
+> 原文：<https://simpleprogrammer.com/getting-rid-anxiety-programmer/>
 
 ![](img/a4f3999e616596ff6b6a3c3ae1deecc4.png)
 

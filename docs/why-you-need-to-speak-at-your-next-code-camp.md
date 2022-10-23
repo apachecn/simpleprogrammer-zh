@@ -1,6 +1,6 @@
 # 为什么你需要在下一次代码营演讲
 
-> 原文:[https://simple programmer . com/why-you-need-to-speak-in-next-code-camp/](https://simpleprogrammer.com/why-you-need-to-speak-at-your-next-code-camp/)
+> 原文：<https://simpleprogrammer.com/why-you-need-to-speak-at-your-next-code-camp/>
 
 我刚刚从奥兰多代码营回来，所以我想我应该写一篇文章，谈谈为什么在代码营演讲是一个很好的机会，以及为什么——**即使你认为你没有什么可谈的**或可教的——你也应该在你附近的代码营演讲。
 

@@ -1,6 +1,6 @@
 # 有效的远程软件开发策略
 
-> 原文:[https://simple programmer . com/remote-software-development-strategies/](https://simpleprogrammer.com/remote-software-development-strategies/)
+> 原文：<https://simpleprogrammer.com/remote-software-development-strategies/>
 
 ![remote software development](img/d275b64b1834f414c18406f53ae22155.png)
 

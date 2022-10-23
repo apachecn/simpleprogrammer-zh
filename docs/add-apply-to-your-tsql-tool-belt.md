@@ -1,6 +1,6 @@
 # 添加应用到您的 TSQL 工具带
 
-> 原文:[https://simple programmer . com/add-apply-to-your-tsql-tool-belt/](https://simpleprogrammer.com/add-apply-to-your-tsql-tool-belt/)
+> 原文：<https://simpleprogrammer.com/add-apply-to-your-tsql-tool-belt/>
 
 每隔一段时间，我都会偶然发现一些我并不真正了解的 SQL 关键字，但是这些关键字非常有用。
 

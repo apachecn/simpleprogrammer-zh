@@ -1,6 +1,6 @@
 # 互联网的历史:第 14 部分——谷歌和 AJAX 应用
 
-> 原文:[https://simple programmer . com/history-internet-14-Google-and-Ajax-apps/](https://simpleprogrammer.com/history-internet-14-google-and-ajax-apps/)
+> 原文：<https://simpleprogrammer.com/history-internet-14-google-and-ajax-apps/>
 
 在第八部分:谷歌的故事中，我们涵盖了 1996 年到 2003 年。谷歌创始人拉里·佩奇和谢尔盖·布林在 2001 年聘请埃里克·施密特担任谷歌董事长，然后担任首席执行官——三位高管学会了如何顺利合作。
 

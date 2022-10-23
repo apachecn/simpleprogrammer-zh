@@ -1,6 +1,6 @@
 # 让愚蠢的组件变得聪明:重构
 
-> 原文:[https://simple programmer . com/dumb-components-smart-refactoring/](https://simpleprogrammer.com/dumb-components-smart-refactoring/)
+> 原文：<https://simpleprogrammer.com/dumb-components-smart-refactoring/>
 
 ![](img/b5ae5d5064d2c7ca88b9cf4cf7ab012a.png)
 

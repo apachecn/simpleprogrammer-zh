@@ -1,6 +1,6 @@
 # 如何在编程就业市场生存
 
-> 原文:[https://simple programmer . com/survive-programming-job-market/](https://simpleprogrammer.com/survive-programming-job-market/)
+> 原文：<https://simpleprogrammer.com/survive-programming-job-market/>
 
 我们都知道编程就业市场在不断变化。
 

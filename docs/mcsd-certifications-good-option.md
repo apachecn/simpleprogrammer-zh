@@ -1,6 +1,6 @@
 # MCSD 认证是一个好的选择吗？
 
-> 原文:[https://simple programmer . com/mcsd-certifications-good-option/](https://simpleprogrammer.com/mcsd-certifications-good-option/)
+> 原文：<https://simpleprogrammer.com/mcsd-certifications-good-option/>
 
 很多程序员问我这个问题:我应该获得 MCSD 认证吗？嗯，要回答这个问题，首先，我们需要解决什么是 MCSD，并讨论认证是否是建立一个可行的(和聪明的)职业选择的好方法。
 

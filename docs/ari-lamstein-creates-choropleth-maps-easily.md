@@ -1,6 +1,6 @@
 # Ari Lamstein 轻松创建 Choropleth 地图
 
-> 原文:[https://simple programmer . com/ari-lam stein-creates-choropleth-maps-easy/](https://simpleprogrammer.com/ari-lamstein-creates-choropleth-maps-easily/)
+> 原文：<https://simpleprogrammer.com/ari-lamstein-creates-choropleth-maps-easily/>
 
 阿里·拉姆斯坦是免费博客课程的毕业生，也是认真对待所有知识和建议的人之一。当 Ari 发邮件告诉我他新产品的成功时，我知道我必须采访这个家伙。我一直在考虑开设面向创业和创建在线业务的新课程。听说 Ari 在这个领域取得了成功，这很酷，所以我想分享一下，希望能激励人们。
 

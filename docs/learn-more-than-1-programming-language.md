@@ -1,6 +1,6 @@
 # 我应该一次学习多种编程语言吗
 
-> 原文:[https://simple programmer . com/learn-than-1-programming-language/](https://simpleprogrammer.com/learn-more-than-1-programming-language/)
+> 原文：<https://simpleprogrammer.com/learn-more-than-1-programming-language/>
 
 今天我们要解决一个我经常遇到的问题，那就是“作为一名程序员，你应该学习多种编程语言吗？”
 

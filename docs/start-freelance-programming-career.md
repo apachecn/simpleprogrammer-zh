@@ -1,6 +1,6 @@
 # 如何开始自由编程生涯
 
-> 原文:[https://simple programmer . com/start-freelance-programming-career/](https://simpleprogrammer.com/start-freelance-programming-career/)
+> 原文：<https://simpleprogrammer.com/start-freelance-programming-career/>
 
 ![start freelance programming](img/7deb629938b461e6334ccf28dc0443cd.png)
 

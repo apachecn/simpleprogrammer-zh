@@ -1,6 +1,6 @@
 # 为什么程序员永远不应该停止学习
 
-> 原文:[https://simple programmer . com/programmers-never-stop-learning/](https://simpleprogrammer.com/programmers-never-stop-learning/)
+> 原文：<https://simpleprogrammer.com/programmers-never-stop-learning/>
 
 ![](img/f76ab36d867b45e6b27eda66d6f548ad.png)
 

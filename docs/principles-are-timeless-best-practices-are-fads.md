@@ -1,6 +1,6 @@
 # 原则是永恒的，最佳实践是时尚
 
-> 原文:[https://simple programmer . com/principles-is-timeless-best-practices-is-fads/](https://simpleprogrammer.com/principles-are-timeless-best-practices-are-fads/)
+> 原文：<https://simpleprogrammer.com/principles-are-timeless-best-practices-are-fads/>
 
 原则和最佳实践之间有着巨大的差异。
 

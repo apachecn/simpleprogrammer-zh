@@ -1,6 +1,6 @@
 # 数据科学:可行的职业？(2018 年及以后)
 
-> 原文:[https://simple programmer . com/data-science-viable-career-2018-beyond/](https://simpleprogrammer.com/data-science-viable-career-2018-beyond/)
+> 原文：<https://simpleprogrammer.com/data-science-viable-career-2018-beyond/>
 
 数据科学无疑是一个越来越受欢迎的领域，一些软件开发人员开始关注它。
 

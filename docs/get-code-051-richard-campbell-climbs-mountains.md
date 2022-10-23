@@ -1,6 +1,6 @@
 # 起床，代码 051:理查德·坎贝尔爬山
 
-> 原文:[https://simple programmer . com/get-code-051-Richard-Campbell-clippes-mountains/](https://simpleprogrammer.com/get-code-051-richard-campbell-climbs-mountains/)
+> 原文：<https://simpleprogrammer.com/get-code-051-richard-campbell-climbs-mountains/>
 
 我真的很兴奋能够从我最喜欢的播客之一《点网摇滚》中与理查德·坎贝尔交谈。
 

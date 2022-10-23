@@ -1,6 +1,6 @@
 # 挑战时代的健康与幸福程序员指南
 
-> 原文:[https://simple programmer . com/developers-wellness-challenge-times/](https://simpleprogrammer.com/developers-wellness-challenging-times/)
+> 原文：<https://simpleprogrammer.com/developers-wellness-challenging-times/>
 
 ![developers wellness](img/25298f00d693bbae1dff2ea4e3017279.png)
 

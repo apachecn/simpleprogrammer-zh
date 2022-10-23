@@ -1,6 +1,6 @@
 # 领域驱动设计的重要性
 
-> 原文:[https://simple programmer . com/importance-domain-driven-design/](https://simpleprogrammer.com/importance-domain-driven-design/)
+> 原文：<https://simpleprogrammer.com/importance-domain-driven-design/>
 
 领域驱动设计(DDD)是一种软件开发方法，它通过将实现与不断发展的模型联系起来，简化了开发人员面临的复杂性。
 

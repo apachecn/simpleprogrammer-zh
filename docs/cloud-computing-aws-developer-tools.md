@@ -1,6 +1,6 @@
 # 使用 AWS 开发人员工具开拓您的云计算之路
 
-> 原文:[https://simple programmer . com/cloud-computing-AWS-developer-tools/](https://simpleprogrammer.com/cloud-computing-aws-developer-tools/)
+> 原文：<https://simpleprogrammer.com/cloud-computing-aws-developer-tools/>
 
 ![](img/9dd53d26b547a9ab8472848717bda8e9.png)
 

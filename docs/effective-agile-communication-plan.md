@@ -1,6 +1,6 @@
 # 创建有效敏捷沟通计划的技巧
 
-> 原文:[https://simple programmer . com/effective-agile-communication-plan/](https://simpleprogrammer.com/effective-agile-communication-plan/)
+> 原文：<https://simpleprogrammer.com/effective-agile-communication-plan/>
 
 ![effective agile communication plan](img/413ae71c464eb87329b04c50e44b7edd.png)
 

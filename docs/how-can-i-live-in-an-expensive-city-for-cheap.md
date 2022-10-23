@@ -1,6 +1,6 @@
 # 怎样才能在一个昂贵的城市住的便宜？
 
-> 原文:[https://simple programmer . com/how-can-I-live-in-a-昂贵-廉价-城市/](https://simpleprogrammer.com/how-can-i-live-in-an-expensive-city-for-cheap/)
+> 原文：<https://simpleprogrammer.com/how-can-i-live-in-an-expensive-city-for-cheap/>
 
 在这一集里，我谈论为了便宜而生活在一个昂贵的城市。
 

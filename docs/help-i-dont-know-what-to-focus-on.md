@@ -1,6 +1,6 @@
 # 救命啊！我不知道该关注什么
 
-> 原文:[https://simple programmer . com/help-I-dont-know-to-focus-on/](https://simpleprogrammer.com/help-i-dont-know-what-to-focus-on/)
+> 原文：<https://simpleprogrammer.com/help-i-dont-know-what-to-focus-on/>
 
 在这一集里，我谈论选择关注什么。
 

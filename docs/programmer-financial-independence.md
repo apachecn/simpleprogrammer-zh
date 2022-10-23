@@ -1,6 +1,6 @@
 # 为什么程序员有可能实现财务独立
 
-> 原文:[https://simple programmer . com/programmer-financial-independence/](https://simpleprogrammer.com/programmer-financial-independence/)
+> 原文：<https://simpleprogrammer.com/programmer-financial-independence/>
 
 ![](img/e62f6fb9f4fd380283096d1fe5e57c4f.png)
 

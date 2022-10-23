@@ -1,6 +1,6 @@
 # 机器学习还是全栈开发？
 
-> 原文:[https://simple programmer . com/machine-learning-full-stack-development/](https://simpleprogrammer.com/machine-learning-full-stack-development/)
+> 原文：<https://simpleprogrammer.com/machine-learning-full-stack-development/>
 
 所以，在你的职业生涯中，到了你需要做出一些决定的时候，也到了你需要选择走哪条路的时候了。机器学习还是全栈开发？
 

@@ -1,6 +1,6 @@
 # Scrumbut = Double Fudge Sunday 和 ScrumMaster =私人教练
 
-> 原文:[https://simple programmer . com/scrum but-double-fudge-Sunday-and-scrum master-personal-trainer/](https://simpleprogrammer.com/scrumbut-double-fudge-sunday-and-scrummaster-personal-trainer/)
+> 原文：<https://simpleprogrammer.com/scrumbut-double-fudge-sunday-and-scrummaster-personal-trainer/>
 
 scrum 的过程可以比作获得六块腹肌的过程。就像私人教练可以使寻求身体改善的个人受益一样，ScrumMaster 可以为寻求过程改善的开发团队提供无价的好处。
 

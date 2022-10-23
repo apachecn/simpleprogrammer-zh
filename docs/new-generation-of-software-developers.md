@@ -1,6 +1,6 @@
 # 没有比现在更好的时机了——为什么我们需要新一代软件开发人员
 
-> 原文:[https://simple programmer . com/新一代软件开发者/](https://simpleprogrammer.com/new-generation-of-software-developers/)
+> 原文：<https://simpleprogrammer.com/new-generation-of-software-developers/>
 
 ![new generation software developers](img/11e21f561a39718d81a037cb96e376ac.png)
 

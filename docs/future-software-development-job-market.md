@@ -1,6 +1,6 @@
 # 软件开发就业市场前景如何？
 
-> 原文:[https://simple programmer . com/future-software-development-job-market/](https://simpleprogrammer.com/future-software-development-job-market/)
+> 原文：<https://simpleprogrammer.com/future-software-development-job-market/>
 
 所以…快速但有力的问题:软件开发的未来是什么？
 

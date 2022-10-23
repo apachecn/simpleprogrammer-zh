@@ -1,6 +1,6 @@
 # 软件开发人员时薪:做自由职业者好还是做公司职员好？
 
-> 原文:[https://simple programmer . com/software-developer-hourly-rates/](https://simpleprogrammer.com/software-developer-hourly-rates/)
+> 原文：<https://simpleprogrammer.com/software-developer-hourly-rates/>
 
 你知道软件开发人员的时薪是多少吗？
 

@@ -1,6 +1,6 @@
 # 在 Twitter 上发展个人品牌的程序员指南
 
-> 原文:[https://simple programmer . com/programmers-guide-personal-brand-Twitter/](https://simpleprogrammer.com/programmers-guide-personal-brand-twitter/)
+> 原文：<https://simpleprogrammer.com/programmers-guide-personal-brand-twitter/>
 
 ![programmer person brand twitter](img/4fe283e655d2659e31f3116b42258ad8.png)
 

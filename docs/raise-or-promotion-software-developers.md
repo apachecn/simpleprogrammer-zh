@@ -1,6 +1,6 @@
 # 软件开发人员如何获得加薪或晋升
 
-> 原文:[https://simple programmer . com/raise-or-promotion-software-developers/](https://simpleprogrammer.com/raise-or-promotion-software-developers/)
+> 原文：<https://simpleprogrammer.com/raise-or-promotion-software-developers/>
 
 嘿，约翰，你不是已经写完这一章了吗？
 

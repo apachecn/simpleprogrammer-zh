@@ -1,6 +1,6 @@
 # JavaScript 面试问题的终极列表
 
-> 原文:[https://simple programmer . com/JavaScript-interview-questions/](https://simpleprogrammer.com/javascript-interview-questions/)
+> 原文：<https://simpleprogrammer.com/javascript-interview-questions/>
 
 ![](img/e1016f7623dd0a4f909e4c3b7011378a.png)
 

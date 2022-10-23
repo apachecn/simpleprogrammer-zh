@@ -1,6 +1,6 @@
 # 成为房间里最聪明的人…并且知道什么时候该离开
 
-> 原文:[https://simple programmer . com/smartest-person-room-known-leave/](https://simpleprogrammer.com/smartest-person-room-knowing-leave/)
+> 原文：<https://simpleprogrammer.com/smartest-person-room-knowing-leave/>
 
 在过去的几年里，有一句话一直在网上流传，提醒着我们的优势和局限性。
 

@@ -1,6 +1,6 @@
 # 你可以用来引领节目潮流的 10 个频道
 
-> 原文:[https://simple programmer . com/channels-保持领先-编程-趋势/](https://simpleprogrammer.com/channels-stay-ahead-programming-trends/)
+> 原文：<https://simpleprogrammer.com/channels-stay-ahead-programming-trends/>
 
 ![](img/7366e6c51ac149b338bf4b83537d45ad.png)
 

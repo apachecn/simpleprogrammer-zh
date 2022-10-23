@@ -1,6 +1,6 @@
 # 程序员乔尔测试(简单程序员测试)
 
-> 原文:[https://simple programmer . com/Joel-test-programmers-simple-programmer-test/](https://simpleprogrammer.com/joel-test-programmers-simple-programmer-test/)
+> 原文：<https://simpleprogrammer.com/joel-test-programmers-simple-programmer-test/>
 
 不久前——确切地说是 2000 年——Joel Spolsky 写了一篇博客文章，题为:“[Joel 测试:更好编码的 12 个步骤](http://www.joelonsoftware.com/articles/fog0000000043.html)”
 

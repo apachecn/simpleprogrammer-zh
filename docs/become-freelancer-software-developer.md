@@ -1,6 +1,6 @@
 # 如何成为一名自由职业的软件开发人员？
 
-> 原文:[https://simple programmer . com/become-freelancer-software-developer/](https://simpleprogrammer.com/become-freelancer-software-developer/)
+> 原文：<https://simpleprogrammer.com/become-freelancer-software-developer/>
 
 当我做一份朝九晚五的普通工作时，我经常幻想自己创业——为自己工作。
 

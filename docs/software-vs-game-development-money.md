@@ -1,6 +1,6 @@
 # 软件 Vs .游戏开发:钱在哪里？
 
-> 原文:[https://simple programmer . com/software-vs-game-development-money/](https://simpleprogrammer.com/software-vs-game-development-money/)
+> 原文：<https://simpleprogrammer.com/software-vs-game-development-money/>
 
 软件开发是一个很大的世界。就像任何其他领域一样，有很多途径可以追求，有很多不同的专业和事情可以做。
 

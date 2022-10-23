@@ -1,6 +1,6 @@
 # 如何更好地掌控自己的生活
 
-> 原文:[https://simple programmer . com/how-to-gain-more-control-over-your-life/](https://simpleprogrammer.com/how-to-gain-more-control-over-your-life/)
+> 原文：<https://simpleprogrammer.com/how-to-gain-more-control-over-your-life/>
 
 我们大多数人都缺乏实际行动和实现目标的能力。
 

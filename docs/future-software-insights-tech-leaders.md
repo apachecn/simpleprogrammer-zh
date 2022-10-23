@@ -1,6 +1,6 @@
 # 开发面向未来的软件:来自全球技术领导者的 4 个关键见解
 
-> 原文:[https://simple programmer . com/future-software-insights-tech-leaders/](https://simpleprogrammer.com/future-software-insights-tech-leaders/)
+> 原文：<https://simpleprogrammer.com/future-software-insights-tech-leaders/>
 
 ![future software insights](img/5908e8b860ed41aacb6988bd93dafc7b.png)
 

@@ -1,6 +1,6 @@
 # 选择编程语言并不重要的 4 个原因
 
-> 原文:[https://simple programmer . com/programming-language-sent-matter/](https://simpleprogrammer.com/programming-language-doesnt-matter/)
+> 原文：<https://simpleprogrammer.com/programming-language-doesnt-matter/>
 
 在我作为软件开发人员的职业生涯中，我为不同的项目使用过许多流行的编程语言。今天当我回头看的时候，我相信第一个(确切地说是 C)是最难的一个。我后来使用的每一种编程语言都感觉更加舒适和直观。例如，当我在 2005 年从 C 语言中学习 Java 时，我很难掌握面向对象编程(OOP)的概念(在 Java 之前我也曾在 C++中工作过，所以 [OOP 概念](https://stackify.com/oops-concepts-in-java/)对我来说并不陌生)。
 

@@ -1,6 +1,6 @@
 # 软件开发中的团队合作与内向
 
-> 原文:[https://simple programmer . com/team work-innership-programming/](https://simpleprogrammer.com/teamwork-introversion-programming/)
+> 原文：<https://simpleprogrammer.com/teamwork-introversion-programming/>
 
 团队合作绝对是首席执行官和经理在分析员工时考虑的最大因素之一。能够成为团队的一员绝对是推进公司所需项目的一个关键因素。软件开发中的团队合作？
 

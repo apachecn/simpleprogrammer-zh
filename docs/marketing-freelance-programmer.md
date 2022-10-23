@@ -1,6 +1,6 @@
 # 如何在不感到紧张的情况下推销自己是一名自由程序员
 
-> 原文:[https://simple programmer . com/marketing-freelance-programmer/](https://simpleprogrammer.com/marketing-freelance-programmer/)
+> 原文：<https://simpleprogrammer.com/marketing-freelance-programmer/>
 
 ![](img/b319e622c888e184d3accbe279cdf91c.png)
 

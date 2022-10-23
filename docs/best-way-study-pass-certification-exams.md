@@ -1,6 +1,6 @@
 # 学习和通过认证考试的最好方法是什么？
 
-> 原文:[https://simple programmer . com/best-way-study-pass-certification-exams/](https://simpleprogrammer.com/best-way-study-pass-certification-exams/)
+> 原文：<https://simpleprogrammer.com/best-way-study-pass-certification-exams/>
 
 很多人都在谈论证书是否对你的职业有好处。
 

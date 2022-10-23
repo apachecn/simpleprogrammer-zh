@@ -1,6 +1,6 @@
 # 坏建议:“不要再这么努力工作了”
 
-> 原文:[https://simple programmer . com/bad-advice-stop-working-so-hard/](https://simpleprogrammer.com/bad-advice-stop-working-so-hard/)
+> 原文：<https://simpleprogrammer.com/bad-advice-stop-working-so-hard/>
 
 最近我在[黑客新闻](https://news.ycombinator.com/news)上看到了不少帖子，关于为什么你不应该工作得太辛苦，[甚至说你一周的工作时间应该少于 35 小时。](https://medium.com/i-m-h-o/ef4772e3c628)
 

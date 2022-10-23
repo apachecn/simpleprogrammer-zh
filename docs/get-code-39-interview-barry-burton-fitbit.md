@@ -1,6 +1,6 @@
 # 起床编码 39:Fitbit 采访巴瑞·伯顿
 
-> 原文:[https://simple programmer . com/get-code-39-interview-Barry-Burton-fitbit/](https://simpleprogrammer.com/get-code-39-interview-barry-burton-fitbit/)
+> 原文：<https://simpleprogrammer.com/get-code-39-interview-barry-burton-fitbit/>
 
 我一直想采访一个来自 Fitbit 的关于起床和编码的人，现在 Iris 和我终于有机会了。
 

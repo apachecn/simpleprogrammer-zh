@@ -1,6 +1,6 @@
 # 泽法移动应用新闻稿
 
-> 原文:[https://simple programmer . com/zephyr-mobile-app-press-release/](https://simpleprogrammer.com/zephyr-mobile-app-press-release/)
+> 原文：<https://simpleprogrammer.com/zephyr-mobile-app-press-release/>
 
 我收到了一封来自泽法的电子邮件，是关于他们新的移动应用程序的，我想和大家分享这个消息。我发布这篇文章是因为这对软件开发和 QA 社区有好处。
 

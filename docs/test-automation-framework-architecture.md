@@ -1,6 +1,6 @@
 # 测试自动化框架架构
 
-> 原文:[https://simple programmer . com/test-automation-framework-architecture/](https://simpleprogrammer.com/test-automation-framework-architecture/)
+> 原文：<https://simpleprogrammer.com/test-automation-framework-architecture/>
 
 测试自动化框架架构的努力经常是彻底的失败。
 

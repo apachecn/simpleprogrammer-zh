@@ -1,6 +1,6 @@
 # 自本地化错误消息
 
-> 原文:[https://simple programmer . com/self-localization-error-messages/](https://simpleprogrammer.com/self-localizing-error-messages/)
+> 原文：<https://simpleprogrammer.com/self-localizing-error-messages/>
 
 昨天，我在试图找出错误消息的本地化位置时遇到了一个问题。
 

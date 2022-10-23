@@ -1,6 +1,6 @@
 # 你是开发商吗？学习从 MQL5 市场赚取被动收入
 
-> 原文:[https://simple programmer . com/earn-passive-income-mql5-market place/](https://simpleprogrammer.com/earn-passive-income-mql5-marketplace/)
+> 原文：<https://simpleprogrammer.com/earn-passive-income-mql5-marketplace/>
 
 ![MQL5 Marketplace](img/f7d053d0e11101a612c6254f86c97194.png)
 

@@ -1,6 +1,6 @@
 # 含咖啡因的编码员:咖啡因是好是坏？
 
-> 原文:[https://simple programmer . com/caffeinated-coder-咖啡因-好-坏/](https://simpleprogrammer.com/caffeinated-coder-caffeine-good-bad/)
+> 原文：<https://simpleprogrammer.com/caffeinated-coder-caffeine-good-bad/>
 
 很长一段时间以来，我一直想知道咖啡因的好处或坏处。我一直是那种喝咖啡的人，不是非要喝咖啡，而是有咖啡就喝。
 

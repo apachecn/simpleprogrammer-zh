@@ -1,6 +1,6 @@
 # 如何重构助手类
 
-> 原文:[https://simple programmer . com/how-to-refactor-the-helper-class/](https://simpleprogrammer.com/how-to-refactor-the-helper-class/)
+> 原文：<https://simpleprogrammer.com/how-to-refactor-the-helper-class/>
 
 在我之前的帖子中，我提出了一个问题[我应该离开那个助手类](https://simpleprogrammer.com/2010/04/12/should-i-leave-that-helper-class/)吗？希望我已经说服了您，您不应该离开，而是应该重构 helper 类。
 

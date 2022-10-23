@@ -1,6 +1,6 @@
 # 保持代码流动——程序员流动状态介绍
 
-> 原文:[https://simple programmer . com/keep-your-code-flow-an-introduction-to-flow-States-for-programmers/](https://simpleprogrammer.com/keep-your-code-flowing-an-introduction-to-flow-states-for-programmers/)
+> 原文：<https://simpleprogrammer.com/keep-your-code-flowing-an-introduction-to-flow-states-for-programmers/>
 
 ## 优化你的生活体验
 

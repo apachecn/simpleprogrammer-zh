@@ -1,6 +1,6 @@
 # 移动应用需求文档初学者指南
 
-> 原文:[https://simple programmer . com/初学者指南-手机-应用-需求/](https://simpleprogrammer.com/beginners-guide-mobile-application-requirements/)
+> 原文：<https://simpleprogrammer.com/beginners-guide-mobile-application-requirements/>
 
 截至 2017 年 9 月，谷歌 Play 商店托管了[330 万个应用](https://www.statista.com/statistics/266210/number-of-available-applications-in-the-google-play-store/)，但并非所有应用都是平等的。用户对这些应用的评分很低，而且这些应用的下载量很少。
 

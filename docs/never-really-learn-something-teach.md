@@ -1,6 +1,6 @@
 # 你永远不会真正学到东西，直到你教它
 
-> 原文:[https://simple programmer . com/never-true-learn-something-teach/](https://simpleprogrammer.com/never-really-learn-something-teach/)
+> 原文：<https://simpleprogrammer.com/never-really-learn-something-teach/>
 
 作为软件开发人员，我们花了大量的时间学习。总会有新的框架或技术需要学习。当每天都有新的东西时，要跟上所有的事情似乎是不可能的。所以，你应该不会感到惊讶，快速学习和更深入地理解你所学的东西是非常重要的。
 

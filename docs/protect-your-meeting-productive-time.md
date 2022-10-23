@@ -1,6 +1,6 @@
 # 保护会议的有效时间
 
-> 原文:[https://simple programmer . com/protect-your-meeting-productive-time/](https://simpleprogrammer.com/protect-your-meeting-productive-time/)
+> 原文：<https://simpleprogrammer.com/protect-your-meeting-productive-time/>
 
 时光飞逝。
 

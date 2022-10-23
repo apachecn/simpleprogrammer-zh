@@ -1,6 +1,6 @@
 # 营销自己时如何应对批评
 
-> 原文:[https://simple programmer . com/如何在推销自己时应对批评/](https://simpleprogrammer.com/how-to-deal-with-criticism-when-marketing-yourself/)
+> 原文：<https://simpleprogrammer.com/how-to-deal-with-criticism-when-marketing-yourself/>
 
 在这一集里，我将谈论在推销自己时如何应对批评。
 

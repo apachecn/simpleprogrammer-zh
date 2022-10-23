@@ -1,6 +1,6 @@
 # 创意许可等于增加应用收入
 
-> 原文:[https://simple programmer . com/creative-licensing-app-revenue/](https://simpleprogrammer.com/creative-licensing-app-revenue/)
+> 原文：<https://simpleprogrammer.com/creative-licensing-app-revenue/>
 
 ![creative licensing apps](img/bd38e8a7b6ed151ad5607a548e4e2550.png)
 

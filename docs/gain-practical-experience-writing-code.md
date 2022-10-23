@@ -1,6 +1,6 @@
 # 如何获得写代码的实践经验？
 
-> 原文:[https://simple programmer . com/gain-practical-experience-writing-code/](https://simpleprogrammer.com/gain-practical-experience-writing-code/)
+> 原文：<https://simpleprogrammer.com/gain-practical-experience-writing-code/>
 
 编写代码可能是一件棘手的事情，尤其是当你开始实践它的时候。大多数开发人员最终会阅读大量的书籍，获得大量的理论知识，但是当他们开始编写实际的代码时，他们会陷入困境。
 

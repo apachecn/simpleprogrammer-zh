@@ -1,6 +1,6 @@
 # 作为一名软件开发人员，如何跟随你的灵感并创造伟大的东西
 
-> 原文:[https://simple programmer . com/inspiration-creativity-software-developer/](https://simpleprogrammer.com/inspiration-creativity-software-developer/)
+> 原文：<https://simpleprogrammer.com/inspiration-creativity-software-developer/>
 
 ![inspiration software developer](img/cfdac8b2a55d50d929fc6157d06c946d.png)
 

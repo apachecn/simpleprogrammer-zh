@@ -1,6 +1,6 @@
 # 为什么现场测试会改变一切
 
-> 原文:[https://simple programmer . com/why-field-testing-changes-everything/](https://simpleprogrammer.com/why-field-testing-changes-everything/)
+> 原文：<https://simpleprogrammer.com/why-field-testing-changes-everything/>
 
 你尝试过组装 K-Mart 家具吗？你知道我的意思，那种用六角扳手组装起来的家具？
 

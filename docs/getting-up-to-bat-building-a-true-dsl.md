@@ -1,6 +1,6 @@
 # BAT 入门:构建真正的 DSL
 
-> 原文:[https://simple programmer . com/get-up-to-bat-building-a-true-DSL/](https://simpleprogrammer.com/getting-up-to-bat-building-a-true-dsl/)
+> 原文：<https://simpleprogrammer.com/getting-up-to-bat-building-a-true-dsl/>
 
 如果您已经用 BAT 实现做到了这一步，那么您终于成功了。
 

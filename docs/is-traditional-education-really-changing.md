@@ -1,6 +1,6 @@
 # 传统教育真的在改变吗？
 
-> 原文:[https://simple programmer . com/is-传统-教育-真正-改变/](https://simpleprogrammer.com/is-traditional-education-really-changing/)
+> 原文：<https://simpleprogrammer.com/is-traditional-education-really-changing/>
 
 在这一集里，我将谈论传统教育是如何改变的。
 

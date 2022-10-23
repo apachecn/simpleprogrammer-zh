@@ -1,6 +1,6 @@
 # 作为自由职业程序员，如何不被骗
 
-> 原文:[https://simple programmer . com/not-get-scammed-as-a-programmer/](https://simpleprogrammer.com/not-get-scammed-as-a-programmer/)
+> 原文：<https://simpleprogrammer.com/not-get-scammed-as-a-programmer/>
 
 今天，我要做一个简短的视频，告诉你如何不被一个自由职业程序员欺骗，因为你可能会做一些兼职。
 

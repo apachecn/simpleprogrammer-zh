@@ -1,6 +1,6 @@
 # 如何为您的软件开发项目创建产品路线图
 
-> 原文:[https://simple programmer . com/product-roadmap-软件-开发-项目/](https://simpleprogrammer.com/product-roadmap-software-development-project/)
+> 原文：<https://simpleprogrammer.com/product-roadmap-software-development-project/>
 
 ![](img/6caf043ac7c5ab307536de4c04273d11.png)
 

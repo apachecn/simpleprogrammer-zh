@@ -1,6 +1,6 @@
 # 自动化测试的终极指南:74 种测试自动化的资源、工具和最佳实践
 
-> 原文:[https://simple programmer . com/ultimate-automation-testing-guide/](https://simpleprogrammer.com/ultimate-automation-testing-guide/)
+> 原文：<https://simpleprogrammer.com/ultimate-automation-testing-guide/>
 
 ![](img/9dbd6cae747c4bb183da0a8429a36b1a.png)
 

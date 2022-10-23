@@ -1,6 +1,6 @@
 # 编码人员应该整合 CI/CD 计划的 5 个理由
 
-> 原文:[https://simple programmer . com/coders-incorporate-ci-CD-program/](https://simpleprogrammer.com/coders-incorporate-ci-cd-program/)
+> 原文：<https://simpleprogrammer.com/coders-incorporate-ci-cd-program/>
 
 编码有时会很乏味和困难。获得尽可能多的帮助是一个好主意，这就是为什么使用 CI/CD 工具是帮助您的项目的一个很好的助手。使用 CI/CD 工具真的可以增加你作为程序员的价值，并且对你的开发生涯有很大的帮助。
 

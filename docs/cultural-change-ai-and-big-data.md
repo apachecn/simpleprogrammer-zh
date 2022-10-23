@@ -1,6 +1,6 @@
 # 为什么为人工智能和大数据做准备的文化变革至关重要？
 
-> 原文:[https://simple programmer . com/cultural-change-ai-and-big-data/](https://simpleprogrammer.com/cultural-change-ai-and-big-data/)
+> 原文：<https://simpleprogrammer.com/cultural-change-ai-and-big-data/>
 
 ![AI and big data](img/8ee1c999142738f21adba334a9311140.png)
 

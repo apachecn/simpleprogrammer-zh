@@ -1,6 +1,6 @@
 # 书评:实现模式
 
-> 原文:[https://simple programmer . com/book-review-implementation-patterns/](https://simpleprogrammer.com/book-review-implementation-patterns/)
+> 原文：<https://simpleprogrammer.com/book-review-implementation-patterns/>
 
 
 

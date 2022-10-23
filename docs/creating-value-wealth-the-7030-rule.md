@@ -1,6 +1,6 @@
 # 创造价值和财富:70/30 法则
 
-> 原文:[https://simple programmer . com/creating-value-wealth-the-7030-rule/](https://simpleprogrammer.com/creating-value-wealth-the-7030-rule/)
+> 原文：<https://simpleprogrammer.com/creating-value-wealth-the-7030-rule/>
 
 你想为你的生活创造价值和财富吗？如果是这样，你需要遵循 70/30 法则。
 

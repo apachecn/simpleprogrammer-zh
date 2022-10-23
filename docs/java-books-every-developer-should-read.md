@@ -1,6 +1,6 @@
 # 每个开发人员都应该阅读的十大 Java 书籍
 
-> 原文:[https://simple programmer . com/Java-books-every-developer-should-read/](https://simpleprogrammer.com/java-books-every-developer-should-read/)
+> 原文：<https://simpleprogrammer.com/java-books-every-developer-should-read/>
 
 Java 无疑是有史以来最受欢迎的语言之一。实际上，每个人都知道 Java，甚至不是程序员或开发人员的人也知道。
 

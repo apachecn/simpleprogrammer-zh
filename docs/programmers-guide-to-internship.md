@@ -1,6 +1,6 @@
 # 实习程序员综合指南
 
-> 原文:[https://simple programmer . com/程序员-实习指南/](https://simpleprogrammer.com/programmers-guide-to-internship/)
+> 原文：<https://simpleprogrammer.com/programmers-guide-to-internship/>
 
 如果你刚开始工作，最好也是最容易找到工作的方法之一就是实习。
 

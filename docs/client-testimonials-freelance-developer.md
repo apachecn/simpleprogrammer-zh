@@ -1,6 +1,6 @@
 # 作为一名自由开发者，如何收集客户评价(以及如何处理它们)
 
-> 原文:[https://simple programmer . com/client-references-freelance-developer/](https://simpleprogrammer.com/client-testimonials-freelance-developer/)
+> 原文：<https://simpleprogrammer.com/client-testimonials-freelance-developer/>
 
 我们大多数人都曾因为信任的人向我们推荐某样东西而购买过它。根据社会证明理论，这种对人类认可的渴望是人类本性的一部分。我们期待其他人在特定情况下效仿他们的行为。我们对人类认可的渴望会影响我们的购买选择。
 

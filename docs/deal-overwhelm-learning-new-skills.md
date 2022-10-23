@@ -1,6 +1,6 @@
 # 学习任何新技能都不会不知所措
 
-> 原文:[https://simple programmer . com/deal-overflow-learning-new-skills/](https://simpleprogrammer.com/deal-overwhelm-learning-new-skills/)
+> 原文：<https://simpleprogrammer.com/deal-overwhelm-learning-new-skills/>
 
 今年，像许多其他人一样，我制定了我的新年计划。有些事情很简单，比如一周去健身房四天(反正我基本上是这样做的)，每个月和我的女朋友进行一些有趣的约会(我真的不需要太努力说服自己)。
 

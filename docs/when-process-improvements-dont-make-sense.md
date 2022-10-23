@@ -1,6 +1,6 @@
 # 当过程改进没有意义时
 
-> 原文:[https://simple programmer . com/when-process-improvements-don-make-sense/](https://simpleprogrammer.com/when-process-improvements-dont-make-sense/)
+> 原文：<https://simpleprogrammer.com/when-process-improvements-dont-make-sense/>
 
 自从我在 [TrackAbout](http://corp.trackabout.com/) 加入团队以来，我一直在反思我关于流程改进的一些想法。
 

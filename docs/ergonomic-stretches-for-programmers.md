@@ -1,6 +1,6 @@
 # 程序员应该做的防止受伤的 8 个人体工程学伸展动作
 
-> 原文:[https://simple programmer . com/ergonomic-stretches-for-programmers/](https://simpleprogrammer.com/ergonomic-stretches-for-programmers/)
+> 原文：<https://simpleprogrammer.com/ergonomic-stretches-for-programmers/>
 
 ![ergonomic stretches for programmers](img/9da128c2717b4268721726e2cf1b9d40.png)
 

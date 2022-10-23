@@ -1,6 +1,6 @@
 # 你没有得到开发人员工作的 6 个原因
 
-> 原文:[https://simple programmer . com/6-reasons-why-why-you-not-get-the job/](https://simpleprogrammer.com/6-reasons-why-you-didnt-get-the-job/)
+> 原文：<https://simpleprogrammer.com/6-reasons-why-you-didnt-get-the-job/>
 
 所以，你申请了你梦想中的开发人员的工作，得到了面试机会，并认为进展顺利，但是你所能展示的努力却是一封拒绝信？
 

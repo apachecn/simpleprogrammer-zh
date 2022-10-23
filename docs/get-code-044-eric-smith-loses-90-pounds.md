@@ -1,6 +1,6 @@
 # 起床，代码 044:埃里克·史密斯减掉 90 磅
 
-> 原文:[https://simple programmer . com/get-code-044-Eric-Smith-loss-90-pounds/](https://simpleprogrammer.com/get-code-044-eric-smith-loses-90-pounds/)
+> 原文：<https://simpleprogrammer.com/get-code-044-eric-smith-loses-90-pounds/>
 
 在《起床和编码》这一集中，我采访了埃里克·史密斯，讲述了他在大约一年的时间里惊人地减掉了 90 磅的体重。
 

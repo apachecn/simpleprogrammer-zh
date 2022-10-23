@@ -1,6 +1,6 @@
 # 亲吻——统治一切的最佳实践
 
-> 原文:[https://simple programmer . com/kiss-one-best-practice-to-rule-them-all/](https://simpleprogrammer.com/kiss-one-best-practice-to-rule-them-all/)
+> 原文：<https://simpleprogrammer.com/kiss-one-best-practice-to-rule-them-all/>
 
 # **为什么接吻不容易**
 

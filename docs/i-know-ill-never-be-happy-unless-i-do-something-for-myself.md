@@ -1,6 +1,6 @@
 # 我知道我永远不会快乐，除非我为自己做点什么
 
-> 原文:[https://simple programmer . com/I-know-ill-never-be happy-除非我为自己做点什么/](https://simpleprogrammer.com/i-know-ill-never-be-happy-unless-i-do-something-for-myself/)
+> 原文：<https://simpleprogrammer.com/i-know-ill-never-be-happy-unless-i-do-something-for-myself/>
 
 在这一集里，我回复了一封关于为自己做点事感到真正快乐的邮件。
 

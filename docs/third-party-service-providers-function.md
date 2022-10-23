@@ -1,6 +1,6 @@
 # 为什么您需要知道您的第三方服务提供商真正在做什么
 
-> 原文:[https://simple programmer . com/third-party-service-providers-function/](https://simpleprogrammer.com/third-party-service-providers-function/)
+> 原文：<https://simpleprogrammer.com/third-party-service-providers-function/>
 
 你曾经在你的移动应用程序或在线业务中使用过 Google Analytics、Google AdWords 或 PayPal 等服务吗？您的答案很可能是“是”，因为像这样的服务对于开发人员和产品经理向他们的客户交付高质量的产品非常有用。
 

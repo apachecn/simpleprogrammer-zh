@@ -1,6 +1,6 @@
 # 起床，代码 047:米格尔·卡斯特罗知道如何保持健康
 
-> 原文:[https://simple programmer . com/get-code-047-Miguel-Castro-knows-stay-fit/](https://simpleprogrammer.com/get-code-047-miguel-castro-knows-stay-fit/)
+> 原文：<https://simpleprogrammer.com/get-code-047-miguel-castro-knows-stay-fit/>
 
 我终于有机会和米格尔·卡斯特罗谈论健身和饮食，以及他是如何在繁忙的生活中融入这些的。
 

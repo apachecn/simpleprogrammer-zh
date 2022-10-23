@@ -1,6 +1,6 @@
 # 开发者机器注意事项
 
-> 原文:[https://simple programmer . com/developer-machine-consideration/](https://simpleprogrammer.com/developer-machine-considerations/)
+> 原文：<https://simpleprogrammer.com/developer-machine-considerations/>
 
 我度假回来了。实际上我今天开始了一份新工作。我将在家为一家名为 [TrackAbout](http://trackabout.com) 的公司远程工作。
 

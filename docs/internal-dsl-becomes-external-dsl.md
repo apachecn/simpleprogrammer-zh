@@ -1,6 +1,6 @@
 # 内部 DSL 变成了外部 DSL
 
-> 原文:[https://simple programmer . com/internal-DSL-becoms-external-DSL/](https://simpleprogrammer.com/internal-dsl-becomes-external-dsl/)
+> 原文：<https://simpleprogrammer.com/internal-dsl-becomes-external-dsl/>
 
 最近，我一直致力于创建一种自动化测试语言，以允许比我之前创建的内部 DSL [更简单的语法。](https://simpleprogrammer.com/2010/01/05/automated-ui-testing-framework-a-real-example/)
 

@@ -1,6 +1,6 @@
 # 泽法为 JIRA 云发布新闻稿
 
-> 原文:[https://simple programmer . com/zephyr-for-jira-cloud-press-release/](https://simpleprogrammer.com/zephyr-for-jira-cloud-press-release/)
+> 原文：<https://simpleprogrammer.com/zephyr-for-jira-cloud-press-release/>
 
 我通常不做关于简单程序员的新闻发布，但是泽法——一家一直是这个博客和软件开发/ QA 社区的巨大支持者的公司——正在推出他们基于云的解决方案来扩展 JIRA 云，以允许测试，特别是我推荐的敏捷类型的测试工作流。
 

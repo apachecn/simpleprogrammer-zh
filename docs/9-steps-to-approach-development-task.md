@@ -1,6 +1,6 @@
 # 完成开发任务的 9 个步骤
 
-> 原文:[https://simple programmer . com/9-steps-to-approach-development-task/](https://simpleprogrammer.com/9-steps-to-approach-development-task/)
+> 原文：<https://simpleprogrammer.com/9-steps-to-approach-development-task/>
 
 作为一名新的开发人员，我试图专注于在最少的时间内完成最好的工作。这显然会比那些在开发领域工作多年并积累了大量经验的人花费更长的时间。但我相信，现在建立正确的流程可能会在未来为我节省大量时间。
 

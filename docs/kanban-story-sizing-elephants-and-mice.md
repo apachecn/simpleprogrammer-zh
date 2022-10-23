@@ -1,6 +1,6 @@
 # 看板故事规模，大象和老鼠
 
-> 原文:[https://simple programmer . com/kanban-story-sizing-elephants-and-mice/](https://simpleprogrammer.com/kanban-story-sizing-elephants-and-mice/)
+> 原文：<https://simpleprogrammer.com/kanban-story-sizing-elephants-and-mice/>
 
 在我们早上的站立会议上，我的一个团队成员提出了一个很好的观点，故事的大小并不那么重要。
 

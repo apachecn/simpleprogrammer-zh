@@ -1,6 +1,6 @@
 # 带动作的面向方面编程<>
 
-> 原文:[https://simple programmer . com/aspect-oriented-programming-by-action/](https://simpleprogrammer.com/aspect-oriented-programming-with-action/)
+> 原文：<https://simpleprogrammer.com/aspect-oriented-programming-with-action/>
 
 面向方面编程是一个非常好的概念。
 

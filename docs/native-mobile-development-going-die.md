@@ -1,6 +1,6 @@
 # 原生移动开发:它会消亡吗？
 
-> 原文:[https://simple programmer . com/native-mobile-development-going-die/](https://simpleprogrammer.com/native-mobile-development-going-die/)
+> 原文：<https://simpleprogrammer.com/native-mobile-development-going-die/>
 
 互联网上有很多关于移动开发未来的问题，尤其是本地和混合移动开发之间的区别。
 

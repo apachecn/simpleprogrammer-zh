@@ -1,6 +1,6 @@
 # C#与 Java 第 4 部分:工具(最终版)
 
-> 原文:[https://simple programmer . com/c-vs-Java-part-4-the-tools-final/](https://simpleprogrammer.com/c-vs-java-part-4-the-tools-final/)
+> 原文：<https://simpleprogrammer.com/c-vs-java-part-4-the-tools-final/>
 
 这是我的 C#与 Java 系列的最后一部分，但我认为这是最重要的一部分。工具决定开发环境的成败。好的工具可以让困难的工作变得容易，坏的工具可以让容易的工作变得困难。我对工具的定义是:任何有助于你工作的东西。这可能包括 ide、外部库、框架、测试工具等。
 

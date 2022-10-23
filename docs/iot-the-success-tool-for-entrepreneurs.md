@@ -1,6 +1,6 @@
 # IOT 是企业家的成功工具
 
-> 原文:[https://simple programmer . com/IOT-the-success-tool-for-entrepreneurs/](https://simpleprogrammer.com/iot-the-success-tool-for-entrepreneurs/)
+> 原文：<https://simpleprogrammer.com/iot-the-success-tool-for-entrepreneurs/>
 
 如果你在[创业领域](https://simpleprogrammer.com/2013/11/04/want-quit-job/)，或者是一个热衷于关注科技新闻的人，你会经常听到 IOT 这个缩写词。
 

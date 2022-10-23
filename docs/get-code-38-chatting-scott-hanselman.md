@@ -1,6 +1,6 @@
 # 起床编码 38:和斯科特·汉瑟曼聊天
 
-> 原文:[https://simple programmer . com/get-code-38-chatting-Scott-hanselman/](https://simpleprogrammer.com/get-code-38-chatting-scott-hanselman/)
+> 原文：<https://simpleprogrammer.com/get-code-38-chatting-scott-hanselman/>
 
 是的，没错。实际上，我们邀请了斯科特·汉瑟曼参加这个节目。多酷啊。
 

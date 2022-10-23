@@ -1,6 +1,6 @@
 # 持续集成最佳实践
 
-> 原文:[https://simple programmer . com/continuous-integration-best-practices/](https://simpleprogrammer.com/continuous-integration-best-practices/)
+> 原文：<https://simpleprogrammer.com/continuous-integration-best-practices/>
 
 在我之前的[帖子](https://simpleprogrammer.com/2009/12/23/do-you-ci-seeing-u-ciing-continuous-integration/)中，我谈到了为什么你需要开始使用持续集成，需要一个持续集成服务器。在这篇文章中，我将更多地关注当你设置了持续集成服务器时的持续集成最佳实践。
 

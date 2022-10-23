@@ -1,6 +1,6 @@
 # 重构然后更改遗留代码
 
-> 原文:[https://simple programmer . com/refactor-then-change-legacy-code/](https://simpleprogrammer.com/refactor-then-change-legacy-code/)
+> 原文：<https://simpleprogrammer.com/refactor-then-change-legacy-code/>
 
 昨天我想起了一个非常重要的步骤，在处理遗留代码时，我忘记了这个步骤。第一步。重构。
 

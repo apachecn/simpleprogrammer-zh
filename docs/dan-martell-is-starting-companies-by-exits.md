@@ -1,6 +1,6 @@
 # 丹·马爹利正通过退出来创建公司
 
-> 原文:[https://simple programmer . com/Dan-Martell-is-starting-companies-by-exits/](https://simpleprogrammer.com/dan-martell-is-starting-companies-by-exits/)
+> 原文：<https://simpleprogrammer.com/dan-martell-is-starting-companies-by-exits/>
 
 我第一次听说丹·马爹利是在我使用他的点播指导服务 [Clarity](http://clarity.fm/) 的时候。过了一会儿，我开始在 YouTube 上看到他的一些视频，我知道我必须见见这个人。我给丹发了电子邮件，请求他抽出一些时间，令我惊讶的是，他回答说“是的”Dan 立即给了我一些建议，让我改变了运行 Simple Programmer 的方式，并帮助我达到了今天的规模。总之，丹很棒。他创办了几家公司，有一些非常大的出口，包括 Flowtown 和 Clarity，他也是一位积极和成功的天使投资人。Dan 也有一些深厚的编程功底。
 

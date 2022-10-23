@@ -1,6 +1,6 @@
 # 摧毁你生产力的 5 种方法
 
-> 原文:[https://simple programmer . com/5 种摧毁你生产力的方法/](https://simpleprogrammer.com/5-ways-to-destroy-your-productivity/)
+> 原文：<https://simpleprogrammer.com/5-ways-to-destroy-your-productivity/>
 
 嘿你。
 

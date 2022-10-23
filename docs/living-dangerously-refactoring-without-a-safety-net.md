@@ -1,6 +1,6 @@
 # 危险地生活:没有安全网的重构
 
-> 原文:[https://simple programmer . com/living-dangerously-refactoring-without-a-safety-net/](https://simpleprogrammer.com/living-dangerously-refactoring-without-a-safety-net/)
+> 原文：<https://simpleprogrammer.com/living-dangerously-refactoring-without-a-safety-net/>
 
 在重构代码之前进行单元测试通常是个好主意。
 

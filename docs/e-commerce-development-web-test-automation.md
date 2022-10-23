@@ -1,6 +1,6 @@
 # 用 Web 测试自动化增强您的电子商务开发
 
-> 原文:[https://simple programmer . com/电子商务-开发-web-测试-自动化/](https://simpleprogrammer.com/e-commerce-development-web-test-automation/)
+> 原文：<https://simpleprogrammer.com/e-commerce-development-web-test-automation/>
 
 ![web test automation](img/65173e69ca58b60afa8015c0a8c154d3.png)
 

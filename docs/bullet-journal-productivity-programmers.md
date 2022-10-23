@@ -1,6 +1,6 @@
 # Bullet Journal:程序员的生产力系统
 
-> 原文:[https://simple programmer . com/bullet-journal-productivity-programmers/](https://simpleprogrammer.com/bullet-journal-productivity-programmers/)
+> 原文：<https://simpleprogrammer.com/bullet-journal-productivity-programmers/>
 
 ![](img/275331b4a03c84149143b433aeff5194.png)
 

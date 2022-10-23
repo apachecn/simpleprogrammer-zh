@@ -1,6 +1,6 @@
 # 简单分支策略第 2 部分:实现
 
-> 原文:[https://simple programmer . com/simple-branching-strategy-part-2-implementation/](https://simpleprogrammer.com/simple-branching-strategy-part-2-implementation/)
+> 原文：<https://simpleprogrammer.com/simple-branching-strategy-part-2-implementation/>
 
 在我的[上一篇文章](https://simpleprogrammer.com/2010/06/04/simple-branching-strategy-part-1-back-to-basics/)中，我谈到了拥有简单分支策略的想法，以及为什么我更喜欢每个人都在同一个分支工作的想法。
 

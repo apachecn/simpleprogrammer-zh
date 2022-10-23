@@ -1,6 +1,6 @@
 # 专业服务:你没有考虑过的程序员职业
 
-> 原文:[https://simple programmer . com/professional-services-programmer-career/](https://simpleprogrammer.com/professional-services-programmer-career/)
+> 原文：<https://simpleprogrammer.com/professional-services-programmer-career/>
 
 ![](img/24b9edf73c4e2f303cef607216a2bb68.png)
 

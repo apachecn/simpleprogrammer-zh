@@ -1,6 +1,6 @@
 # 实现超强的首席执行官生产力
 
-> 原文:[https://simple programmer . com/achieve-super charged-CEO-productivity/](https://simpleprogrammer.com/achieve-supercharged-ceo-productivity/)
+> 原文：<https://simpleprogrammer.com/achieve-supercharged-ceo-productivity/>
 
 有没有觉得一切都太多了？信息太多，要做的事太多，做的时间太少？
 

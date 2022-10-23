@@ -1,6 +1,6 @@
 # 互联网历史:第八部分——谷歌的故事
 
-> 原文:[https://simple programmer . com/history-internet-eight-Google-story/](https://simpleprogrammer.com/history-internet-eight-google-story/)
+> 原文：<https://simpleprogrammer.com/history-internet-eight-google-story/>
 
 欢迎来到我们“互联网历史”系列的第 8 部分。在第七部分中，我们看了一些早期的搜索引擎，包括 Lycos，AltaVista 和 Yahoo！。到 1996 年，AltaVista 和雅虎！是目前为止互联网用户寻找新网站的两个最受欢迎的选择。
 

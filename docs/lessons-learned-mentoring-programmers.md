@@ -1,6 +1,6 @@
 # 指导程序员的经验教训
 
-> 原文:[https://simple programmer . com/lessons-learned-mentoring-programmers/](https://simpleprogrammer.com/lessons-learned-mentoring-programmers/)
+> 原文：<https://simpleprogrammer.com/lessons-learned-mentoring-programmers/>
 
 ![](img/cbc4f1b8ebb117d1ab207632d25d0db2.png)
 

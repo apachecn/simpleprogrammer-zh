@@ -1,6 +1,6 @@
 # 软件开发人员面试技巧
 
-> 原文:[https://simple programmer . com/10-developer-job-interview-tips-to-land-the-best-job-you-can/](https://simpleprogrammer.com/10-developer-job-interview-tips-to-land-the-best-job-you-can/)
+> 原文：<https://simpleprogrammer.com/10-developer-job-interview-tips-to-land-the-best-job-you-can/>
 
 关于开发人员的面试，没有太多的建议。
 

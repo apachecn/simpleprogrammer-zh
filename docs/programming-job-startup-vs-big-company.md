@@ -1,6 +1,6 @@
 # 编程工作:初创公司与大公司
 
-> 原文:[https://simple programmer . com/programming-job-startup-vs-big-company/](https://simpleprogrammer.com/programming-job-startup-vs-big-company/)
+> 原文：<https://simpleprogrammer.com/programming-job-startup-vs-big-company/>
 
 成为一名新的程序员意味着让你的话在那里，发送你的简历到许多不同的公司，并希望你被打电话。
 

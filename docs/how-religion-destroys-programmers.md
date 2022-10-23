@@ -1,6 +1,6 @@
 # 宗教如何毁灭程序员
 
-> 原文:[https://simple programmer . com/how-religion-destroys-programmers/](https://simpleprogrammer.com/how-religion-destroys-programmers/)
+> 原文：<https://simpleprogrammer.com/how-religion-destroys-programmers/>
 
 我发现了自己的一些东西——我有一种惊人的天赋，总能做出最好的技术选择。
 

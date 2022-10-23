@@ -1,6 +1,6 @@
 # 验证用户输入，而不是开发人员输入
 
-> 原文:[https://simple programmer . com/validate-user-input-not-developer-input/](https://simpleprogrammer.com/validate-user-input-not-developer-input/)
+> 原文：<https://simpleprogrammer.com/validate-user-input-not-developer-input/>
 
 我有一个非常简单的规则，我喜欢遵循它来简化我的代码。
 

@@ -1,6 +1,6 @@
 # 如何为技术电话面试做充分准备
 
-> 原文:[https://simple programmer . com/prepare-technical-phone-screen-interview/](https://simpleprogrammer.com/prepare-technical-phone-screen-interview/)
+> 原文：<https://simpleprogrammer.com/prepare-technical-phone-screen-interview/>
 
 当一家公司为一个编程职位安排与你的电话筛选面试时，他们正在寻找你通过现场面试的机会。在大多数公司，他们在电话屏幕上问的[类问题比现场面试低一个档次；然而，对于谷歌、脸书和 LinkedIn 这样的公司来说，电话面试可能会像现场面试一样艰难。](https://simpleprogrammer.com/programming-interview-questions/)
 

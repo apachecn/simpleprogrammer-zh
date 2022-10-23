@@ -1,6 +1,6 @@
 # 使用 SQL 检查复杂的
 
-> 原文:[https://simple programmer . com/using-SQL-to-check-complicated-SQL/](https://simpleprogrammer.com/using-sql-to-check-complicated-sql/)
+> 原文：<https://simpleprogrammer.com/using-sql-to-check-complicated-sql/>
 
 ### 复杂的查询
 

@@ -1,6 +1,6 @@
 # “我是中本聪”——一个程序员如何改变世界
 
-> 原文:[https://simple programmer . com/Satoshi-nakamoto-changed-world/](https://simpleprogrammer.com/satoshi-nakamoto-changed-world/)
+> 原文：<https://simpleprogrammer.com/satoshi-nakamoto-changed-world/>
 
 > "《泰晤士报》03/1/2009 财政大臣濒临第二次银行救助."
 > 

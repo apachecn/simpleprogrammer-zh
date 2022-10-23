@@ -1,6 +1,6 @@
 # 软件开发人员能从韦纳身上学到什么
 
-> 原文:[https://simple programmer . com/what-software-developers-can-learn-from-Weiner/](https://simpleprogrammer.com/what-software-developers-can-learn-from-weiner/)
+> 原文：<https://simpleprogrammer.com/what-software-developers-can-learn-from-weiner/>
 
 ## 不要把你的小弟弟放在外面
 

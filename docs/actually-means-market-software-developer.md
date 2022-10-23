@@ -1,6 +1,6 @@
 # 作为软件开发人员推销自己的实际意义是什么
 
-> 原文:[https://simple programmer . com/actually-means-market-software-developer/](https://simpleprogrammer.com/actually-means-market-software-developer/)
+> 原文：<https://simpleprogrammer.com/actually-means-market-software-developer/>
 
 今天是你的幸运日！不，真的是。我将告诉你作为一名软件开发人员推销自己到底意味着什么，以及为什么它可能并不是一件坏事。
 

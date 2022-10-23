@@ -1,6 +1,6 @@
 # 学编程不用教程？
 
-> 原文:[https://simple programmer . com/learn-programming-without-tutorials/](https://simpleprogrammer.com/learn-programming-without-tutorials/)
+> 原文：<https://simpleprogrammer.com/learn-programming-without-tutorials/>
 
 几乎每个想要学习新事物的人，尤其是程序员和软件开发人员，都会搜索关于该主题的教程、书籍、文章等。毕竟，跟随以前做过这种事情并且已经写了逐步指南的人的脚步是学习事物的最简单的方法。
 

@@ -1,6 +1,6 @@
 # 软件工程师和程序员之间的 6 个关键区别
 
-> 原文:[https://simple programmer . com/differences-software-engineer-and-programmer/](https://simpleprogrammer.com/differences-software-engineer-and-programmer/)
+> 原文：<https://simpleprogrammer.com/differences-software-engineer-and-programmer/>
 
 ![](img/4acf852a3badd11c23e6d135bf61b98b.png)
 

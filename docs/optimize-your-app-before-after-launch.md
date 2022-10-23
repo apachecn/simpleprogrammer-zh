@@ -1,6 +1,6 @@
 # 你应该什么时候优化你的应用程序？(发射前还是发射后？)
 
-> 原文:[https://simple programmer . com/optimize-your-app-before-after-launch/](https://simpleprogrammer.com/optimize-your-app-before-after-launch/)
+> 原文：<https://simpleprogrammer.com/optimize-your-app-before-after-launch/>
 
 你应该优化你的应用吗？该不该优化你的 app？这就是问题所在。优化是程序员面临的最大问题之一。优化可以成就或毁灭任何项目，这取决于它是如何完成的。
 

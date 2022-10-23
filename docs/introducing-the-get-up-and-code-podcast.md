@@ -1,6 +1,6 @@
 # 介绍起床和编码播客！
 
-> 原文:[https://simple programmer . com/introducing-the-get-up-and-code-podcast/](https://simpleprogrammer.com/introducing-the-get-up-and-code-podcast/)
+> 原文：<https://simpleprogrammer.com/introducing-the-get-up-and-code-podcast/>
 
 我非常兴奋地宣布一个全新的播客 [Iris Classon](http://www.irisclasson.com/) 和我一起制作的**“起床编码！”**
 

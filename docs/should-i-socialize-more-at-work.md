@@ -1,6 +1,6 @@
 # 我应该在工作中多参加社交活动吗？
 
-> 原文:[https://simple programmer . com/should-I-socialize-more-in-work/](https://simpleprogrammer.com/should-i-socialize-more-at-work/)
+> 原文：<https://simpleprogrammer.com/should-i-socialize-more-at-work/>
 
 工作时间是为了…工作！是的，这次你答对了。然而，我认为你不应该疏远你所处的环境。毫无疑问，当你在工作时，你有你的工作伙伴，你有你可以互动的人，从这个环境中退出可能不是最好的主意。
 

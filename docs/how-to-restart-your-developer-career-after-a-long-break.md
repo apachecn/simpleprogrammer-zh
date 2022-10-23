@@ -1,6 +1,6 @@
 # 如何在长期中断后重新开始你的开发者生涯
 
-> 原文:[https://simple programmer . com/how-to-restart-your-developer-career-after-a long-break/](https://simpleprogrammer.com/how-to-restart-your-developer-career-after-a-long-break/)
+> 原文：<https://simpleprogrammer.com/how-to-restart-your-developer-career-after-a-long-break/>
 
 软件开发一直是精英领域之一，为拥有强大编码技能的个人提供了大量的工作机会。重要的是，不仅仅是拥有教育资格的专业人士在该行业大步前进；拥有编码技能的个人非常成功。
 

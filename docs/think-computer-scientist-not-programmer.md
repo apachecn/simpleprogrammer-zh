@@ -1,6 +1,6 @@
 # 为什么你应该像计算机科学家而不是程序员一样思考
 
-> 原文:[https://simple programmer . com/think-computer-scientist-not-程序员/](https://simpleprogrammer.com/think-computer-scientist-not-programmer/)
+> 原文：<https://simpleprogrammer.com/think-computer-scientist-not-programmer/>
 
 ![](img/ad5da6b87e346e32e4eb34cdb363af99.png)
 

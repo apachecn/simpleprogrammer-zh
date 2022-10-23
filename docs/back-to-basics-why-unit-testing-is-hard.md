@@ -1,6 +1,6 @@
 # 回到基础:为什么单元测试很难
 
-> 原文:[https://simple programmer . com/back-to-basics-why-unit-testing-is-hard/](https://simpleprogrammer.com/back-to-basics-why-unit-testing-is-hard/)
+> 原文：<https://simpleprogrammer.com/back-to-basics-why-unit-testing-is-hard/>
 
 最近，我越来越开始质疑单元测试的价值。我真的开始怀疑我们投入到单元级测试中的所有工作，以及我们投入到应用程序中的额外支持是否值得。
 

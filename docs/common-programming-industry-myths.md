@@ -1,6 +1,6 @@
 # 揭穿 7 个常见的编程行业神话
 
-> 原文:[https://simple programmer . com/common-programming-industry-myths/](https://simpleprogrammer.com/common-programming-industry-myths/)
+> 原文：<https://simpleprogrammer.com/common-programming-industry-myths/>
 
 ![programming industry myths](img/d26fcbd4783c9d07fa3db716318528c5.png)
 

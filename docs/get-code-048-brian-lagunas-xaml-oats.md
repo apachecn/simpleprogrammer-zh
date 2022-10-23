@@ -1,6 +1,6 @@
 # 起床，代码 048:布莱恩·拉古纳斯:XAML 和燕麦
 
-> 原文:[https://simple programmer . com/get-code-048-Brian-lagunas-xaml-oats/](https://simpleprogrammer.com/get-code-048-brian-lagunas-xaml-oats/)
+> 原文：<https://simpleprogrammer.com/get-code-048-brian-lagunas-xaml-oats/>
 
 在这一集里，我和我的老乡布莱恩·拉古纳斯聊了聊。布莱恩是 Infragistics 的项目经理，以前是一名健美运动员。
 

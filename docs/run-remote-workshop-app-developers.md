@@ -1,6 +1,6 @@
 # 远程工作的软件开发人员面临的 5 大挑战
 
-> 原文:[https://simple programmer . com/run-remote-workshop-app-developers/](https://simpleprogrammer.com/run-remote-workshop-app-developers/)
+> 原文：<https://simpleprogrammer.com/run-remote-workshop-app-developers/>
 
 ![challenges working remotely](img/743f2116f844f55336f6e6ce8bd1afe1.png)
 

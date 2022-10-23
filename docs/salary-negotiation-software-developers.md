@@ -1,6 +1,6 @@
 # 软件开发人员薪资谈判终极指南
 
-> 原文:[https://simple programmer . com/salary-negotiation-software-developers/](https://simpleprogrammer.com/salary-negotiation-software-developers/)
+> 原文：<https://simpleprogrammer.com/salary-negotiation-software-developers/>
 
 这可能是你在这本书里读到的最重要的章节之一——不，真的。作为一名开发人员，拥有良好的谈判软技能可以改变你的财务前景。
 

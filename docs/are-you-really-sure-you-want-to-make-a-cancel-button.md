@@ -1,6 +1,6 @@
 # 您真的确定要制作取消按钮吗？
 
-> 原文:[https://simple programmer . com/你真的确定要取消按钮吗/](https://simpleprogrammer.com/are-you-really-sure-you-want-to-make-a-cancel-button/)
+> 原文：<https://simpleprogrammer.com/are-you-really-sure-you-want-to-make-a-cancel-button/>
 
 您真的确定要为您的应用程序创建取消按钮吗？
 

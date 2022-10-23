@@ -1,6 +1,6 @@
 # 如何成为一名成功的自由程序员
 
-> 原文:[https://simple programmer . com/successful-freelance-programmer/](https://simpleprogrammer.com/successful-freelance-programmer/)
+> 原文：<https://simpleprogrammer.com/successful-freelance-programmer/>
 
 ![](img/8a0c5af0c3c547cb62cdfd17c8801917.png)
 

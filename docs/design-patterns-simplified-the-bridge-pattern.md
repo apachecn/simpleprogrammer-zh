@@ -1,6 +1,6 @@
 # 桥接模式
 
-> 原文:[https://simple programmer . com/design-patterns-simplified-the-bridge-pattern/](https://simpleprogrammer.com/design-patterns-simplified-the-bridge-pattern/)
+> 原文：<https://simpleprogrammer.com/design-patterns-simplified-the-bridge-pattern/>
 
 让我问你一个问题？
 

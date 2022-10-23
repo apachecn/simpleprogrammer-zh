@@ -1,6 +1,6 @@
 # 最让我纠结的是
 
-> 原文:[https://simple programmer . com/the-hard-thing-I-traffing-with/](https://simpleprogrammer.com/the-hardest-thing-i-struggle-with/)
+> 原文：<https://simpleprogrammer.com/the-hardest-thing-i-struggle-with/>
 
 当我试图找出构建 android 应用程序的“正确”方法时，我再次遇到了这个问题。
 

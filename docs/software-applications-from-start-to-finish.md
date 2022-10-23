@@ -1,6 +1,6 @@
 # 从头到尾构建软件应用程序
 
-> 原文:[https://simple programmer . com/software-applications-from-start-to-finish/](https://simpleprogrammer.com/software-applications-from-start-to-finish/)
+> 原文：<https://simpleprogrammer.com/software-applications-from-start-to-finish/>
 
 很多开发人员面临一个非常普遍的问题:学习包。
 

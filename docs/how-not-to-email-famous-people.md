@@ -1,6 +1,6 @@
 # 如何不给名人发邮件
 
-> 原文:[https://simple programmer . com/how-not-to-email-名人/](https://simpleprogrammer.com/how-not-to-email-famous-people/)
+> 原文：<https://simpleprogrammer.com/how-not-to-email-famous-people/>
 
 在这一集里，我谈论给名人发电子邮件。
 

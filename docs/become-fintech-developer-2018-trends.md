@@ -1,6 +1,6 @@
 # 为什么你应该成为金融科技开发者:2018 年金融科技趋势开发者指南
 
-> 原文:[https://simple programmer . com/become-fin tech-developer-2018-trends/](https://simpleprogrammer.com/become-fintech-developer-2018-trends/)
+> 原文：<https://simpleprogrammer.com/become-fintech-developer-2018-trends/>
 
 ![](img/e22abb296cd69e6ce3ddd21e1a8da493.png)
 

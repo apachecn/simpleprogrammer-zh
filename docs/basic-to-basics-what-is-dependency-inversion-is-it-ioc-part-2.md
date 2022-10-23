@@ -1,6 +1,6 @@
 # 基础到基础:什么是依赖倒置？是国际奥委会吗？第二部分
 
-> 原文:[https://simple programmer . com/basic-to-basics-what-is-dependency-inversion-is-it-IOC-part-2/](https://simpleprogrammer.com/basic-to-basics-what-is-dependency-inversion-is-it-ioc-part-2/)
+> 原文：<https://simpleprogrammer.com/basic-to-basics-what-is-dependency-inversion-is-it-ioc-part-2/>
 
 在我之前关于依赖倒置的文章中，我谈到了什么是依赖倒置，并给出了一些现实世界中的例子。
 

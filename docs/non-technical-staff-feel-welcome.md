@@ -1,6 +1,6 @@
 # 如何让非技术人员在你的科技公司感到受欢迎
 
-> 原文:[https://simple programmer . com/non-technical-staff-feel-welcome/](https://simpleprogrammer.com/non-technical-staff-feel-welcome/)
+> 原文：<https://simpleprogrammer.com/non-technical-staff-feel-welcome/>
 
 几个月前，我甚至不知道什么是应用程序接口(API)。
 

@@ -1,6 +1,6 @@
 # 客座博文:跨浏览器兼容性的神话
 
-> 原文:[https://simple programmer . com/guest-post-the-cross-browser-compatibility-myth/](https://simpleprogrammer.com/guest-post-the-cross-browser-compatibility-myth/)
+> 原文：<https://simpleprogrammer.com/guest-post-the-cross-browser-compatibility-myth/>
 
 *This post is a special guest post from my wife, Heather Sonmez, who is an expert on the subject of blackbox automated tests and designing frameworks for them.  She has designed successful automation frameworks for several companies.  She deals with software automation and framework design issues on a daily basis, so I thought she might be able to offer some good insight on the topic.*
 

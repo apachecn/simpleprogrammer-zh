@@ -1,6 +1,6 @@
 # 从软件工程师到人工智能:改变你的编程生涯
 
-> 原文:[https://simple programmer . com/人工智能-软件-工程师/](https://simpleprogrammer.com/artificial-intelligence-software-engineer/)
+> 原文：<https://simpleprogrammer.com/artificial-intelligence-software-engineer/>
 
 ![](img/4992ab13bae05de27803043c52df9796.png)
 

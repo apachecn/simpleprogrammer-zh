@@ -1,6 +1,6 @@
 # 不要去追逐瀑布(迷你瀑布 vs 敏捷)
 
-> 原文:[https://simple programmer . com/don-go-chasing-falls-mini-falls-vs-agile/](https://simpleprogrammer.com/dont-go-chasing-waterfalls-mini-waterfall-vs-agile/)
+> 原文：<https://simpleprogrammer.com/dont-go-chasing-waterfalls-mini-waterfall-vs-agile/>
 
 在当今的软件开发世界中，对于敏捷和迷你瀑布的区别有很多困惑。仅仅因为你有迭代，并不意味着你是敏捷的。
 

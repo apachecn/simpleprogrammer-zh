@@ -1,6 +1,6 @@
 # 不是一切都是 80-20，不要盲目遵循帕累托定律
 
-> 原文:[https://simple programmer . com/everything-80-20-don ' t-blindly-follow-paretos-law/](https://simpleprogrammer.com/everything-80-20-dont-blindly-follow-paretos-law/)
+> 原文：<https://simpleprogrammer.com/everything-80-20-dont-blindly-follow-paretos-law/>
 
 有一个关于这个世界的有用观察经常应用于软件开发，叫做[帕累托法则](http://en.wikipedia.org/wiki/Pareto_principle)或帕累托法则。
 

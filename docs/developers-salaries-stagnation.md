@@ -1,6 +1,6 @@
 # 开发商薪资停滞不前的真正原因
 
-> 原文:[https://simple programmer . com/developers-salary-stagnation/](https://simpleprogrammer.com/developers-salaries-stagnation/)
+> 原文：<https://simpleprogrammer.com/developers-salaries-stagnation/>
 
 ![](img/7d233342bc5ec82fd1ed22c58a26650e.png)
 

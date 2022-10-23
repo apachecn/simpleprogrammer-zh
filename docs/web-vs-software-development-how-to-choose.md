@@ -1,6 +1,6 @@
 # Web 开发 Vs .软件开发:如何选择？
 
-> 原文:[https://simple programmer . com/we b-vs-software-development-how-to-choose/](https://simpleprogrammer.com/web-vs-software-development-how-to-choose/)
+> 原文：<https://simpleprogrammer.com/web-vs-software-development-how-to-choose/>
 
 是否有人对走哪条路有疑问:Web 开发还是软件开发？
 

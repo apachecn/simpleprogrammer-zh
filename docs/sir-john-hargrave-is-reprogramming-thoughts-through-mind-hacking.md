@@ -1,6 +1,6 @@
 # 约翰·哈格瑞夫爵士正在通过心灵黑客重新编程思想
 
-> 原文:[https://simple programmer . com/sir-John-hargrave-is-reprogramming-thoughts-through-mind-hacking/](https://simpleprogrammer.com/sir-john-hargrave-is-reprogramming-thoughts-through-mind-hacking/)
+> 原文：<https://simpleprogrammer.com/sir-john-hargrave-is-reprogramming-thoughts-through-mind-hacking/>
 
 我有机会采访约翰·哈格雷夫爵士关于心灵黑客的话题，这是一个我非常感兴趣的话题。如果我们都有能力重新编程我们的思想，以获得或保持新的习惯，那么这是一种我们都能从中受益的技能。实际上，我在 *[软技能](http://http//simpleprogrammer.com/softskills)* 中谈了一点，但约翰在他的新书中谈得更详细。
 

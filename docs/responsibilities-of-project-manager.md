@@ -1,6 +1,6 @@
 # 项目经理的 6 项主要职责
 
-> 原文:[https://simple programmer . com/项目经理职责/](https://simpleprogrammer.com/responsibilities-of-project-manager/)
+> 原文：<https://simpleprogrammer.com/responsibilities-of-project-manager/>
 
 ![responsibilities project manager](img/a354bb4549d760bc40cc62cc9a658e95.png)
 

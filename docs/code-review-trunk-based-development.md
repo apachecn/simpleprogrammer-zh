@@ -1,6 +1,6 @@
 # 为什么代码审查会损害您的代码质量和团队生产力
 
-> 原文:[https://simple programmer . com/code-review-trunk-based-development/](https://simpleprogrammer.com/code-review-trunk-based-development/)
+> 原文：<https://simpleprogrammer.com/code-review-trunk-based-development/>
 
 最近，我和我的团队进行了一项实验。
 

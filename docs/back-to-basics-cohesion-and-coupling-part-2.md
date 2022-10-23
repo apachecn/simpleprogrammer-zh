@@ -1,6 +1,6 @@
 # 回到基础:内聚和耦合第 2 部分
 
-> 原文:[https://simple programmer . com/back-to-basics-cohesion-and-coupling-part-2/](https://simpleprogrammer.com/back-to-basics-cohesion-and-coupling-part-2/)
+> 原文：<https://simpleprogrammer.com/back-to-basics-cohesion-and-coupling-part-2/>
 
 这篇文章是我关于内聚和耦合的文章的延续，它是一系列[回归基础](https://simpleprogrammer.com/2010/10/30/getting-back-to-basics-introduction-and-why/)文章的一部分，这些文章审视并质疑软件开发的一些核心原则和实践。
 

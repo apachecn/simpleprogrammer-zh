@@ -1,6 +1,6 @@
 # 程序员变得更环保的 10 种方法
 
-> 原文:[https://simple programmer . com/programmers-become-environmental-sustainable/](https://simpleprogrammer.com/programmers-become-environmentally-sustainable/)
+> 原文：<https://simpleprogrammer.com/programmers-become-environmentally-sustainable/>
 
 简而言之，环境可持续性是以负责任的方式与环境互动的过程，以避免自然资源的退化或枯竭，从而保持长期的环境质量。环境可持续性既影响技术，也受技术影响。
 

@@ -1,6 +1,6 @@
 # 从 QA(或其他技术角色)到软件开发人员
 
-> 原文:[https://simple programmer . com/going-from-QA-to-software-developer/](https://simpleprogrammer.com/going-from-qa-to-software-developer/)
+> 原文：<https://simpleprogrammer.com/going-from-qa-to-software-developer/>
 
 我决定用整整一章来讨论这个话题，因为这是我最常被问到的问题之一。从质量保证或其他技术角色转变为软件开发人员可能会非常困难。
 

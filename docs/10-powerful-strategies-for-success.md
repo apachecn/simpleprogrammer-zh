@@ -1,6 +1,6 @@
 # 帮助你成为成功程序员的 10 个强有力的策略
 
-> 原文:[https://simple programmer . com/10-powerful-strategies-for-success/](https://simpleprogrammer.com/10-powerful-strategies-for-success/)
+> 原文：<https://simpleprogrammer.com/10-powerful-strategies-for-success/>
 
 说实话，编程很难学。而且获得计算机科学学位也不会让你轻松多少，因为学术计算机科学很大程度上就是数学。虽然数学很重要，但它不是你在现实世界编程工作中所需要的。
 

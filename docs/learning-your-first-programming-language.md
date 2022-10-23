@@ -1,6 +1,6 @@
 # 学习你的第一门编程语言
 
-> 原文:[https://simple programmer . com/learning-your-first-programming-language/](https://simpleprogrammer.com/learning-your-first-programming-language/)
+> 原文：<https://simpleprogrammer.com/learning-your-first-programming-language/>
 
 好了，你已经决定了你想学什么编程语言，现在你已经准备好学习它了。
 

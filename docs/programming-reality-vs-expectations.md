@@ -1,6 +1,6 @@
 # 编程现实与期望(您的想法与实际情况！)
 
-> 原文:[https://simple programmer . com/programming-reality-vs-expectations/](https://simpleprogrammer.com/programming-reality-vs-expectations/)
+> 原文：<https://simpleprogrammer.com/programming-reality-vs-expectations/>
 
 编程现实可能与其预期大相径庭。#编程#编程现实#编程期望
 

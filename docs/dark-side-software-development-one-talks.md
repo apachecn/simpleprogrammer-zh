@@ -1,6 +1,6 @@
 # 没人谈论的软件开发的阴暗面
 
-> 原文:[https://simple programmer . com/dark-side-software-development-one-talks/](https://simpleprogrammer.com/dark-side-software-development-one-talks/)
+> 原文：<https://simpleprogrammer.com/dark-side-software-development-one-talks/>
 
 嘿，你。
 

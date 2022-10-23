@@ -1,6 +1,6 @@
 # 没有学位如何找到编程工作
 
-> 原文:[https://simple programmer . com/programming-job-without-a-degree-how-to/](https://simpleprogrammer.com/programming-job-without-a-degree-how-to/)
+> 原文：<https://simpleprogrammer.com/programming-job-without-a-degree-how-to/>
 
 没有学位有可能找到编程工作吗？这是我从开发者那里听到的最常见的问题之一。
 

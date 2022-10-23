@@ -1,6 +1,6 @@
 # 克服远程工作时的心理斗争
 
-> 原文:[https://simple programmer . com/challenges-remote-workers-face/](https://simpleprogrammer.com/challenges-remote-workers-face/)
+> 原文：<https://simpleprogrammer.com/challenges-remote-workers-face/>
 
 ![challenges remote workers face](img/5983e32f89d3cf8a4d4fd07b45b66f25.png)
 

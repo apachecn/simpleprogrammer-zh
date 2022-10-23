@@ -1,6 +1,6 @@
 # 2022 年最受欢迎的 15 种应用开发编程语言
 
-> 原文:[https://simple programmer . com/popular-app-development-languages-2022/](https://simpleprogrammer.com/popular-app-development-languages-2022/)
+> 原文：<https://simpleprogrammer.com/popular-app-development-languages-2022/>
 
 ![popular app development languages](img/53c7332377ae6b481e605c2559127aef.png)
 

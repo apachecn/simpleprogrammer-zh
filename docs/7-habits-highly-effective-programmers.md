@@ -1,6 +1,6 @@
 # 高效程序员的 7 个习惯
 
-> 原文:[https://simple programmer . com/7-habits-high-effective-programmers/](https://simpleprogrammer.com/7-habits-highly-effective-programmers/)
+> 原文：<https://simpleprogrammer.com/7-habits-highly-effective-programmers/>
 
 我们程序员每天做的事情中，大约有 40%到 45%是自动完成的:刷牙、早上喝杯咖啡、坐在办公桌前时打开电子邮件，以及许多其他事情。这些习惯在我们的日常生活中为我们节省了大量的时间和精力，并且对我们日常任务的整体质量和成就非常重要。
 

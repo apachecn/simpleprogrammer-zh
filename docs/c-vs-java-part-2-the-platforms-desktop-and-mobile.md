@@ -1,6 +1,6 @@
 # C#与 Java 第 2 部分:桌面和移动平台
 
-> 原文:[https://simple programmer . com/c-vs-Java-part-2-the-platforms-desktop-and-mobile/](https://simpleprogrammer.com/c-vs-java-part-2-the-platforms-desktop-and-mobile/)
+> 原文：<https://simpleprogrammer.com/c-vs-java-part-2-the-platforms-desktop-and-mobile/>
 
 在这篇文章中，我们将同时关注 C#和 Java 的桌面和移动平台。
 

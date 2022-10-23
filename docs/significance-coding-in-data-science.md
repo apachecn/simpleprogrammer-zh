@@ -1,6 +1,6 @@
 # 解读编码在数据科学中的意义
 
-> 原文:[https://simple programmer . com/significance-coding-in-data-science/](https://simpleprogrammer.com/significance-coding-in-data-science/)
+> 原文：<https://simpleprogrammer.com/significance-coding-in-data-science/>
 
 ![significance of data science](img/81caee81051e5c7963f39becbc7edf9b.png)
 

@@ -1,6 +1,6 @@
 # 2020 年最好学的编程语言(#1 会让你震惊)
 
-> 原文:[https://simple programmer . com/best-programming-languages-2020-2/](https://simpleprogrammer.com/best-programming-languages-2020-2/)
+> 原文：<https://simpleprogrammer.com/best-programming-languages-2020-2/>
 
 很多人问我他们应该学习什么编程语言。我发现自己处于困境，因为这是一个很难回答的问题。在做决定之前，有很多事情需要考虑，尤其是当涉及到你应该学习哪种编程语言时。
 

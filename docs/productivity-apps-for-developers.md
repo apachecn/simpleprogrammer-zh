@@ -1,6 +1,6 @@
 # 每个开发人员都应该拥有的 8 款生产力应用
 
-> 原文:[https://simple programmer . com/productivity-apps-for-developers/](https://simpleprogrammer.com/productivity-apps-for-developers/)
+> 原文：<https://simpleprogrammer.com/productivity-apps-for-developers/>
 
 <figure class="alignright is-resized">
 

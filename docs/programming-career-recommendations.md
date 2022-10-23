@@ -1,6 +1,6 @@
 # 给学生和新手的 10 条编程职业建议
 
-> 原文:[https://simple programmer . com/programming-career-recommendations/](https://simpleprogrammer.com/programming-career-recommendations/)
+> 原文：<https://simpleprogrammer.com/programming-career-recommendations/>
 
 ![](img/76b3c46e62331aa578718dfed551fbda.png)
 

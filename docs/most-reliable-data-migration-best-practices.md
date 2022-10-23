@@ -1,6 +1,6 @@
 # 7 个最可靠的数据迁移最佳实践
 
-> 原文:[https://simple programmer . com/most-reliable-data-migration-best-practices/](https://simpleprogrammer.com/most-reliable-data-migration-best-practices/)
+> 原文：<https://simpleprogrammer.com/most-reliable-data-migration-best-practices/>
 
 ![data migration](img/eba54d103084cc3d07db8205ec6b0592.png)
 

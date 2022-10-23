@@ -1,6 +1,6 @@
 # 人工智能技术改变人类未来的 5 种方式
 
-> 原文:[https://simple programmer . com/ai-technology-changing-the-future/](https://simpleprogrammer.com/ai-technology-changing-the-future/)
+> 原文：<https://simpleprogrammer.com/ai-technology-changing-the-future/>
 
 ![ai technology future](img/a61f3edfaf5732cc60a7cbb235faf97c.png)
 

@@ -1,6 +1,6 @@
 # Web 开发的 7 大机器学习框架
 
-> 原文:[https://simple programmer . com/machine-learning-frameworks-for-web-development/](https://simpleprogrammer.com/machine-learning-frameworks-for-web-development/)
+> 原文：<https://simpleprogrammer.com/machine-learning-frameworks-for-web-development/>
 
 ![machine learning frameworks web development](img/455d886598f4ed432ab4ec5166ee6ecf.png)
 

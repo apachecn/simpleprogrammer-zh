@@ -1,6 +1,6 @@
 # 起床和代码 50:健身生活改变与米格尔卡拉斯科
 
-> 原文:[https://simple programmer . com/get-code-50-fitness-life-change-Miguel-carrasco/](https://simpleprogrammer.com/get-code-50-fitness-life-change-miguel-carrasco/)
+> 原文：<https://simpleprogrammer.com/get-code-50-fitness-life-change-miguel-carrasco/>
 
 我终于有机会采访米格尔·卡拉斯科了。我一直在关注他围绕着他对健身的热情成功地开展了一项新业务。
 

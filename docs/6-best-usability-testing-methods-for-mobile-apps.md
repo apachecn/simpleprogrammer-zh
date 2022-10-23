@@ -1,6 +1,6 @@
 # 移动应用的 6 种最佳可用性测试方法
 
-> 原文:[https://simple programmer . com/6-best-可用性测试-移动应用方法/](https://simpleprogrammer.com/6-best-usability-testing-methods-for-mobile-apps/)
+> 原文：<https://simpleprogrammer.com/6-best-usability-testing-methods-for-mobile-apps/>
 
 ![Usability testing methods](img/d5fed40391d57f4914e54b4a87438f00.png)
 

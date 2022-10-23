@@ -1,6 +1,6 @@
 # 不要试图学习太多东西，让自己不知所措
 
-> 原文:[https://simple programmer . com/don-overflow-trying-learn-much/](https://simpleprogrammer.com/dont-overwhelm-trying-learn-much/)
+> 原文：<https://simpleprogrammer.com/dont-overwhelm-trying-learn-much/>
 
 自我教育是个好主意。
 

@@ -1,6 +1,6 @@
 # 软件开发人员签约与带薪雇佣指南
 
-> 原文:[https://simple programmer . com/contracting-vs . salary-employment/](https://simpleprogrammer.com/contracting-versus-salary-employment/)
+> 原文：<https://simpleprogrammer.com/contracting-versus-salary-employment/>
 
 软件开发行业有两种基本的就业类型。
 

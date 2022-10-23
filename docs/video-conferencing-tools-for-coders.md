@@ -1,6 +1,6 @@
 # 6 个面向编码人员的视频会议聊天工具
 
-> 原文:[https://simple programmer . com/video-conferencing-tools-for-coders/](https://simpleprogrammer.com/video-conferencing-tools-for-coders/)
+> 原文：<https://simpleprogrammer.com/video-conferencing-tools-for-coders/>
 
 ![video conferencing coders](img/a6b3264e77dd22d1de3d6150696b1039.png)
 

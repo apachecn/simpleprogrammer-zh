@@ -1,6 +1,6 @@
 # 每个区块链开发者必须知道的 8 种编程语言
 
-> 原文:[https://simple programmer . com/top-8-区块链编程语言/](https://simpleprogrammer.com/top-8-blockchain-programming-languages/)
+> 原文：<https://simpleprogrammer.com/top-8-blockchain-programming-languages/>
 
 ![blockchain programming language](img/6c3adb46c5c5d697b56dc03d4719a48c.png)
 

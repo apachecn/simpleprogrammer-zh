@@ -1,6 +1,6 @@
 # 应该先学什么编程语言？(+2019 年热门语言)
 
-> 原文:[https://simple programmer . com/what-programming-language-should-I-learn-first/](https://simpleprogrammer.com/what-programming-language-should-i-learn-first/)
+> 原文：<https://simpleprogrammer.com/what-programming-language-should-i-learn-first/>
 
 我看到有抱负的(甚至有经验的)开发人员问的一个问题是他们应该学习哪种编程语言。#编程#编程语言#学习编程
 

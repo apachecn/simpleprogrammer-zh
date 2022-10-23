@@ -1,6 +1,6 @@
 # 用这个免费的博客课程改变你的生活
 
-> 原文:[https://simple programmer . com/my-free-blogging-course-getting-unless-results/](https://simpleprogrammer.com/my-free-blogging-course-is-getting-unbelievable-results/)
+> 原文：<https://simpleprogrammer.com/my-free-blogging-course-is-getting-unbelievable-results/>
 
 大约在 2014 年 12 月中旬，我决定推出一个[完全免费的博客课程，将在 3 周内通过电子邮件提供。](http://devcareerboost.com/blog-course/)
 

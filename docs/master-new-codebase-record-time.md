@@ -1,6 +1,6 @@
 # 以创纪录的速度掌握新的代码库
 
-> 原文:[https://simple programmer . com/master-new-code base-record-time/](https://simpleprogrammer.com/master-new-codebase-record-time/)
+> 原文：<https://simpleprogrammer.com/master-new-codebase-record-time/>
 
 你加入了一个新团队。您项目的代码库非常庞大。你不知道从哪里开始。你不想看起来很傻，你的队友都在忙自己的工作。不管你的经验水平如何，你如何快速地在一个新的代码库中变得高效？
 

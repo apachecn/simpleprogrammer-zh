@@ -1,6 +1,6 @@
 # 在 2016 年软件开发者播客大奖中为您最喜爱的播客投票
 
-> 原文:[https://simple programmer . com/software-developer-podcast-awards-2016/](https://simpleprogrammer.com/software-developer-podcast-awards-2016/)
+> 原文：<https://simpleprogrammer.com/software-developer-podcast-awards-2016/>
 
 早在 10 月份，我发布了一份对开发者播客最终列表的更新。
 

@@ -1,6 +1,6 @@
 # 在没有 MOOC 或书本的情况下自学机器学习
 
-> 原文:[https://simple programmer . com/machine-learning-without-mooc-book/](https://simpleprogrammer.com/machine-learning-without-mooc-book/)
+> 原文：<https://simpleprogrammer.com/machine-learning-without-mooc-book/>
 
 ![](img/0e57234aa7685477af550a0cf0073815.png)
 

@@ -1,6 +1,6 @@
 # 你看见你在抽烟吗？连续累计
 
-> 原文:[https://simple programmer . com/do-you-ci-seeing-u-ciing-continuous-integration/](https://simpleprogrammer.com/do-you-ci-seeing-u-ciing-continuous-integration/)
+> 原文：<https://simpleprogrammer.com/do-you-ci-seeing-u-ciing-continuous-integration/>
 
 ### 你的团队正在使用某种形式的持续集成吗？
 

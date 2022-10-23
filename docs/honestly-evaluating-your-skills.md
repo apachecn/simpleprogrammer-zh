@@ -1,6 +1,6 @@
 # 诚实地评估你的技能
 
-> 原文:[https://simple programmer . com/诚实评估你的技能/](https://simpleprogrammer.com/honestly-evaluating-your-skills/)
+> 原文：<https://simpleprogrammer.com/honestly-evaluating-your-skills/>
 
 在工作面试中，雇主经常会问你的优势和劣势是什么。这些信息可能对你潜在的雇主非常有用，但对你自己更有用。诚实地回答这些问题有助于按照你想要的方式塑造你的职业生涯。
 

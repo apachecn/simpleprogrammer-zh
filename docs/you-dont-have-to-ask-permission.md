@@ -1,6 +1,6 @@
 # 你不需要请求许可
 
-> 原文:[https://simple programmer . com/you-do-has-to-ask-permission/](https://simpleprogrammer.com/you-dont-have-to-ask-permission/)
+> 原文：<https://simpleprogrammer.com/you-dont-have-to-ask-permission/>
 
 很长一段时间，阻碍我生活的一个主要因素就是认为我需要得到许可才能做某事或成为某人。
 

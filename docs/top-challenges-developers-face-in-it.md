@@ -1,6 +1,6 @@
 # 开发人员在 IT 时代面临的主要挑战以及克服这些挑战的策略
 
-> 原文:[https://simple programmer . com/top-challenges-developers-face-in-it/](https://simpleprogrammer.com/top-challenges-developers-face-in-it/)
+> 原文：<https://simpleprogrammer.com/top-challenges-developers-face-in-it/>
 
 ![](img/cc9846c07ca5aac204f3ffe3a6503e0e.png)
 

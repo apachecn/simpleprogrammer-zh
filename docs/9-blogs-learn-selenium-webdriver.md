@@ -1,6 +1,6 @@
 # 学习 Selenium WebDriver 的博客
 
-> 原文:[https://simple programmer . com/9-blogs-learn-selenium-web driver/](https://simpleprogrammer.com/9-blogs-learn-selenium-webdriver/)
+> 原文：<https://simpleprogrammer.com/9-blogs-learn-selenium-webdriver/>
 
 Selenium 是一个非常有用的工具集，用于自动化 web 浏览器，而 WebDriver 是一个高级工具，可以让您针对多种不同的浏览器测试您的脚本。每个 web 开发人员都需要知道如何使用 Selenium WebDriver。
 

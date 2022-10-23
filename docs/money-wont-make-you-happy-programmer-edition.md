@@ -1,6 +1,6 @@
 # 金钱不会让你快乐:程序员版
 
-> 原文:[https://simple programmer . com/money-wot-make-you-happy-programmer-edition/](https://simpleprogrammer.com/money-wont-make-you-happy-programmer-edition/)
+> 原文：<https://simpleprogrammer.com/money-wont-make-you-happy-programmer-edition/>
 
 我们都听说过“金钱买不到幸福”这句话，但是我们当中有多少人真的相信这句话呢？
 

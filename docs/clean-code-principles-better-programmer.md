@@ -1,6 +1,6 @@
 # 干净代码原则:成为更好的程序员
 
-> 原文:[https://simple programmer . com/clean-code-principles-better-programmer/](https://simpleprogrammer.com/clean-code-principles-better-programmer/)
+> 原文：<https://simpleprogrammer.com/clean-code-principles-better-programmer/>
 
 ![](img/7a508aef29f5bec4b8fbf7588c0af15e.png)
 

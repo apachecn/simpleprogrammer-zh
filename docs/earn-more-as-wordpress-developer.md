@@ -1,6 +1,6 @@
 # 如何在没有新客户的情况下作为 WordPress 开发者赚更多钱
 
-> 原文:[https://simple programmer . com/earn-more-as-WordPress-developer/](https://simpleprogrammer.com/earn-more-as-wordpress-developer/)
+> 原文：<https://simpleprogrammer.com/earn-more-as-wordpress-developer/>
 
 ![earn more as wordpress developer](img/28a0e72a2ac3dee40dcb58eded637780.png)
 

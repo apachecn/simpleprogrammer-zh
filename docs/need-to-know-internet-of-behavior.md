@@ -1,6 +1,6 @@
 # 关于 IoB，你需要知道什么(行为互联网)
 
-> 原文:[https://simple programmer . com/need-to-know-internet-of-behavior/](https://simpleprogrammer.com/need-to-know-internet-of-behavior/)
+> 原文：<https://simpleprogrammer.com/need-to-know-internet-of-behavior/>
 
 ![internet of behavior](img/9f5e79ac1b69d965c7e9a8eb70695f6a.png)
 

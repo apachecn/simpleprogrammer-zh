@@ -1,6 +1,6 @@
 # 那么，你想辞职吗？(为什么你应该)
 
-> 原文:[https://simple programmer . com/so-you-want-to-quit-you-job-why-you-should/](https://simpleprogrammer.com/so-you-want-to-quit-your-job-why-you-should/)
+> 原文：<https://simpleprogrammer.com/so-you-want-to-quit-your-job-why-you-should/>
 
 这是我写的关于辞职的一系列文章中的第一篇。[T2![hand draw i quit on note taped recycle paper](img/ebb6f253fb1d90188f016840260d1699.png "hand draw i quit on note taped recycle paper")T4](https://simpleprogrammer.com/wp-content/uploads/2013/08/I-quit.jpg)T6】
 

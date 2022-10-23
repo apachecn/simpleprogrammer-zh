@@ -1,6 +1,6 @@
 # 开发人员应该知道的 5 大 React 原生 UI 组件库
 
-> 原文:[https://simple programmer . com/react-native-ui-component-libraries/](https://simpleprogrammer.com/react-native-ui-component-libraries/)
+> 原文：<https://simpleprogrammer.com/react-native-ui-component-libraries/>
 
 也许你知道，React Native 是一个开源的 UI 框架，用于构建在线移动应用。毫不奇怪(考虑到移动应用的流行)，React Native 近年来变得非常受欢迎。它允许开发人员使用一行代码为许多平台(如 Android、Windows 和 iOS)创建应用程序。
 

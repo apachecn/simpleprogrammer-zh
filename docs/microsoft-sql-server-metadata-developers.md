@@ -1,6 +1,6 @@
 # 面向开发人员的 Microsoft SQL Server 元数据
 
-> 原文:[https://simple programmer . com/Microsoft-SQL-server-metadata-developers/](https://simpleprogrammer.com/microsoft-sql-server-metadata-developers/)
+> 原文：<https://simpleprogrammer.com/microsoft-sql-server-metadata-developers/>
 
 ![](img/b3505c9205edaf2c911142bc2a0212bf.png)
 

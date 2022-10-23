@@ -1,6 +1,6 @@
 # 如何从手工测试转移到自动化测试？
 
-> 原文:[https://simple programmer . com/how-can-move-from-manual-testing-to-test-automation/](https://simpleprogrammer.com/how-can-you-move-from-manual-testing-to-test-automation/)
+> 原文：<https://simpleprogrammer.com/how-can-you-move-from-manual-testing-to-test-automation/>
 
 手动测试已经不是五年前的样子了。
 

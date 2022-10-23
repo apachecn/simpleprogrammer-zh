@@ -1,6 +1,6 @@
 # 你不必做你擅长的事情
 
-> 原文:[https://simple programmer . com/you-don-do-to-do-what-you-bed-be-do-that-do-what-you-good-at/](https://simpleprogrammer.com/you-dont-have-to-do-what-you-are-good-at/)
+> 原文：<https://simpleprogrammer.com/you-dont-have-to-do-what-you-are-good-at/>
 
 我们都有长处和短处。任何人都不会对此感到意外。
 

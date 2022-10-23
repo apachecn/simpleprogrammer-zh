@@ -1,6 +1,6 @@
 # 使 API 更易于使用和理解
 
-> 原文:[https://simple programmer . com/use-default-parameters-enumerations-make-API-easy-use/](https://simpleprogrammer.com/use-default-parameters-enumerations-make-apis-easier-use/)
+> 原文：<https://simpleprogrammer.com/use-default-parameters-enumerations-make-apis-easier-use/>
 
 有多少次你试图使用一个 API，却发现你必须用你不知道的值来填充一些荒谬的参数？
 

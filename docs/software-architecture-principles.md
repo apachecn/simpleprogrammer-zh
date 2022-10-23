@@ -1,6 +1,6 @@
 # 每个程序员都应该遵循的软件架构原则
 
-> 原文:[https://simple programmer . com/software-architecture-principles/](https://simpleprogrammer.com/software-architecture-principles/)
+> 原文：<https://simpleprogrammer.com/software-architecture-principles/>
 
 架构为任何软件项目奠定了坚实的基础。一个合理的架构定义了软件产品的技术标准、设计、交付和支持框架。当[设计软件架构](https://simpleprogrammer.com/software-architecture-decisions/)时，人们应该牢记开发和技术目标，并确保一切都是合理的、可伸缩的和有成本效益的。
 

@@ -1,6 +1,6 @@
 # 作为程序员，如何在交谈中不尴尬
 
-> 原文:[https://simple programmer . com/not-be-笨拙的程序员/](https://simpleprogrammer.com/not-be-awkward-as-a-programmer/)
+> 原文：<https://simpleprogrammer.com/not-be-awkward-as-a-programmer/>
 
 我知道你们很多人都很害羞，你可能认为自己是个内向的人。老实说，我不太相信这个术语。
 

@@ -1,6 +1,6 @@
 # 如何开始云原生应用开发
 
-> 原文:[https://simple programmer . com/get-started-cloud-native-application-development/](https://simpleprogrammer.com/get-started-cloud-native-application-development/)
+> 原文：<https://simpleprogrammer.com/get-started-cloud-native-application-development/>
 
 ![cloud native application development](img/79afe0c4c6db560e01f3f6ad759856fc.png)
 

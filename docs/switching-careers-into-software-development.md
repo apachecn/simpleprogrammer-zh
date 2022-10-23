@@ -1,6 +1,6 @@
 # 转行从事软件开发的潜在好处
 
-> 原文:[https://simple programmer . com/switching-careers-into-software-development/](https://simpleprogrammer.com/switching-careers-into-software-development/)
+> 原文：<https://simpleprogrammer.com/switching-careers-into-software-development/>
 
 我认识的一些最好的软件开发人员在开始他们的职业生涯时并没有对软件开发产生任何兴趣。
 

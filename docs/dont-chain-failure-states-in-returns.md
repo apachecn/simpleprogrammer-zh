@@ -1,6 +1,6 @@
 # 不要在退货中链接失败状态
 
-> 原文:[https://simple programmer . com/don-chain-failure-States-in-returns/](https://simpleprogrammer.com/dont-chain-failure-states-in-returns/)
+> 原文：<https://simpleprogrammer.com/dont-chain-failure-states-in-returns/>
 
 我最初开始写这篇文章的时候，以为我知道我将要演示的问题的答案。
 

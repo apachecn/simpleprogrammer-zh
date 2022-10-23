@@ -1,6 +1,6 @@
 # 你对“跳槽”有什么看法
 
-> 原文:[https://simple programmer . com/what ' s-you ' s-thought on the-job-hopping/](https://simpleprogrammer.com/what-are-your-thoughts-on-job-hopping/)
+> 原文：<https://simpleprogrammer.com/what-are-your-thoughts-on-job-hopping/>
 
 在这一集里，我将谈论跳槽以及这些年来我对它的看法是如何变化的。
 

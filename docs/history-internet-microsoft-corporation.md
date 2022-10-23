@@ -1,6 +1,6 @@
 # 互联网的历史:第六部分-美国与微软公司
 
-> 原文:[https://simple programmer . com/history-internet-Microsoft-corporation/](https://simpleprogrammer.com/history-internet-microsoft-corporation/)
+> 原文：<https://simpleprogrammer.com/history-internet-microsoft-corporation/>
 
 欢迎来到我们穿越时空之旅的第六部分，了解互联网是如何发展的，以及它对我们生活的影响。
 

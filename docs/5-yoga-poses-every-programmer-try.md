@@ -1,6 +1,6 @@
 # 每个程序员都应该尝试的 5 个瑜伽姿势
 
-> 原文:[https://simple programmer . com/5-yoga-poses-every-programmer-try/](https://simpleprogrammer.com/5-yoga-poses-every-programmer-try/)
+> 原文：<https://simpleprogrammer.com/5-yoga-poses-every-programmer-try/>
 
 你可能还不知道， [**坐着是新的吸烟者**](http://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/sitting/faq-20058005) 。这也是大多数程序员生活中一个非常突出的特点。
 

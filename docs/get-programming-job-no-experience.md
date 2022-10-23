@@ -1,6 +1,6 @@
 # 没有经验如何获得编程工作
 
-> 原文:[https://simple programmer . com/get-programming-job-no-experience/](https://simpleprogrammer.com/get-programming-job-no-experience/)
+> 原文：<https://simpleprogrammer.com/get-programming-job-no-experience/>
 
 当你没有任何经验时，找工作可能会非常困难。
 

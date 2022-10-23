@@ -1,6 +1,6 @@
 # 如何一夜成名
 
-> 原文:[https://simple programmer . com/how-to-be-a-night-success/](https://simpleprogrammer.com/how-to-become-an-overnight-success/)
+> 原文：<https://simpleprogrammer.com/how-to-become-an-overnight-success/>
 
 似乎每个人都想要一条成功的捷径。
 

@@ -1,6 +1,6 @@
 # 社区的重要性:你不能独自完成
 
-> 原文:[https://simple programmer . com/importance-community-cant-alone/](https://simpleprogrammer.com/importance-community-cant-alone/)
+> 原文：<https://simpleprogrammer.com/importance-community-cant-alone/>
 
 我过去认为我是一个真正的大人物。
 

@@ -1,6 +1,6 @@
 # 为大学计算机科学做准备的 10 种方法
 
-> 原文:[https://simple programmer . com/prepare-computer-science-university/](https://simpleprogrammer.com/prepare-computer-science-university/)
+> 原文：<https://simpleprogrammer.com/prepare-computer-science-university/>
 
 由于每 10 份公开计算工作中只有一名计算机科学毕业生，这些工作的薪水会飞涨，这吸引了许多人去追求计算机科学的职业。
 

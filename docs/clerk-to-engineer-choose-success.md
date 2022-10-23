@@ -1,6 +1,6 @@
 # 我是如何从一名加油站职员成为一名系统工程师的
 
-> 原文:[https://simple programmer . com/clerk-to-engineer-choose-success/](https://simpleprogrammer.com/clerk-to-engineer-choose-success/)
+> 原文：<https://simpleprogrammer.com/clerk-to-engineer-choose-success/>
 
 ![](img/357be0803320b5772f76cfd1679c215e.png)
 

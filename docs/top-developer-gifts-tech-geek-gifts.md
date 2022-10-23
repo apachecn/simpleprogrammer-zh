@@ -1,6 +1,6 @@
 # 顶级开发者礼物(和技术极客礼物)
 
-> 原文:[https://simple programmer . com/top-developer-gifts-tech-geek-gifts/](https://simpleprogrammer.com/top-developer-gifts-tech-geek-gifts/)
+> 原文：<https://simpleprogrammer.com/top-developer-gifts-tech-geek-gifts/>
 
 ## **更新:[点击这里查看最新的 2020 年软件开发者礼物清单](https://simpleprogrammer.com/gifts-for-programmers/)**
 

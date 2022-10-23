@@ -1,6 +1,6 @@
 # 什么时候给不找借口的人编码
 
-> 原文:[https://simple programmer . com/when-to-code-for-the-people of-don ' t-make-excuses/](https://simpleprogrammer.com/when-to-code-for-people-who-dont-make-excuses/)
+> 原文：<https://simpleprogrammer.com/when-to-code-for-people-who-dont-make-excuses/>
 
 还有人每天都在为代码而奋斗吗？没有时间做任何事。至少感觉是这样的，不是吗？
 

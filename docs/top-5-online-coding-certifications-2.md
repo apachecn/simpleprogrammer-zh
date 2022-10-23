@@ -1,6 +1,6 @@
 # 前 5 名在线编码认证
 
-> 原文:[https://simple programmer . com/top-5-online-coding-certifications-2/](https://simpleprogrammer.com/top-5-online-coding-certifications-2/)
+> 原文：<https://simpleprogrammer.com/top-5-online-coding-certifications-2/>
 
 无论您选择特定语言证书还是面向平台的证书，都值得看看我为软件开发人员提供的五大编程证书。
 

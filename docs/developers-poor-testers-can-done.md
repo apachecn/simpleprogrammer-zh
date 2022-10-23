@@ -1,6 +1,6 @@
 # 为什么开发人员是糟糕的测试人员，对此可以做些什么
 
-> 原文:[https://simple programmer . com/developers-poor-testers-can-done/](https://simpleprogrammer.com/developers-poor-testers-can-done/)
+> 原文：<https://simpleprogrammer.com/developers-poor-testers-can-done/>
 
 "我认识的大多数开发人员实际上都是非常糟糕的测试人员."
 

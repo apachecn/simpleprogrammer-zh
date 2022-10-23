@@ -1,6 +1,6 @@
 # 软件设计模式对你隐藏了什么？
 
-> 原文:[https://simple programmer . com/software-design-patterns-hiding/](https://simpleprogrammer.com/software-design-patterns-hiding/)
+> 原文：<https://simpleprogrammer.com/software-design-patterns-hiding/>
 
 我们有时会被诸如 MVC(模型视图控制器)、抽象工厂和 GOF(四人帮)模式这样的行话术语弄得不知所措。让我承认:很长一段时间，我只对一种模式感到满意，即 Singleton。我完全理解 Singleton，并在许多软件项目中使用它。因此，我知道 Singleton 提供的所有权衡。
 

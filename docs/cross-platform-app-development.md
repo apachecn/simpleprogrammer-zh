@@ -1,6 +1,6 @@
 # 跨平台应用开发快速指南
 
-> 原文:[https://simple programmer . com/跨平台-app-development/](https://simpleprogrammer.com/cross-platform-app-development/)
+> 原文：<https://simpleprogrammer.com/cross-platform-app-development/>
 
 ![](img/0c8e3f0cb78d7124e740ba68e505af4d.png)
 

@@ -1,6 +1,6 @@
 # DevOps 在移动应用开发中的重要性
 
-> 原文:[https://simple programmer . com/devo PS-in-mobile-application-development/](https://simpleprogrammer.com/devops-in-mobile-application-development/)
+> 原文：<https://simpleprogrammer.com/devops-in-mobile-application-development/>
 
 ![devops mobile application development](img/274fbba4303e6a02727b7de2f61912ef.png)
 

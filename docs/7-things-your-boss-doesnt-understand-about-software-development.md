@@ -1,6 +1,6 @@
 # 关于软件开发，你的老板不明白的 7 件事
 
-> 原文:[https://simple programmer . com/7-things-your-boss-dont-understand-about-software-development/](https://simpleprogrammer.com/7-things-your-boss-doesnt-understand-about-software-development/)
+> 原文：<https://simpleprogrammer.com/7-things-your-boss-doesnt-understand-about-software-development/>
 
 你的老板可能很棒。在我的编程生涯中，我当然有过一些很棒的老板，但是即使是最棒的老板似乎也不总是“明白”
 

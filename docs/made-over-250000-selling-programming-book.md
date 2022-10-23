@@ -1,6 +1,6 @@
 # 我卖编程书赚了 25 万美元
 
-> 原文:[https://simple programmer . com/made-over-250000-selling-programming-book/](https://simpleprogrammer.com/made-over-250000-selling-programming-book/)
+> 原文：<https://simpleprogrammer.com/made-over-250000-selling-programming-book/>
 
 你们中的很多人可能渴望写一本书，你可能听说过很多关于写书的不同事情，不管它是否有利可图。
 

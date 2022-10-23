@@ -1,6 +1,6 @@
 # 开关只是一种幻想
 
-> 原文:[https://simple programmer . com/switch-is-just-a-fancy-if-else/](https://simpleprogrammer.com/switch-is-just-a-fancy-if-else/)
+> 原文：<https://simpleprogrammer.com/switch-is-just-a-fancy-if-else/>
 
 抱歉扫了你的兴。我知道您刚刚将一系列 if-else 语句重构为一个 switch 语句，并且您觉得自己今天做了一件好事。
 

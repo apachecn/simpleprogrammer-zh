@@ -1,6 +1,6 @@
 # 完整的软件开发人员职业指南–立即获取！
 
-> 原文:[https://simple programmer . com/complete-software-developers-career-guide-get-now/](https://simpleprogrammer.com/complete-software-developers-career-guide-get-now/)
+> 原文：<https://simpleprogrammer.com/complete-software-developers-career-guide-get-now/>
 
 嗯，女士们先生们，**今天是…**
 

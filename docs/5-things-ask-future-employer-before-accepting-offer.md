@@ -1,6 +1,6 @@
 # 接受工作前要问未来雇主的 5 件事
 
-> 原文:[https://simple programmer . com/5-things-ask-future-employer-before-accepting-offer/](https://simpleprogrammer.com/5-things-ask-future-employer-before-accepting-offer/)
+> 原文：<https://simpleprogrammer.com/5-things-ask-future-employer-before-accepting-offer/>
 
 <figure class="alignright is-resized">
 

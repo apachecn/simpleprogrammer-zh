@@ -1,6 +1,6 @@
 # 黑客新闻一代(第 2 部分:回应批评者)
 
-> 原文:[https://simple programmer . com/hacker-news-generation-part-2-responding-critics/](https://simpleprogrammer.com/hacker-news-generation-part-2-responding-critics/)
+> 原文：<https://simpleprogrammer.com/hacker-news-generation-part-2-responding-critics/>
 
 最近写了一个帖子叫[黑客新闻一代(怕辛苦。)](https://simpleprogrammer.com/2013/08/12/hard-work/?)好吧，这个帖子本身并不是最近的，但是[它最近在黑客新闻](https://news.ycombinator.com/item?id=6491037)上获得了大量的关注，我很惊讶地看到对我所说的话有如此大的负面回应。当然，我预料到有人会对告诉人们努力工作并坚持做自己不喜欢的事情产生负面反应。
 

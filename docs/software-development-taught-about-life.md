@@ -1,6 +1,6 @@
 # 软件开发教会了我什么是生活
 
-> 原文:[https://simple programmer . com/software-development-teached-about-life/](https://simpleprogrammer.com/software-development-taught-about-life/)
+> 原文：<https://simpleprogrammer.com/software-development-taught-about-life/>
 
 我认为作为一名软件开发人员，你可以从编写代码中学到很多非常有趣的人生经验。这些课程在我生活的许多方面都帮助了我。
 

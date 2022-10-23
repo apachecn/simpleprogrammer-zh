@@ -1,6 +1,6 @@
 # 工作时听音乐:这是个好主意吗？
 
-> 原文:[https://simple programmer . com/listen-music-working-good-idea/](https://simpleprogrammer.com/listen-music-working-good-idea/)
+> 原文：<https://simpleprogrammer.com/listen-music-working-good-idea/>
 
 今天收到一位读者的提问，问我关于边工作边听音乐的问题。
 

@@ -1,6 +1,6 @@
 # 完美主义如何扼杀程序员的生产力
 
-> 原文:[https://simple programmer . com/完美主义-kills-程序员-生产力/](https://simpleprogrammer.com/perfectionism-kills-programmers-productivity/)
+> 原文：<https://simpleprogrammer.com/perfectionism-kills-programmers-productivity/>
 
 ![perfectionism productivity](img/1afae1583eb9aca6198d69c29f1d31a5.png)
 

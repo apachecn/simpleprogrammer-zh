@@ -1,6 +1,6 @@
 # 离开一份稳定的工作
 
-> 原文:[https://simple programmer . com/leaving-the-safety-of-a-regular-job/](https://simpleprogrammer.com/leaving-the-safety-of-a-regular-job/)
+> 原文：<https://simpleprogrammer.com/leaving-the-safety-of-a-regular-job/>
 
 我的日常生活很疯狂。
 

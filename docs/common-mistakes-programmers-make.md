@@ -1,6 +1,6 @@
 # 程序员在特定过程或项目中常犯的 5 个错误以及如何避免它们
 
-> 原文:[https://simple programmer . com/common-errors-programmers-make/](https://simpleprogrammer.com/common-mistakes-programmers-make/)
+> 原文：<https://simpleprogrammer.com/common-mistakes-programmers-make/>
 
 ![](img/cbbde91ba492d0a9c1f42173515246a4.png)
 

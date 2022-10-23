@@ -1,6 +1,6 @@
 # 你应该成为一名. NET 全栈开发者吗？
 
-> 原文:[https://simple programmer . com/become-net-full-stack-developer/](https://simpleprogrammer.com/become-net-full-stack-developer/)
+> 原文：<https://simpleprogrammer.com/become-net-full-stack-developer/>
 
 ![become NET full-stack developer](img/8df0ed47663246640cdaa2f6cda80371.png)
 

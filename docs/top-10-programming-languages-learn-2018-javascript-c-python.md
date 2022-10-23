@@ -1,6 +1,6 @@
 # 最值得学习的编程语言:2018 年最值得学习的 10 种编程语言
 
-> 原文:[https://simple programmer . com/top-10-programming-languages-learn-2018-JavaScript-c-python/](https://simpleprogrammer.com/top-10-programming-languages-learn-2018-javascript-c-python/)
+> 原文：<https://simpleprogrammer.com/top-10-programming-languages-learn-2018-javascript-c-python/>
 
 在这篇文章中，我将谈论 2018 年最值得学习的编程语言。
 

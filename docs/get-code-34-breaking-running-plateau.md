@@ -1,6 +1,6 @@
 # 起床并编码 34:打破你的跑步平台期
 
-> 原文:[https://simple programmer . com/get-code-34-breaking-running-plateau/](https://simpleprogrammer.com/get-code-34-breaking-running-plateau/)
+> 原文：<https://simpleprogrammer.com/get-code-34-breaking-running-plateau/>
 
 我讨厌跑步。
 

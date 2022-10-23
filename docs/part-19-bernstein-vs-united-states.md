@@ -1,6 +1,6 @@
 # 互联网的历史:第 19 部分——伯恩斯坦与美国
 
-> 原文:[https://simple programmer . com/part-19-Bernstein-vs-United States/](https://simpleprogrammer.com/part-19-bernstein-vs-united-states/)
+> 原文：<https://simpleprogrammer.com/part-19-bernstein-vs-united-states/>
 
 欢迎回到我们的互联网历史系列。在第 17 部分中，我们概述了 1969 年到 1989 年期间的情况，并研究了与不同政治意识形态交叉的技术进步及其社会影响。一场关键的战斗是关于美国政府控制计算机加密的程度，这给了它保护自己通信的手段，也给了它监视包括自己公民在内的其他人的能力。
 

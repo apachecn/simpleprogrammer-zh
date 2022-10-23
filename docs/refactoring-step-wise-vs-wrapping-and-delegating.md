@@ -1,6 +1,6 @@
 # 逐步重构静态方法与包装和委托
 
-> 原文:[https://simple programmer . com/refactoring-step-wise-vs-wrapping-and-delegated/](https://simpleprogrammer.com/refactoring-step-wise-vs-wrapping-and-delegating/)
+> 原文：<https://simpleprogrammer.com/refactoring-step-wise-vs-wrapping-and-delegating/>
 
 在使用遗留代码的过程中，我经常遇到不得不重构包含静态方法或者完全是静态方法的类的问题。
 

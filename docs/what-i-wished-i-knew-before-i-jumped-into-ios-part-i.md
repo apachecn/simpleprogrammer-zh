@@ -1,6 +1,6 @@
 # 我希望在进入 iOS 之前就知道的事情——第一部分
 
-> 原文:[https://simple programmer . com/what-I-wished-I-know-before-I-jumped-to-IOs-part-I/](https://simpleprogrammer.com/what-i-wished-i-knew-before-i-jumped-into-ios-part-i/)
+> 原文：<https://simpleprogrammer.com/what-i-wished-i-knew-before-i-jumped-into-ios-part-i/>
 
 今年早些时候，Paypal 的 Nikhant Vohra 讲述了他希望在投身 iOS 开发之前就知道的事情。在他的文章中，Vohra 重点关注了他希望在开始 iOS 开发之前就知道的开发工具和博客。我的希望是给你我感觉是等式的另一半:在[开始 iOS 开发](https://simpleprogrammer.com/2013/10/11/beginning-ios-7-development/)和学习编码之前，我希望我在更高层次上知道的东西。不仅仅是你用的工具的问题。对一些人来说，这也是心理准备。我当然是其中之一。
 

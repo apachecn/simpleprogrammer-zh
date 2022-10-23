@@ -1,6 +1,6 @@
 # 开发安全的 Web 应用程序——开发者指南
 
-> 原文:[https://simple programmer . com/develop-secure-web-applications/](https://simpleprogrammer.com/develop-secure-web-applications/)
+> 原文：<https://simpleprogrammer.com/develop-secure-web-applications/>
 
 ![develop secure web applications](img/d171e10f109c321eeeaadf509c42b8f6.png)
 

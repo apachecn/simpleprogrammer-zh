@@ -1,6 +1,6 @@
 # 2019 年编程:还是很棒的职业选择？
 
-> 原文:[https://simple programmer . com/programming-still-a-great-career/](https://simpleprogrammer.com/programming-still-a-great-career/)
+> 原文：<https://simpleprogrammer.com/programming-still-a-great-career/>
 
 2019 年编程:还是很棒的职业选择？
 

@@ -1,6 +1,6 @@
 # 自学编程——灾难还是辉煌？
 
-> 原文:[https://simple programmer . com/learning-programming-teaching-yourself/](https://simpleprogrammer.com/learning-programming-teaching-yourself/)
+> 原文：<https://simpleprogrammer.com/learning-programming-teaching-yourself/>
 
 很多程序员都是自学的。
 

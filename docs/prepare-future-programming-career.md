@@ -1,6 +1,6 @@
 # 如何为自己未来的任何编程职业做准备？
 
-> 原文:[https://simple programmer . com/prepare-future-programming-career/](https://simpleprogrammer.com/prepare-future-programming-career/)
+> 原文：<https://simpleprogrammer.com/prepare-future-programming-career/>
 
 所以，你想成为摇滚明星。你想精通你所做的事情，以便为将来的编程生涯做好准备。
 

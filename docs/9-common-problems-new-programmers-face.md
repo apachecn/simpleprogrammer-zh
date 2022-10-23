@@ -1,6 +1,6 @@
 # 新程序员面临的 9 个最常见的问题
 
-> 原文:[https://simple programmer . com/9-common-problems-new-programmers-face/](https://simpleprogrammer.com/9-common-problems-new-programmers-face/)
+> 原文：<https://simpleprogrammer.com/9-common-problems-new-programmers-face/>
 
 作为程序员，你的第一份工作开始时令人兴奋。但是几周之后，工作的负面影响——截止日期、错误报告、被你的经理大吼大叫——开始困扰你。
 

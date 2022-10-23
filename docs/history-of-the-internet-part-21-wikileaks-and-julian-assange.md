@@ -1,6 +1,6 @@
 # 互联网的历史:第 21 部分——维基解密和朱利安·阿桑奇
 
-> 原文:[https://simple programmer . com/history-of-the-internet-part-21-Wikileaks-and-Julian-as sange/](https://simpleprogrammer.com/history-of-the-internet-part-21-wikileaks-and-julian-assange/)
+> 原文：<https://simpleprogrammer.com/history-of-the-internet-part-21-wikileaks-and-julian-assange/>
 
 欢迎回到互联网的历史。在过去的几集中，从“[Part 17–监视、加密和言论自由](https://simpleprogrammer.com/part-17-surveillance-cryptography/)”开始，我们讲述了许多关于各种当权派和反当权派人物之间斗争的故事。
 

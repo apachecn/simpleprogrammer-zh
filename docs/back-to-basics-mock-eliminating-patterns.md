@@ -1,6 +1,6 @@
 # 回到基础:模仿消除模式
 
-> 原文:[https://simple programmer . com/back-to-basics-mock-eliming-patterns/](https://simpleprogrammer.com/back-to-basics-mock-eliminating-patterns/)
+> 原文：<https://simpleprogrammer.com/back-to-basics-mock-eliminating-patterns/>
 
 在我之前的文章中，我谈到了没有模拟的单元测试。我在来自 [PaceMaker](http://www.appbrain.com/app/pacemaker-(running)/com.pacemaker.android) 的一些真实代码中给出了一些我是如何做到这一点的例子。
 

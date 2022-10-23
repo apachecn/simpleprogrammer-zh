@@ -1,6 +1,6 @@
 # 测试区块链应用的初学者指南
 
-> 原文:[https://simple programmer . com/testing-区块链-应用/](https://simpleprogrammer.com/testing-blockchain-applications/)
+> 原文：<https://simpleprogrammer.com/testing-blockchain-applications/>
 
 ![](img/8d24992b9e23ba4d8631efeb05a82f94.png)
 

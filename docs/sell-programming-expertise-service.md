@@ -1,6 +1,6 @@
 # 如何将您的编程专业知识作为服务出售
 
-> 原文:[https://simple programmer . com/sell-programming-expertise-service/](https://simpleprogrammer.com/sell-programming-expertise-service/)
+> 原文：<https://simpleprogrammer.com/sell-programming-expertise-service/>
 
 ![](img/5c16af687a7e496ab032cc3bff2a35c7.png)
 

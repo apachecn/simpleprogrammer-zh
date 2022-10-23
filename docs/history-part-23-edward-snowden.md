@@ -1,6 +1,6 @@
 # 互联网的历史:第 23 部分——爱德华·斯诺登
 
-> 原文:[https://simple programmer . com/history-part-23-Edward-snow den/](https://simpleprogrammer.com/history-part-23-edward-snowden/)
+> 原文：<https://simpleprogrammer.com/history-part-23-edward-snowden/>
 
 > 人民的人身、房屋、文件和财产安全不受无理搜查和扣押的权利不得侵犯，除非有正当理由，并经宣誓或证实，特别说明要搜查的地方和要扣押的人或物，否则不得发出搜查令。——1789 年美国权利法案第四修正案
 

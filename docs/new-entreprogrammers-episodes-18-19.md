@@ -1,6 +1,6 @@
 # 新的 Entreprogrammers 剧集:18 和 19
 
-> 原文:[https://simple programmer . com/new-entre programmers-episodes-18-19/](https://simpleprogrammer.com/new-entreprogrammers-episodes-18-19/)
+> 原文：<https://simpleprogrammer.com/new-entreprogrammers-episodes-18-19/>
 
 本周我们有两集新的节目，因为上周我不得不召开一个紧急会议，讨论一个重要的人生决定。
 

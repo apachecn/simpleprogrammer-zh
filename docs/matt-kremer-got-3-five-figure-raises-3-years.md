@@ -1,6 +1,6 @@
 # 马特·克雷默如何在三年内获得三次五位数的加薪
 
-> 原文:[https://simple programmer . com/matt-kremer-got-3-five-figure-raises-3-years/](https://simpleprogrammer.com/matt-kremer-got-3-five-figure-raises-3-years/)
+> 原文：<https://simpleprogrammer.com/matt-kremer-got-3-five-figure-raises-3-years/>
 
  ![](img/19819c74cd28adeee5dbd2900b1e5713.png) 
 

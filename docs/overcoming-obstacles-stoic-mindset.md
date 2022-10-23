@@ -1,6 +1,6 @@
 # 以坚忍的心态克服程序员职业障碍
 
-> 原文:[https://simple programmer . com/克服障碍-坚忍-心态/](https://simpleprogrammer.com/overcoming-obstacles-stoic-mindset/)
+> 原文：<https://simpleprogrammer.com/overcoming-obstacles-stoic-mindset/>
 
 2017 年 11 月，Medium 上有一篇名为“[编码者应该担心作家发生的事情](https://medium.com/@melissamcewen/coders-should-fear-what-happened-to-writers-d87a895b03db)”的文章
 

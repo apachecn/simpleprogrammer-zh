@@ -1,6 +1,6 @@
 # iOS For。NET 开发人员课程出版
 
-> 原文:[https://simple programmer . com/IOs-for-net-developers-course-published/](https://simpleprogrammer.com/ios-for-net-developers-course-published/)
+> 原文：<https://simpleprogrammer.com/ios-for-net-developers-course-published/>
 
 这是相当多的工作和学习经历，但今天我的课程是关于。NET 开发者课程发布在 Pluralsight 上！
 

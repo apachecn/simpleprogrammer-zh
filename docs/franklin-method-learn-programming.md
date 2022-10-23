@@ -1,6 +1,6 @@
 # 富兰克林法:如何正确学习编程
 
-> 原文:[https://simple programmer . com/Franklin-method-learn-programming/](https://simpleprogrammer.com/franklin-method-learn-programming/)
+> 原文：<https://simpleprogrammer.com/franklin-method-learn-programming/>
 
 ![franklin method programming](img/88b4b41fc5e89dc479c345fd09865deb.png)
 

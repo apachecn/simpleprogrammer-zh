@@ -1,6 +1,6 @@
 # Kanbanand，你已经遵循的新敏捷过程
 
-> 原文:[https://simple programmer . com/kanb and-the-new-agile-process-you-have-been-following/](https://simpleprogrammer.com/kanbanand-the-new-agile-process-you-have-already-been-following/)
+> 原文：<https://simpleprogrammer.com/kanbanand-the-new-agile-process-you-have-already-been-following/>
 
 我本来打算把这个帖子叫做“我为什么选择看板”，后来我意识到我没有选择看板。
 

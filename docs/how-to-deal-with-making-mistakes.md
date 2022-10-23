@@ -1,6 +1,6 @@
 # 如何处理犯错误
 
-> 原文:[https://simple programmer . com/how-to-deal-with-making-missions/](https://simpleprogrammer.com/how-to-deal-with-making-mistakes/)
+> 原文：<https://simpleprogrammer.com/how-to-deal-with-making-mistakes/>
 
 当你犯错的时候你会怎么做？
 

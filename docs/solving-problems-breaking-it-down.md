@@ -1,6 +1,6 @@
 # 如何解决编程问题
 
-> 原文:[https://simple programmer . com/solutioning-problems-breaking-it-down/](https://simpleprogrammer.com/solving-problems-breaking-it-down/)
+> 原文：<https://simpleprogrammer.com/solving-problems-breaking-it-down/>
 
 就在假期前，我说[你最好学会如何解决编程问题](https://simpleprogrammer.com/2010/12/22/solving-problems-you-better-learn-how/)。
 

@@ -1,6 +1,6 @@
 # 我是如何在新西兰寒冷的拥挤的房子乐队开始我的软件生涯的
 
-> 原文:[https://simple programmer . com/how-I-launch-my-software-career/](https://simpleprogrammer.com/how-i-launched-my-software-career/)
+> 原文：<https://simpleprogrammer.com/how-i-launched-my-software-career/>
 
 五年前，我有点墨守成规。我不知道我这辈子想做什么。我还没有真正进入职场，二十多岁的大部分时间都住在滑雪胜地，一年到头都在玩滑雪板。我当时 28 岁，挣的钱刚刚够糊口。
 

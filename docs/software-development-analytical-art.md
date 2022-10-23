@@ -1,6 +1,6 @@
 # 软件开发是分析型还是艺术型？
 
-> 原文:[https://simple programmer . com/software-development-analytic-art/](https://simpleprogrammer.com/software-development-analytical-art/)
+> 原文：<https://simpleprogrammer.com/software-development-analytical-art/>
 
 很多人倾向于问我“John，为什么你认为软件开发是艺术？”。
 

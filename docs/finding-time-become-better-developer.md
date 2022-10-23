@@ -1,6 +1,6 @@
 # 寻找时间成为更好的开发人员
 
-> 原文:[https://simple programmer . com/finding-time-be-better-developer/](https://simpleprogrammer.com/finding-time-become-better-developer/)
+> 原文：<https://simpleprogrammer.com/finding-time-become-better-developer/>
 
 没有时间做任何事。
 

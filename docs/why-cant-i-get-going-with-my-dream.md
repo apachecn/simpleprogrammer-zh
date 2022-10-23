@@ -1,6 +1,6 @@
 # 为什么我不能实现我的梦想
 
-> 原文:[https://simple programmer . com/why-cant-I-get-going-with-my-dream/](https://simpleprogrammer.com/why-cant-i-get-going-with-my-dream/)
+> 原文：<https://simpleprogrammer.com/why-cant-i-get-going-with-my-dream/>
 
 在这一集里，我回复了一封关于按照计划行事并获得理想结果的邮件。
 

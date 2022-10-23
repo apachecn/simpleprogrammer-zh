@@ -1,6 +1,6 @@
 # 时间旅行到用户界面的未来
 
-> 原文:[https://simple programmer . com/time-traveling-to-the-future-of-user-interfaces/](https://simpleprogrammer.com/time-traveling-to-the-future-of-user-interfaces/)
+> 原文：<https://simpleprogrammer.com/time-traveling-to-the-future-of-user-interfaces/>
 
 我真的不喜欢用键盘和鼠标与电脑互动。
 

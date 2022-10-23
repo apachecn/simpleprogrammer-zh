@@ -1,6 +1,6 @@
 # 敏捷团队中有效沟通的 5 种模式
 
-> 原文:[https://simple programmer . com/effective-communication-agile-teams/](https://simpleprogrammer.com/effective-communication-agile-teams/)
+> 原文：<https://simpleprogrammer.com/effective-communication-agile-teams/>
 
 <figure class="alignright is-resized">
 

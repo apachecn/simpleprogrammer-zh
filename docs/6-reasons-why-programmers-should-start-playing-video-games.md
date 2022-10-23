@@ -1,6 +1,6 @@
 # 程序员应该开始玩视频游戏的 6 个理由
 
-> 原文:[https://simple programmer . com/6-reasons-why-programmers-should-start-playing-video-games/](https://simpleprogrammer.com/6-reasons-why-programmers-should-start-playing-video-games/)
+> 原文：<https://simpleprogrammer.com/6-reasons-why-programmers-should-start-playing-video-games/>
 
 <figure class="alignright is-resized">
 

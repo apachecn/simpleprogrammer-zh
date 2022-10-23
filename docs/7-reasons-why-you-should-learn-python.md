@@ -1,6 +1,6 @@
 # 为什么要学 Python
 
-> 原文:[https://simple programmer . com/7-reasons-why-you-should-learn-python/](https://simpleprogrammer.com/7-reasons-why-you-should-learn-python/)
+> 原文：<https://simpleprogrammer.com/7-reasons-why-you-should-learn-python/>
 
 在这篇文章中，我们将讨论为什么你现在应该学习 python。
 

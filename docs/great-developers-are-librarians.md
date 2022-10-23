@@ -1,6 +1,6 @@
 # 伟大的开发人员是图书管理员
 
-> 原文:[https://simple programmer . com/great-developers-are-libraries/](https://simpleprogrammer.com/great-developers-are-librarians/)
+> 原文：<https://simpleprogrammer.com/great-developers-are-librarians/>
 
 If you know someone at your workplace who you consider to be a great developer, ask him what technical book he is reading. He will have one to name almost always.
 

@@ -1,6 +1,6 @@
 # 解码工作描述:初级 AR/VR 开发人员的技巧
 
-> 原文:[https://simple programmer . com/job-description-junior-ar-VR-developers/](https://simpleprogrammer.com/job-description-junior-ar-vr-developers/)
+> 原文：<https://simpleprogrammer.com/job-description-junior-ar-vr-developers/>
 
 ![](img/0e650ce1eb0a91ec4bf0ee6885d05da0.png)
 

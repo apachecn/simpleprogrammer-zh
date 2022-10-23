@@ -1,6 +1,6 @@
 # 成为更好的软件开发人员
 
-> 原文:[https://simple programmer . com/becoming-better-software-developer/](https://simpleprogrammer.com/becoming-better-software-developer/)
+> 原文：<https://simpleprogrammer.com/becoming-better-software-developer/>
 
 ![](img/f5aebdf1a79662805e924c81fbe7aca5.png)
 

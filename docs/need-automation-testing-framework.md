@@ -1,6 +1,6 @@
 # 为什么您需要一个自动化测试框架
 
-> 原文:[https://simple programmer . com/need-automation-testing-framework/](https://simpleprogrammer.com/need-automation-testing-framework/)
+> 原文：<https://simpleprogrammer.com/need-automation-testing-framework/>
 
 黑盒自动化测试应该是任何成功的软件开发组织的一部分。单元测试是伟大的，但是为了用最少的努力覆盖你的软件的最大区域，你需要黑盒自动化测试。不仅如此，你还需要有一个自动化测试框架。
 

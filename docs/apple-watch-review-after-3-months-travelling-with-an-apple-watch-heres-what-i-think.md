@@ -1,6 +1,6 @@
 # 苹果手表评论:带着苹果手表旅行了 3 个月后，我是这样想的
 
-> 原文:[https://simple programmer . com/apple-watch-review-after-through-a-apple-watch-heres-what-I-think/](https://simpleprogrammer.com/apple-watch-review-after-3-months-travelling-with-an-apple-watch-heres-what-i-think/)
+> 原文：<https://simpleprogrammer.com/apple-watch-review-after-3-months-travelling-with-an-apple-watch-heres-what-i-think/>
 
 当我第一次听说 [Apple Watch](http://www.amazon.com/exec/obidos/ASIN/B00WUKULAC/makithecompsi-20) 的时候，我不太确定该怎么想。
 

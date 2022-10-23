@@ -1,6 +1,6 @@
 # 衡量移动应用用户参与度的 7 个关键指标
 
-> 原文:[https://simple programmer . com/measure-user-engagement-in-mobile-apps/](https://simpleprogrammer.com/measure-user-engagement-in-mobile-apps/)
+> 原文：<https://simpleprogrammer.com/measure-user-engagement-in-mobile-apps/>
 
 现在，你的移动应用已经启动并运行了一段时间。恭喜你！你现在已经为第二个重要步骤做好了准备:确保你投入到应用程序开发和发布的所有工作都产生了你想要的收入。
 

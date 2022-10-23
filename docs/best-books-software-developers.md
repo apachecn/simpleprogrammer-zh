@@ -1,6 +1,6 @@
 # 所有软件开发人员应该阅读的最佳书籍
 
-> 原文:[https://simple programmer . com/best-books-software-developers/](https://simpleprogrammer.com/best-books-software-developers/)
+> 原文：<https://simpleprogrammer.com/best-books-software-developers/>
 
 众所周知，我喜欢书。
 

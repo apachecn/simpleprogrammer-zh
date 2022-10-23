@@ -1,6 +1,6 @@
 # 瀑布与敏捷的演示
 
-> 原文:[https://simple programmer . com/presentation-on-fault-vs-agile/](https://simpleprogrammer.com/presentation-on-waterfall-vs-agile/)
+> 原文：<https://simpleprogrammer.com/presentation-on-waterfall-vs-agile/>
 
 我最近做了一个关于[瀑布 vs 敏捷](http://prezi.com/chsbefgx55le/)的简短的 [Prezi](https://simpleprogrammer.com/2010/03/15/powerpoint-killer-prezi/) 演示。
 

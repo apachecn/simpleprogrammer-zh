@@ -1,6 +1,6 @@
 # 如何改善程序员和客户之间的沟通
 
-> 原文:[https://simple programmer . com/improve-programmer-client-communication/](https://simpleprogrammer.com/improve-programmer-client-communication/)
+> 原文：<https://simpleprogrammer.com/improve-programmer-client-communication/>
 
 ![programmer client communication](img/e12eff1fad969a1a891b0f5de05c59eb.png)
 

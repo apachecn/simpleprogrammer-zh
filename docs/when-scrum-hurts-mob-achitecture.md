@@ -1,6 +1,6 @@
 # 当 Scrum 受伤时:暴民架构
 
-> 原文:[https://simple programmer . com/when-scrum-hurts-mob-achiecture/](https://simpleprogrammer.com/when-scrum-hurts-mob-achitecture/)
+> 原文：<https://simpleprogrammer.com/when-scrum-hurts-mob-achitecture/>
 
 ## 如果你一直关注我的博客，你会知道我对 Scrum 有一种[爱](https://simpleprogrammer.com/2009/12/05/scrumbut-double-fudge-sunday-and-scrummaster-personal-trainer/) / [恨](https://simpleprogrammer.com/2010/02/23/scrum-will-die/)的关系。
 

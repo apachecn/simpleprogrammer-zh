@@ -1,6 +1,6 @@
 # 使用机器学习改善客户体验的 4 种方法
 
-> 原文:[https://simple programmer . com/机器学习-客户体验/](https://simpleprogrammer.com/machine-learning-customer-experience/)
+> 原文：<https://simpleprogrammer.com/machine-learning-customer-experience/>
 
 ![machine learning customer experience](img/3f154c6d9c8edad3a42f3ca828f7832d.png)
 

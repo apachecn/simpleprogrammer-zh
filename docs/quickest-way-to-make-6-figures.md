@@ -1,6 +1,6 @@
 # 赚 6 位数的最快方法
 
-> 原文:[https://simple programmer . com/最快制作 6 位数的方法/](https://simpleprogrammer.com/quickest-way-to-make-6-figures/)
+> 原文：<https://simpleprogrammer.com/quickest-way-to-make-6-figures/>
 
 今天我们将谈论作为一名软件开发人员赚六位数的最快方法。
 

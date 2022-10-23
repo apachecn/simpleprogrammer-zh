@@ -1,6 +1,6 @@
 # 索尼黑客事件有没有可能只是一个宣传噱头？
 
-> 原文:[https://simple programmer . com/possible-Sony-hack-just-publication-study/](https://simpleprogrammer.com/possible-sony-hack-just-publicity-stunt/)
+> 原文：<https://simpleprogrammer.com/possible-sony-hack-just-publicity-stunt/>
 
 如果索尼从来没有真的被黑过呢？
 

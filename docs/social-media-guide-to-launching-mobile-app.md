@@ -1,6 +1,6 @@
 # 成功启动移动应用的程序员社交媒体指南
 
-> 原文:[https://simple programmer . com/social-media-guide-to-launch-mobile-app/](https://simpleprogrammer.com/social-media-guide-to-launching-mobile-app/)
+> 原文：<https://simpleprogrammer.com/social-media-guide-to-launching-mobile-app/>
 
 ![social media launching mobile app](img/c78aeb56de334a24c84b80ffd5ffea11.png)
 

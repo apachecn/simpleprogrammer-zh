@@ -1,6 +1,6 @@
 # android 演示者使用 juice 进行活动
 
-> 原文:[https://simple programmer . com/Android-presenter-to-activity-using-guice/](https://simpleprogrammer.com/android-presenter-to-activity-using-guice/)
+> 原文：<https://simpleprogrammer.com/android-presenter-to-activity-using-guice/>
 
 在之前的一篇文章中，我谈到了如何对 android 应用程序进行单元测试。我提到了将一个活动与一个演示者联系起来，但是我并没有真正展示我是如何做的。
 

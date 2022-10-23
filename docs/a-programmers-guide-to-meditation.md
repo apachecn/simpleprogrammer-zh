@@ -1,6 +1,6 @@
 # 程序员冥想指南
 
-> 原文:[https://simple programmer . com/a-程序员-冥想指南/](https://simpleprogrammer.com/a-programmers-guide-to-meditation/)
+> 原文：<https://simpleprogrammer.com/a-programmers-guide-to-meditation/>
 
 每天——通常是一天两次——大约 20 分钟，我会闭着眼睛静静地坐着，唯一的目的是观察我的呼吸、身体感觉、脑海中的想法和情绪状态发生了什么。
 

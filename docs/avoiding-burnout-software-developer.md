@@ -1,6 +1,6 @@
 # 作为软件开发人员避免精疲力尽
 
-> 原文:[https://simple programmer . com/avoiding-burnout-software-developer/](https://simpleprogrammer.com/avoiding-burnout-software-developer/)
+> 原文：<https://simpleprogrammer.com/avoiding-burnout-software-developer/>
 
 ![](img/38df32b2f0452b7b8c1ee2991e3f1433.png)
 

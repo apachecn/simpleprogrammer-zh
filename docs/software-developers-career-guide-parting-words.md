@@ -1,6 +1,6 @@
 # 完整的软件开发人员职业指南:分手的话
 
-> 原文:[https://simple programmer . com/software-developers-career-guide-parting-words/](https://simpleprogrammer.com/software-developers-career-guide-parting-words/)
+> 原文：<https://simpleprogrammer.com/software-developers-career-guide-parting-words/>
 
 我真不敢相信我们在这里成功了。
 

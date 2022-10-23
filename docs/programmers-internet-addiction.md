@@ -1,6 +1,6 @@
 # 关于网瘾，程序员应该知道什么
 
-> 原文:[https://simple programmer . com/programmers-internet-addiction/](https://simpleprogrammer.com/programmers-internet-addiction/)
+> 原文：<https://simpleprogrammer.com/programmers-internet-addiction/>
 
 ![](img/10ceee5893b1a2bb601a1230aa9f288c.png)
 

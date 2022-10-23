@@ -1,6 +1,6 @@
 # 换挡就是磨齿轮
 
-> 原文:[https://simple programmer . com/switching-gears-is-grinding-gears/](https://simpleprogrammer.com/switching-gears-is-grinding-gears/)
+> 原文：<https://simpleprogrammer.com/switching-gears-is-grinding-gears/>
 
 年轻的程序员请注意，这是你将听到的最重要的编程建议。
 

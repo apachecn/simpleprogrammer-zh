@@ -1,6 +1,6 @@
 # 新闻快讯:SQL Server 分页仍然很糟糕！
 
-> 原文:[https://simple programmer . com/news-flash-SQL-server-paging-still-sucks/](https://simpleprogrammer.com/news-flash-sql-server-paging-still-sucks/)
+> 原文：<https://simpleprogrammer.com/news-flash-sql-server-paging-still-sucks/>
 
 上次我写了一些代码来允许在 SQL Server 中对存储过程结果进行分页，结果很糟糕。
 

@@ -1,6 +1,6 @@
 # 成为首席开发人员的一些建议
 
-> 原文:[https://simple programmer . com/some-advice-on-being-a-lead-developer/](https://simpleprogrammer.com/some-advice-on-becoming-a-lead-developer/)
+> 原文：<https://simpleprogrammer.com/some-advice-on-becoming-a-lead-developer/>
 
 成为团队中的首席开发人员或技术主管是一项重大的责任，也是一个绝佳的职业机会，但是向这一角色的转变可能会有些不和谐。
 

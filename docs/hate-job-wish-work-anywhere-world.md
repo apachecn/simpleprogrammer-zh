@@ -1,6 +1,6 @@
 # 我讨厌我的工作，我希望我能在世界任何地方工作
 
-> 原文:[https://simple programmer . com/hate-job-wish-work-anywhere-world/](https://simpleprogrammer.com/hate-job-wish-work-anywhere-world/)
+> 原文：<https://simpleprogrammer.com/hate-job-wish-work-anywhere-world/>
 
 在与来自世界各地的许多软件开发人员交谈后，我得出了一个相当惊人的结论:大多数开发人员讨厌他们的工作。
 

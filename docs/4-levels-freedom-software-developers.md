@@ -1,6 +1,6 @@
 # 软件开发人员的 4 个自由度
 
-> 原文:[https://simple programmer . com/4-levels-freedom-software-developers/](https://simpleprogrammer.com/4-levels-freedom-software-developers/)
+> 原文：<https://simpleprogrammer.com/4-levels-freedom-software-developers/>
 
 很长一段时间以来，我一直在思考，我认为软件开发人员在试图获得“自由”时可以经历的四个不同的层次。
 

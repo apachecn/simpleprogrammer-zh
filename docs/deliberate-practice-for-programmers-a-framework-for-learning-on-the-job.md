@@ -1,6 +1,6 @@
 # 程序员的深思熟虑的实践:工作中学习的框架
 
-> 原文:[https://simple programmer . com/describe-practice-for-programmers-a-framework for-learning-on-the-job/](https://simpleprogrammer.com/deliberate-practice-for-programmers-a-framework-for-learning-on-the-job/)
+> 原文：<https://simpleprogrammer.com/deliberate-practice-for-programmers-a-framework-for-learning-on-the-job/>
 
 ## **练习，练习，练习**
 

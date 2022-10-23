@@ -1,6 +1,6 @@
 # 多休息会如何提高你的工作效率
 
-> 原文:[https://simple programmer . com/taking-breaks-will-boost-productivity/](https://simpleprogrammer.com/taking-breaks-will-boost-productivity/)
+> 原文：<https://simpleprogrammer.com/taking-breaks-will-boost-productivity/>
 
 软件开发人员生活在一个有趣的悖论中。一方面，我们很懒。这就是为什么我们喜欢自动化枯燥的重复性任务，如运行单元测试或部署新环境。同时，开发人员经常因记录大量的工作时间而出名。刻板的咖啡因通宵太普遍了。
 

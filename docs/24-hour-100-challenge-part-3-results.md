@@ -1,6 +1,6 @@
 # 最疯狂的企业家挑战:3 个开发者能在 24 小时内每人赚 100 美元吗？(第 3 页，共 3 页)
 
-> 原文:[https://simple programmer . com/24 小时 100 次挑战第三部分结果/](https://simpleprogrammer.com/24-hour-100-challenge-part-3-results/)
+> 原文：<https://simpleprogrammer.com/24-hour-100-challenge-part-3-results/>
 
 这是一系列三篇博文中的第三篇，这些博文将从我们各自的角度详细介绍我和我的智囊团的两位成员发起的 24 小时 100 美元挑战。
 

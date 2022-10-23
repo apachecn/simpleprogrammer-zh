@@ -1,6 +1,6 @@
 # 可教，可指挥，可批判
 
-> 原文:[https://simple programmer . com/be-teach-able-be-command-able-be-critical/](https://simpleprogrammer.com/be-teachable-be-command-able-be-critique-able/)
+> 原文：<https://simpleprogrammer.com/be-teachable-be-command-able-be-critique-able/>
 
 有三个主要原因可以解释为什么我看到程序员，一般来说是见鬼的人，感到压力过大，失败并最终筋疲力尽。
 

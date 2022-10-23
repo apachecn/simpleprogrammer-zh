@@ -1,6 +1,6 @@
 # 为什么(以及如何)2021 年可能是自由程序员之年
 
-> 原文:[https://simple programmer . com/2021-freelance-programmer-business/](https://simpleprogrammer.com/2021-freelance-programmer-business/)
+> 原文：<https://simpleprogrammer.com/2021-freelance-programmer-business/>
 
 ![freelance programmer business](img/31c34eca44cebe98c7ea797dff41d356.png)
 

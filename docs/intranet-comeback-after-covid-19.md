@@ -1,6 +1,6 @@
 # 内部网如何在新冠肺炎之后卷土重来
 
-> 原文:[https://simple programmer . com/intranet-复出之后-新冠肺炎/](https://simpleprogrammer.com/intranet-comeback-after-covid-19/)
+> 原文：<https://simpleprogrammer.com/intranet-comeback-after-covid-19/>
 
 ![intranet covid](img/b604185206ab4e1a5a23970169475005.png)
 

@@ -1,6 +1,6 @@
 # 起床，代码 29:坐下来与马特巴克斯特雷诺兹，作者死亡的个人电脑
 
-> 原文:[https://simple programmer . com/get-code-29-sit-matt-Baxter-Reynolds-author-death-PC/](https://simpleprogrammer.com/get-code-29-sit-matt-baxter-reynolds-author-death-pc/)
+> 原文：<https://simpleprogrammer.com/get-code-29-sit-matt-baxter-reynolds-author-death-pc/>
 
 刚刚发布了起床和编码播客的新一集。
 

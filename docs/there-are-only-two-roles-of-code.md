@@ -1,6 +1,6 @@
 # 代码的目的
 
-> 原文:[https://simple programmer . com/there-are-only-two-roles-of-code/](https://simpleprogrammer.com/there-are-only-two-roles-of-code/)
+> 原文：<https://simpleprogrammer.com/there-are-only-two-roles-of-code/>
 
 所有代码都可以分为两种不同的角色；做工作的代码(算法)和协调工作的代码(协调器)。
 

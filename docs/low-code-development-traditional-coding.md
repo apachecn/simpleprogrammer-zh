@@ -1,6 +1,6 @@
 # 低代码开发和传统编码的区别
 
-> 原文:[https://simple programmer . com/low-code-development-traditional-coding/](https://simpleprogrammer.com/low-code-development-traditional-coding/)
+> 原文：<https://simpleprogrammer.com/low-code-development-traditional-coding/>
 
 ![](img/66369adacc37b807a711eac7d47f7cfd.png)
 

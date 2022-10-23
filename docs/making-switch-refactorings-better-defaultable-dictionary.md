@@ -1,6 +1,6 @@
 # 让开关重构更好——默认字典
 
-> 原文:[https://simple programmer . com/making-switch-refactorings-better-defaultable-dictionary/](https://simpleprogrammer.com/making-switch-refactorings-better-defaultable-dictionary/)
+> 原文：<https://simpleprogrammer.com/making-switch-refactorings-better-defaultable-dictionary/>
 
 我以前写过关于将开关重构为地图或字典的想法。
 

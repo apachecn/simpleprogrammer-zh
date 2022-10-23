@@ -1,6 +1,6 @@
 # 如何建立一个可以帮助你发展事业的公司网站
 
-> 原文:[https://simple programmer . com/build-a-corporate-website-developer/](https://simpleprogrammer.com/build-a-corporate-website-developer/)
+> 原文：<https://simpleprogrammer.com/build-a-corporate-website-developer/>
 
 今天的企业网站已经走过了漫长的道路。以前，它们更像是一本商业小册子，信息仅限于公司名称、简介和对提供的[产品或服务](https://simpleprogrammer.com/products/)的简短描述。随着时间的推移，这种情况发生了巨大的变化，T2 的在线空间竞争越来越激烈，以至于商业网站已经从仅仅是一种选择变成了一种绝对必要。
 

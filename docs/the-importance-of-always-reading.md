@@ -1,6 +1,6 @@
 # 经常阅读的重要性
 
-> 原文:[https://simple programmer . com/the-importance-of-always-reading/](https://simpleprogrammer.com/the-importance-of-always-reading/)
+> 原文：<https://simpleprogrammer.com/the-importance-of-always-reading/>
 
 我已经有一段时间没写书评了。
 

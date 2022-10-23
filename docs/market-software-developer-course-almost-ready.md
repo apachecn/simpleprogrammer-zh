@@ -1,6 +1,6 @@
 # 我的《如何作为软件开发人员推销自己》课程已经准备好了！
 
-> 原文:[https://simple programmer . com/market-software-developer-course-almost-ready/](https://simpleprogrammer.com/market-software-developer-course-almost-ready/)
+> 原文：<https://simpleprogrammer.com/market-software-developer-course-almost-ready/>
 
 如果你是我博客的常客，你可能知道在过去的几个月里，我一直在做一个非常大的项目。
 

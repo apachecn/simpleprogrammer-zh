@@ -1,6 +1,6 @@
 # 我对 JavaScript 和响应式设计的看法是错误的
 
-> 原文:[https://simple programmer . com/error-JavaScript-responsive-design/](https://simpleprogrammer.com/wrong-javascript-responsive-design/)
+> 原文：<https://simpleprogrammer.com/wrong-javascript-responsive-design/>
 
 今年早些时候，我写了一篇关于 JavaScript 的博文，以及为什么我认为它注定要失败。我还写了一篇[关于响应式设计](https://simpleprogrammer.com/2013/09/03/responsive-design-waste-time/)的博文，以及为什么我认为这是浪费时间。
 

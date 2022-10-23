@@ -1,6 +1,6 @@
 # 程序员如何有效地管理他们的电子邮件收件箱并提高日常工作效率
 
-> 原文:[https://simple programmer . com/effectively-manage-email-inbox/](https://simpleprogrammer.com/effectively-manage-email-inbox/)
+> 原文：<https://simpleprogrammer.com/effectively-manage-email-inbox/>
 
 ![effectively manage inbox](img/9e949beb6f69a7fcfd7d695ed0f85bb7.png)
 

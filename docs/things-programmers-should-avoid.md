@@ -1,6 +1,6 @@
 # 如果你想成为一名成功的开发者，你应该放弃的 13 件事
 
-> 原文:[https://simple programmer . com/things-programmers-should-avoid/](https://simpleprogrammer.com/things-programmers-should-avoid/)
+> 原文：<https://simpleprogrammer.com/things-programmers-should-avoid/>
 
 ![things programmers should avoid](img/3e09780c22f5302e5748b47edb658e63.png)
 

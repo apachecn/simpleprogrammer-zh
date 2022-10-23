@@ -1,6 +1,6 @@
 # Android 中的 OAuth 和 REST:第 2 部分
 
-> 原文:[https://simple programmer . com/oauth-and-rest-in-Android-part-2/](https://simpleprogrammer.com/oauth-and-rest-in-android-part-2/)
+> 原文：<https://simpleprogrammer.com/oauth-and-rest-in-android-part-2/>
 
 在我的[上一篇文章](https://simpleprogrammer.com/2011/05/25/oauth-and-rest-in-android-part-1/)中，我们大致介绍了 OAuth，并且我们看了如何使用一个叫做陈峰的 Java 库来认证一个提供 OAuth 2 实现的服务。
 

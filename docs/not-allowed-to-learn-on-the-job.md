@@ -1,6 +1,6 @@
 # 不允许在工作中学习
 
-> 原文:[https://simple programmer . com/not-allowed-to-learn-on-the-work/](https://simpleprogrammer.com/not-allowed-to-learn-on-the-job/)
+> 原文：<https://simpleprogrammer.com/not-allowed-to-learn-on-the-job/>
 
 在这一集里，我给出了我对工作时间内训练的建议。应该允许在职学习吗？
 

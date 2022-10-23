@@ -1,6 +1,6 @@
 # 竞技编程只是针对大学生吗？也许不会，原因如下
 
-> 原文:[https://simple programmer . com/竞技-编程-学院-学生/](https://simpleprogrammer.com/competitive-programming-college-students/)
+> 原文：<https://simpleprogrammer.com/competitive-programming-college-students/>
 
 <figure class="alignright is-resized">
 

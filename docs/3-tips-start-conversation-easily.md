@@ -1,6 +1,6 @@
 # 如何轻松开始对话的 3 个技巧
 
-> 原文:[https://simple programmer . com/3-tips-start-conversation-easy/](https://simpleprogrammer.com/3-tips-start-conversation-easily/)
+> 原文：<https://simpleprogrammer.com/3-tips-start-conversation-easily/>
 
 你有没有遇到过开始谈话的问题？大多数人都有这个问题。他们非常想和某人开始对话，但你就是想不出该说什么。
 

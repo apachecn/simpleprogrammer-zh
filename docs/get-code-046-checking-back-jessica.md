@@ -1,6 +1,6 @@
 # 起床，代码 046:检查与杰西卡回来
 
-> 原文:[https://simple programmer . com/get-code-046-checking-back-Jessica/](https://simpleprogrammer.com/get-code-046-checking-back-jessica/)
+> 原文：<https://simpleprogrammer.com/get-code-046-checking-back-jessica/>
 
 Jessica Engstrom 在这一集的播客中谈论了我和 Iris 为她制定的饮食和健身计划。
 

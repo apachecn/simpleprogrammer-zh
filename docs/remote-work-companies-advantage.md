@@ -1,6 +1,6 @@
 # 远程工作如何为公司提供竞争优势
 
-> 原文:[https://simple programmer . com/remote-work-companies-advantage/](https://simpleprogrammer.com/remote-work-companies-advantage/)
+> 原文：<https://simpleprogrammer.com/remote-work-companies-advantage/>
 
 *这是即将出版的书*“远程工作-完全指南”*中的一章，我们将首先在简单程序员上出版这本书。你可以用会员优惠价买到这本书，只要点击这里。*
 

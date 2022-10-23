@@ -1,6 +1,6 @@
 # 回归基础:成为蝙蝠人
 
-> 原文:[https://simple programmer . com/back-to-basics-being-bat-man/](https://simpleprogrammer.com/back-to-basics-becoming-bat-man/)
+> 原文：<https://simpleprogrammer.com/back-to-basics-becoming-bat-man/>
 
 在我关于黑盒自动化测试(BATs)和单元测试的[结论的“回归基础”帖子中，我说我们应该:](https://simpleprogrammer.com/2011/01/14/back-to-basics-unit-testing-automated-blackbox-testing-and-conclusions/)
 

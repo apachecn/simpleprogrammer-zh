@@ -1,6 +1,6 @@
 # 为什么代码评审能产生更好的代码和更好的团队的 10 个原因
 
-> 原文:[https://simple programmer . com/why-code-reviews-make-better-code-teams/](https://simpleprogrammer.com/why-code-reviews-make-better-code-teams/)
+> 原文：<https://simpleprogrammer.com/why-code-reviews-make-better-code-teams/>
 
 ![](img/d1be17bd7148e1721473df952b2d5469.png)
 

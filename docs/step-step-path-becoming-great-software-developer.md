@@ -1,6 +1,6 @@
 # 如何成为一名伟大的软件工程师(没有学位？)
 
-> 原文:[https://simple programmer . com/step-step-path-being-great-software-developer/](https://simpleprogrammer.com/step-step-path-becoming-great-software-developer/)
+> 原文：<https://simpleprogrammer.com/step-step-path-becoming-great-software-developer/>
 
 如果你正在考虑成为一名软件工程师(或者开发人员——他们非常相似，我们将在下面讨论)…这个指南将会教你所有的相关知识。
 

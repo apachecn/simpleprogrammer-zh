@@ -1,6 +1,6 @@
 # 在一家公司工作时，自由职业和人际网络的最佳方式是什么？
 
-> 原文:[https://simple programmer . com/best-way-freelance-network-working-company/](https://simpleprogrammer.com/best-way-freelance-network-working-company/)
+> 原文：<https://simpleprogrammer.com/best-way-freelance-network-working-company/>
 
 如果你能和你的公司建立一种开放的关系会怎么样？
 

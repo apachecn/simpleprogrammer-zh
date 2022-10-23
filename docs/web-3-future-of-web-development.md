@@ -1,6 +1,6 @@
 # Web 3.0:理解 Web 开发的未来
 
-> 原文:[https://simple programmer . com/we b-3-future-of-web-development/](https://simpleprogrammer.com/web-3-future-of-web-development/)
+> 原文：<https://simpleprogrammer.com/web-3-future-of-web-development/>
 
 ![](img/1df2c186382eb057be59769d6a0fca56.png)
 

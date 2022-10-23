@@ -1,6 +1,6 @@
 # 破解你的编程教育(去一个编码训练营)
 
-> 原文:[https://simple programmer . com/hack-your-programming-education-by-go-to-a-coding-boot-camp/](https://simpleprogrammer.com/hack-your-programming-education-by-going-to-a-coding-boot-camp/)
+> 原文：<https://simpleprogrammer.com/hack-your-programming-education-by-going-to-a-coding-boot-camp/>
 
 在不太遥远的过去，如果你想成为一名程序员，只有两种选择:上大学或者自学。
 

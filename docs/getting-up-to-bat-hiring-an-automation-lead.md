@@ -1,6 +1,6 @@
 # 行动起来:雇佣自动化领导者
 
-> 原文:[https://simple programmer . com/get-up-to-bat-hiring-an-automation-lead/](https://simpleprogrammer.com/getting-up-to-bat-hiring-an-automation-lead/)
+> 原文：<https://simpleprogrammer.com/getting-up-to-bat-hiring-an-automation-lead/>
 
 这是我关于全自动黑盒测试系列文章的第一篇，我喜欢称之为 BAT。
 

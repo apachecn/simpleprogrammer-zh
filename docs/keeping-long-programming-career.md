@@ -1,6 +1,6 @@
 # 保持长期编程生涯的有效技巧
 
-> 原文:[https://simple programmer . com/keeping-long-programming-career/](https://simpleprogrammer.com/keeping-long-programming-career/)
+> 原文：<https://simpleprogrammer.com/keeping-long-programming-career/>
 
 ![long programming career](img/5771a6f6de008d9676c42c7222270acb.png)
 

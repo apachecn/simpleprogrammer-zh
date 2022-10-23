@@ -1,6 +1,6 @@
 # 书评:应用的用户故事——迈克·科恩
 
-> 原文:[https://simple programmer . com/book-review-user-stories-applied-Mike-Cohn/](https://simpleprogrammer.com/book-review-user-stories-applied-mike-cohn/)
+> 原文：<https://simpleprogrammer.com/book-review-user-stories-applied-mike-cohn/>
 
 ![User Storied Applied](img/0168319092800e596ad3a64cd30bdc37.png "User Storied Applied")
 

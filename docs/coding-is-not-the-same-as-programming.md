@@ -1,6 +1,6 @@
 # 编码不同于编程
 
-> 原文:[https://simple programmer . com/coding-is-not-the-same-as-programming/](https://simpleprogrammer.com/coding-is-not-the-same-as-programming/)
+> 原文：<https://simpleprogrammer.com/coding-is-not-the-same-as-programming/>
 
 你听说过编码和编程不是一回事吗？但是，这怎么可能呢？
 

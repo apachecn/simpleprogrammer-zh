@@ -1,6 +1,6 @@
 # 如何激励软件开发团队
 
-> 原文:[https://simple programmer . com/motivate-team-software-developers/](https://simpleprogrammer.com/motivate-team-software-developers/)
+> 原文：<https://simpleprogrammer.com/motivate-team-software-developers/>
 
 积极和快乐的软件工程师表现得更好。但是是什么让软件工程师保持快乐和动力呢？确实是一个价值百万的问题。
 

@@ -1,6 +1,6 @@
 # 编程很难，感觉没有动力！
 
-> 原文:[https://simple programmer . com/programming-is-hard-and-I-feel-unmotivated/](https://simpleprogrammer.com/programming-is-hard-and-i-feel-unmotivated/)
+> 原文：<https://simpleprogrammer.com/programming-is-hard-and-i-feel-unmotivated/>
 
 编程很难吧？
 

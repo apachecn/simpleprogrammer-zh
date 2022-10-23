@@ -1,6 +1,6 @@
 # 扩大您的 Instagram 帐户，发展您的编程事业
 
-> 原文:[https://simple programmer . com/insta gram-account-programming-career/](https://simpleprogrammer.com/instagram-account-programming-career/)
+> 原文：<https://simpleprogrammer.com/instagram-account-programming-career/>
 
 ![instagram programming career](img/ac10c3be0c353b5758271dc8053a3428.png)
 

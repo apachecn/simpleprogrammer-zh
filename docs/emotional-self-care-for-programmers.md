@@ -1,6 +1,6 @@
 # 程序员情感自理快速指南
 
-> 原文:[https://simple programmer . com/emotional-self-care-for-programmers/](https://simpleprogrammer.com/emotional-self-care-for-programmers/)
+> 原文：<https://simpleprogrammer.com/emotional-self-care-for-programmers/>
 
 <figure class="alignright is-resized">
 

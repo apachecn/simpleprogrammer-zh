@@ -1,6 +1,6 @@
 # 超级程序员的神话
 
-> 原文:[https://simple programmer . com/the-myth of-the-super-programmer/](https://simpleprogrammer.com/the-myth-of-the-super-programmer/)
+> 原文：<https://simpleprogrammer.com/the-myth-of-the-super-programmer/>
 
 在过去的一周里，我收到了一封让我不安的邮件。
 

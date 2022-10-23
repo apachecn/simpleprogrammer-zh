@@ -1,6 +1,6 @@
 # 区块链应用的 7 大最佳框架
 
-> 原文:[https://simple programmer . com/7-best-frameworks-区块链-apps/](https://simpleprogrammer.com/7-best-frameworks-blockchain-apps/)
+> 原文：<https://simpleprogrammer.com/7-best-frameworks-blockchain-apps/>
 
 想象一个你想盖房子的情况。为此你需要开发一个项目或者买一个现成的。在第二种情况下，你将能够编辑房间的布局、装饰和小东西，但像主墙、污水和电力等东西将保持不变。同时，它将大大简化和加快建设进程。
 

@@ -1,6 +1,6 @@
 # 关于测试和 QA，软件开发人员应该知道什么
 
-> 原文:[https://simple programmer . com/software-developers-know-testing-QA/](https://simpleprogrammer.com/software-developers-know-testing-qa/)
+> 原文：<https://simpleprogrammer.com/software-developers-know-testing-qa/>
 
 我在软件开发行业的第一份正式工作是测试员。
 

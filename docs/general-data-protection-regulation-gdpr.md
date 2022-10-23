@@ -1,6 +1,6 @@
 # 为什么程序员需要了解一般数据保护条例(GDPR)
 
-> 原文:[https://simple programmer . com/general-data-protection-regulation-gdpr/](https://simpleprogrammer.com/general-data-protection-regulation-gdpr/)
+> 原文：<https://simpleprogrammer.com/general-data-protection-regulation-gdpr/>
 
 ![](img/1e5dabe1ca56018a7678e8ab9681207f.png)
 

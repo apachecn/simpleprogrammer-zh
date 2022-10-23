@@ -1,6 +1,6 @@
 # 如果你喜欢危险的生活，修改你的主机文件
 
-> 原文:[https://simple programmer . com/if-you-like-living-dangerously-modify-your-hosts-file/](https://simpleprogrammer.com/if-you-like-living-dangerously-modify-your-hosts-file/)
+> 原文：<https://simpleprogrammer.com/if-you-like-living-dangerously-modify-your-hosts-file/>
 
 我越来越多地看到和听到它，每次看到它，我都会退缩。
 

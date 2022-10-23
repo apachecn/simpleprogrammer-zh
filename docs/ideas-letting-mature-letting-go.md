@@ -1,6 +1,6 @@
 # 想法:让他们成熟，然后放手
 
-> 原文:[https://simple programmer . com/ideas-let-matter-let-go/](https://simpleprogrammer.com/ideas-letting-mature-letting-go/)
+> 原文：<https://simpleprogrammer.com/ideas-letting-mature-letting-go/>
 
 伟大的头脑讨论想法；普通人讨论事件；心胸狭窄的人讨论人。
 

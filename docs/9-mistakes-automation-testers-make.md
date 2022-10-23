@@ -1,6 +1,6 @@
 # 大多数自动化测试人员会犯的 9 个错误(但是你不一定要犯)
 
-> 原文:[https://simple programmer . com/9-errors-automation-testers-make/](https://simpleprogrammer.com/9-mistakes-automation-testers-make/)
+> 原文：<https://simpleprogrammer.com/9-mistakes-automation-testers-make/>
 
 ![mistakes automation testers make](img/d70d4e38ac0ca7ae0df10ae0faa912b2.png)
 

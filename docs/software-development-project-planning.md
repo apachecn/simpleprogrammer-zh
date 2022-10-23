@@ -1,6 +1,6 @@
 # 规划软件开发项目的 8 个基本步骤
 
-> 原文:[https://simple programmer . com/software-development-project-planning/](https://simpleprogrammer.com/software-development-project-planning/)
+> 原文：<https://simpleprogrammer.com/software-development-project-planning/>
 
 ![software development project planning](img/33f1e5b2eba742454a90a284597f6d20.png)
 

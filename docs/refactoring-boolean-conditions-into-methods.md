@@ -1,6 +1,6 @@
 # 将布尔条件重构为方法
 
-> 原文:[https://simple programmer . com/refactoring-boolean-conditions-into-methods/](https://simpleprogrammer.com/refactoring-boolean-conditions-into-methods/)
+> 原文：<https://simpleprogrammer.com/refactoring-boolean-conditions-into-methods/>
 
 有些人真的真的不喜欢把布尔条件重构成私有方法。有一次，有人告诉我，如果他们看到这样的代码:
 

@@ -1,6 +1,6 @@
 # 关于持续集成，软件开发人员应该知道什么
 
-> 原文:[https://simple programmer . com/developers-know-continuous-integration/](https://simpleprogrammer.com/developers-know-continuous-integration/)
+> 原文：<https://simpleprogrammer.com/developers-know-continuous-integration/>
 
 有些关于我的事你需要知道。
 

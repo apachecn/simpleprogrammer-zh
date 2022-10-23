@@ -1,6 +1,6 @@
 # 程序员更好姿势指南
 
-> 原文:[https://simple programmer . com/programmers-guide-to-better-posture/](https://simpleprogrammer.com/programmers-guide-to-better-posture/)
+> 原文：<https://simpleprogrammer.com/programmers-guide-to-better-posture/>
 
 作为程序员，长时间呆在电脑前是我们的工作。如果你和我们一样，你坐在那里的时间越长，你的姿势就变得越糟糕。在没有意识到的情况下，你开始伸长脖子，把脸靠近屏幕。你耸起肩膀，瘫坐在椅子上。
 

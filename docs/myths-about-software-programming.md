@@ -1,6 +1,6 @@
 # 事实还是虚构？关于软件编程的 8 个误区
 
-> 原文:[https://simple programmer . com/myths-about-software-programming/](https://simpleprogrammer.com/myths-about-software-programming/)
+> 原文：<https://simpleprogrammer.com/myths-about-software-programming/>
 
 ![](img/6d21f7a26a8623b5753de727cb30285a.png)
 

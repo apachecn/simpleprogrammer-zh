@@ -1,6 +1,6 @@
 # 领导力:领导者是天生的吗？还是他们做出来的？
 
-> 原文:[https://simple programmer . com/are-leaders-born-or-are-they-made/](https://simpleprogrammer.com/are-leaders-born-or-are-they-made/)
+> 原文：<https://simpleprogrammer.com/are-leaders-born-or-are-they-made/>
 
 领导力是我们社会中一个永恒的话题，我们不停地谈论、思考和写作。
 

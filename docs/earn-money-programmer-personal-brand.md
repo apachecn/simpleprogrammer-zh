@@ -1,6 +1,6 @@
 # 2021 年如何从你的程序员个人品牌中挣钱
 
-> 原文:[https://simple programmer . com/earn-money-programmer-personal-brand/](https://simpleprogrammer.com/earn-money-programmer-personal-brand/)
+> 原文：<https://simpleprogrammer.com/earn-money-programmer-personal-brand/>
 
 ![](img/d2d968a528d66c9f0ccd3b5d6a4f7cde.png)
 

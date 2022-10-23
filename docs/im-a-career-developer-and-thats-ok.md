@@ -1,6 +1,6 @@
 # 我是一名职业发展者，这没关系
 
-> 原文:[https://simple programmer . com/im-a-career-developer-and-thas-ok/](https://simpleprogrammer.com/im-a-career-developer-and-thats-ok/)
+> 原文：<https://simpleprogrammer.com/im-a-career-developer-and-thats-ok/>
 
 有时候我觉得自己像《见家长》里的格雷格·福克尔。
 

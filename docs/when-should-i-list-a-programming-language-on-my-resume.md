@@ -1,6 +1,6 @@
 # 什么时候应该在简历上列出一门编程语言？
 
-> 原文:[https://simple programmer . com/when-should-I-list-a-programming-language-on-my-resume/](https://simpleprogrammer.com/when-should-i-list-a-programming-language-on-my-resume/)
+> 原文：<https://simpleprogrammer.com/when-should-i-list-a-programming-language-on-my-resume/>
 
 在这一集里，我将讨论什么时候应该在简历中列出一门编程语言。
 

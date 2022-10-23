@@ -1,6 +1,6 @@
 # 保持快乐
 
-> 原文:[https://simple programmer . com/programmers-guide-staying-happy/](https://simpleprogrammer.com/programmers-guide-staying-happy/)
+> 原文：<https://simpleprogrammer.com/programmers-guide-staying-happy/>
 
 成为一名程序员或软件开发员并不总是一种迷人的生活。即使你开始做一些令人兴奋和创新的事情——比如穿着睡衣坐在家里做一个当前的项目——也很容易感到筋疲力尽，变得不开心或对你的任务和产出缺乏灵感。
 

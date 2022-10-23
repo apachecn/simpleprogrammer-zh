@@ -1,6 +1,6 @@
 # 如何成为一名自学成才的软件开发人员
 
-> 原文:[https://simple programmer . com/自学-软件-开发者/](https://simpleprogrammer.com/self-taught-software-developer/)
+> 原文：<https://simpleprogrammer.com/self-taught-software-developer/>
 
 如何成为一名自学成才的软件开发人员？
 

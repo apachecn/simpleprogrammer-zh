@@ -1,6 +1,6 @@
 # 每个人都应该学习编程，但不是每个人都应该成为程序员
 
-> 原文:[https://simple programmer . com/every one-should-learn-to-program-but-every one-should-be-a-a-programmer/](https://simpleprogrammer.com/everyone-should-learn-to-program-but-not-everyone-should-be-a-programmer/)
+> 原文：<https://simpleprogrammer.com/everyone-should-learn-to-program-but-not-everyone-should-be-a-programmer/>
 
 最近来自 Pluralsight 的关于教孩子编程的免费[课程让我开始思考这个问题。](https://simpleprogrammer.com/kids-courses)
 

@@ -1,6 +1,6 @@
 # 理解和管理软件开发中的风险
 
-> 原文:[https://simple programmer . com/risk-management-software-development/](https://simpleprogrammer.com/risk-management-software-development/)
+> 原文：<https://simpleprogrammer.com/risk-management-software-development/>
 
 ![risk management](img/edc9037e533a0917d7ff6e198b20c63c.png)
 

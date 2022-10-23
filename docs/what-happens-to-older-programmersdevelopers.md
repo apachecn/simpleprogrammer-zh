@@ -1,6 +1,6 @@
 # 年长的程序员/开发人员会怎么样？
 
-> 原文:[https://simple programmer . com/what-happens-to-older-programmers developers/](https://simpleprogrammer.com/what-happens-to-older-programmersdevelopers/)
+> 原文：<https://simpleprogrammer.com/what-happens-to-older-programmersdevelopers/>
 
 对于软件开发和编程来说，你会不会太老了？衰老的时候有可能成为一名优秀的程序员吗？在今天的视频中，我回答了一位读者问我的关于“编程到老”的问题。
 

@@ -1,6 +1,6 @@
 # 你为什么拖延对你的项目采取行动？
 
-> 原文:[https://simple programmer . com/拖延-采取行动-项目/](https://simpleprogrammer.com/procrastinating-take-action-projects/)
+> 原文：<https://simpleprogrammer.com/procrastinating-take-action-projects/>
 
 你为什么拖延对你的项目采取行动？
 

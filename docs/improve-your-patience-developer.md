@@ -1,6 +1,6 @@
 # 提高开发人员耐心的五种方法
 
-> 原文:[https://simple programmer . com/improve-your-patience-developer/](https://simpleprogrammer.com/improve-your-patience-developer/)
+> 原文：<https://simpleprogrammer.com/improve-your-patience-developer/>
 
 ![](img/02a9b6d131d8e57364c9ca3a2d4f3889.png)
 

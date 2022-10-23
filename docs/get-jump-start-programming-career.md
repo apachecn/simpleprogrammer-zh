@@ -1,6 +1,6 @@
 # 如何开始你的编程生涯
 
-> 原文:[https://simple 程序员. com/get-jump-start-编程-职业/](https://simpleprogrammer.com/get-jump-start-programming-career/)
+> 原文：<https://simpleprogrammer.com/get-jump-start-programming-career/>
 
 在软件开发领域入门很难。
 

@@ -1,6 +1,6 @@
 # 学习自动化测试的最佳在线资源
 
-> 原文:[https://simple programmer . com/resources-to-learn-automation-testing/](https://simpleprogrammer.com/resources-to-learn-automation-testing/)
+> 原文：<https://simpleprogrammer.com/resources-to-learn-automation-testing/>
 
 我花了很多年做软件测试自动化。那些年里，我列出了一个帮助我提高技能的我最喜欢的资源清单。下面是列表。大多数学习测试自动化的资源都集中在 Selenium WebDriver 上，因为它是当今最相关的技术。然而，一些通用资源也可以用来提高您的测试自动化技能。
 

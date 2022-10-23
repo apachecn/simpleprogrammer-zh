@@ -1,6 +1,6 @@
 # 学习任何你想要的新编程语言的 7 个步骤(快速！)
 
-> 原文:[https://simple programmer . com/learn-new-programming-language/](https://simpleprogrammer.com/learn-new-programming-language/)
+> 原文：<https://simpleprogrammer.com/learn-new-programming-language/>
 
 无论你目前是在攻读计算机科学学位，还是一名有抱负的自学开发人员，还是一名编码训练营的学生，掌握编程技术都是一场持久的斗争。
 

@@ -1,6 +1,6 @@
 # 程序员可以用来与营销人员有效沟通的 5 个技巧
 
-> 原文:[https://simple programmer . com/programmers-有效地与营销人员沟通/](https://simpleprogrammer.com/programmers-effectively-communicate-with-marketers/)
+> 原文：<https://simpleprogrammer.com/programmers-effectively-communicate-with-marketers/>
 
 ![programmers communicate with marketers](img/fe925f65ea0ba5b95b21b15e0b6a2a88.png)
 

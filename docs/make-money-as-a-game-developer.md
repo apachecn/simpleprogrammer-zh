@@ -1,6 +1,6 @@
 # 游戏开发者赚钱的 5 种最佳方式
 
-> 原文:[https://simple programmer . com/make-money-as-a-a-game-developer/](https://simpleprogrammer.com/make-money-as-a-game-developer/)
+> 原文：<https://simpleprogrammer.com/make-money-as-a-game-developer/>
 
 你是不是非常喜欢制作游戏，以至于想以此为职业？T3】
 

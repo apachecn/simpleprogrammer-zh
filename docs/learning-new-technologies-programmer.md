@@ -1,6 +1,6 @@
 # 为廉价工作还是学习技术？
 
-> 原文:[https://simple programmer . com/learning-new-technologies-programmer/](https://simpleprogrammer.com/learning-new-technologies-programmer/)
+> 原文：<https://simpleprogrammer.com/learning-new-technologies-programmer/>
 
 在早期阶段成为一名开发人员意味着做出一些肯定会影响你 5 年后职业生涯的选择。你应该工作吗？你应该投资学习新技术吗？
 

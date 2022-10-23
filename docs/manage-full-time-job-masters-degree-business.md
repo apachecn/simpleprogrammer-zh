@@ -1,6 +1,6 @@
 # 如何同时兼顾全职工作、硕士学位和生意？
 
-> 原文:[https://simple programmer . com/manage-全职-工作-硕士-学位-商务/](https://simpleprogrammer.com/manage-full-time-job-masters-degree-business/)
+> 原文：<https://simpleprogrammer.com/manage-full-time-job-masters-degree-business/>
 
 有时我们发现自己做了太多的事情，以至于我们不能停下来想一想我们是否有能力做所有的事情。
 

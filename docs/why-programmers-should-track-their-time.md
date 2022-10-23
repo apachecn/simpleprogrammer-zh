@@ -1,6 +1,6 @@
 # 为什么程序员应该跟踪他们的时间(即使他们不按小时收费)
 
-> 原文:[https://simple programmer . com/why-programmers-should-track-they-time/](https://simpleprogrammer.com/why-programmers-should-track-their-time/)
+> 原文：<https://simpleprogrammer.com/why-programmers-should-track-their-time/>
 
 编程可能会有压力。这是我们很早就学到的一课。任何与 bug 和编译器错误搏斗过的人都会告诉你，压力只是工作的一部分。我们不断受到善意的同事和经理的推动，他们对按时发布产品有既得利益。
 

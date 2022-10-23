@@ -1,6 +1,6 @@
 # 被拒 14 个月后获得编程工作！
 
-> 原文:[https://simple programmer . com/programming-job-after-14 月/](https://simpleprogrammer.com/programming-job-after-14-months/)
+> 原文：<https://simpleprogrammer.com/programming-job-after-14-months/>
 
 找工作有两个方面:技术方面和软技能方面。
 

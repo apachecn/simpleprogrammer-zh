@@ -1,6 +1,6 @@
 # 2018 年前端 JavaScript 开发者工资能低到什么程度
 
-> 原文:[https://simple programmer . com/front-end-JavaScript-developers-salaries/](https://simpleprogrammer.com/front-end-javascript-developers-salaries/)
+> 原文：<https://simpleprogrammer.com/front-end-javascript-developers-salaries/>
 
 前端开发正在接管物联网。从客户端的网站开发工具开始，前端开发已经成功演变为移动和桌面应用程序、无人机、游戏、虚拟现实和电视应用程序的有效方法[等等](https://simpleprogrammer.com/2016/09/22/front-end-vs-back-end/)。
 

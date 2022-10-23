@@ -1,6 +1,6 @@
 # 为什么工程师需要提高沟通技巧
 
-> 原文:[https://simple programmer . com/engineers-communication-skills/](https://simpleprogrammer.com/engineers-communication-skills/)
+> 原文：<https://simpleprogrammer.com/engineers-communication-skills/>
 
 ![engineers communication skills](img/513b8e0ea5e7b97d1eef1709b09aeef8.png)
 

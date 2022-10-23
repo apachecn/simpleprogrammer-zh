@@ -1,6 +1,6 @@
 # 作为程序员的第一年:错误和摘录
 
-> 原文:[https://simple programmer . com/第一年程序员-错误/](https://simpleprogrammer.com/first-year-programmer-mistakes/)
+> 原文：<https://simpleprogrammer.com/first-year-programmer-mistakes/>
 
 <figure class="alignright size-large is-resized">
 

@@ -1,6 +1,6 @@
 # 2021 年需要掌握的 5 项热门编程技能
 
-> 原文:[https://simple programmer . com/in-demand-programming-skills-2021/](https://simpleprogrammer.com/in-demand-programming-skills-2021/)
+> 原文：<https://simpleprogrammer.com/in-demand-programming-skills-2021/>
 
 ![in-demand programming skills](img/b208a3aa89bf7fc6e5946f2ff7595b2e.png)
 

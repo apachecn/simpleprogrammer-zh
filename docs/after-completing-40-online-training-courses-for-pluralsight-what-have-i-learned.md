@@ -1,6 +1,6 @@
 # 完成 40 门 Pluralsight 在线培训课程后，我学到了什么？
 
-> 原文:[https://simple programmer . com/after-completing-40-online-training-courses-for-plural sight-what-I-have-learn/](https://simpleprogrammer.com/after-completing-40-online-training-courses-for-pluralsight-what-have-i-learned/)
+> 原文：<https://simpleprogrammer.com/after-completing-40-online-training-courses-for-pluralsight-what-have-i-learned/>
 
 哇，我真不敢相信我已经达到了里程碑[创作了 40 门多视课程](https://simpleprogrammer.com/pluralsight)
 

@@ -1,6 +1,6 @@
 # 2015 年软件开发者礼品(以及其他技术极客礼品)
 
-> 原文:[https://simple programmer . com/software-developer-gifts-and-other-tech-geek-gifts-2015/](https://simpleprogrammer.com/software-developer-gifts-and-other-tech-geek-gifts-2015/)
+> 原文：<https://simpleprogrammer.com/software-developer-gifts-and-other-tech-geek-gifts-2015/>
 
 ## **更新:[点击这里查看最新的 2020 年软件开发者礼物清单](https://simpleprogrammer.com/gifts-for-programmers/)**
 

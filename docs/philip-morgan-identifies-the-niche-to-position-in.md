@@ -1,6 +1,6 @@
 # 菲利普·摩根确定了自己的定位
 
-> 原文:[https://simple programmer . com/Philip-mor gan-identified-the-niche-to-position-in/](https://simpleprogrammer.com/philip-morgan-identifies-the-niche-to-position-in/)
+> 原文：<https://simpleprogrammer.com/philip-morgan-identifies-the-niche-to-position-in/>
 
 我总是回答关于专业化和“定位”的问题，所以我很高兴能邀请一位专家嘉宾来讨论这个话题。菲利普·摩根帮助开发人员确定最佳定位。他的专业是— *专业化*。通过定位，他帮助个人和企业获得更高的利率、更好的客户和更好的渠道。
 

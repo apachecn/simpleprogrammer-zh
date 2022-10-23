@@ -1,6 +1,6 @@
 # 极限编程(XP)有哪些利弊？
 
-> 原文:[https://simple programmer . com/pros-consens-extreme-programming-XP/](https://simpleprogrammer.com/pros-cons-extreme-programming-xp/)
+> 原文：<https://simpleprogrammer.com/pros-cons-extreme-programming-xp/>
 
 ![](img/f98c91a2691f3d88352cca4aa2bc6bee.png)
 

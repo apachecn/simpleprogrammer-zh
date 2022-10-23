@@ -1,6 +1,6 @@
 # 适用于开发者的 8 个链接构建策略
 
-> 原文:[https://simple programmer . com/link-building-strategies-for-developers/](https://simpleprogrammer.com/link-building-strategies-for-developers/)
+> 原文：<https://simpleprogrammer.com/link-building-strategies-for-developers/>
 
 ![link-building strategies for developers](img/764344380b8bb12d41fd075d5d43f5da.png)
 

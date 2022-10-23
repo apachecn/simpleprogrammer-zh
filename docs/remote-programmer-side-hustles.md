@@ -1,6 +1,6 @@
 # 5 个专门为程序员设计的远程端 Hustle 创意
 
-> 原文:[https://simple programmer . com/remote-programmer-side-hustles/](https://simpleprogrammer.com/remote-programmer-side-hustles/)
+> 原文：<https://simpleprogrammer.com/remote-programmer-side-hustles/>
 
 ![remote programmer side hustles](img/8f621532b3127c5735a08d3dfd7bde86.png)
 

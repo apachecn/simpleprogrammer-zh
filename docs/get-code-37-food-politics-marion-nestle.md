@@ -1,6 +1,6 @@
 # 起床编码 37:马里恩·内斯特莱的食品政治
 
-> 原文:[https://simple programmer . com/get-code-37-food-politics-Marion-nestle/](https://simpleprogrammer.com/get-code-37-food-politics-marion-nestle/)
+> 原文：<https://simpleprogrammer.com/get-code-37-food-politics-marion-nestle/>
 
 对这一集很兴奋。
 

@@ -1,6 +1,6 @@
 # 会让你的敏捷开发项目失败的 5 件事
 
-> 原文:[https://simple programmer . com/5-敏捷-开发-失败-征兆/](https://simpleprogrammer.com/5-agile-development-failure-signs/)
+> 原文：<https://simpleprogrammer.com/5-agile-development-failure-signs/>
 
 太多的敏捷开发项目失败了。甚至很难精确地测量失败的数量，因为如此多的软件开发项目最终“完成”并交付，即使:
 

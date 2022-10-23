@@ -1,6 +1,6 @@
 # 软件工程师与软件开发人员:有什么区别？
 
-> 原文:[https://simple programmer . com/software-engineer-vs-software-developer/](https://simpleprogrammer.com/software-engineer-vs-software-developer/)
+> 原文：<https://simpleprogrammer.com/software-engineer-vs-software-developer/>
 
 ![software engineer vs software developer](img/10bff19003b5df20d616c0619d8d256c.png)
 

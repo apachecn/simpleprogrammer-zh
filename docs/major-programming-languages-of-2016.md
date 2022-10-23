@@ -1,6 +1,6 @@
 # 2016 年主要编程语言
 
-> 原文:[https://simple programmer . com/major-programming-languages-of-2016/](https://simpleprogrammer.com/major-programming-languages-of-2016/)
+> 原文：<https://simpleprogrammer.com/major-programming-languages-of-2016/>
 
 通常，新开发人员认为了解大量编程语言很重要，但事实并非如此。
 

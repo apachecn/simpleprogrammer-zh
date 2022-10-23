@@ -1,6 +1,6 @@
 # 如何成为一名优秀的程序员
 
-> 原文:[https://simple programmer . com/how-to-be-a-good-programmer/](https://simpleprogrammer.com/how-to-become-a-good-programmer/)
+> 原文：<https://simpleprogrammer.com/how-to-become-a-good-programmer/>
 
 我知道你们中的很多人都是在软件开发人员的编程生涯中起步的，并且你想要达到那个高度，你想要达到更高的层次。
 

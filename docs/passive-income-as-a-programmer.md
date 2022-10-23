@@ -1,6 +1,6 @@
 # 作为程序员如何做被动收入
 
-> 原文:[https://simple programmer . com/passive-income-as-a-a-programmer/](https://simpleprogrammer.com/passive-income-as-a-programmer/)
+> 原文：<https://simpleprogrammer.com/passive-income-as-a-programmer/>
 
 今天我要谈谈作为一名程序员获得一些被动收入。
 

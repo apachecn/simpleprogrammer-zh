@@ -1,6 +1,6 @@
 # 如何成为一名自由程序员
 
-> 原文:[https://simple programmer . com/niche-down-freelance-programmer/](https://simpleprogrammer.com/niche-down-freelance-programmer/)
+> 原文：<https://simpleprogrammer.com/niche-down-freelance-programmer/>
 
 ![niche programmer](img/64e722a7e180cfee38db717d0e59c602.png)
 

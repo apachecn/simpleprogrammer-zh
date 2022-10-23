@@ -1,6 +1,6 @@
 # 开发人员的努力:将学习转化为收益
 
-> 原文:[https://simple programmer . com/developer-side-hustle-learning-earnings/](https://simpleprogrammer.com/developer-side-hustle-learnings-earnings/)
+> 原文：<https://simpleprogrammer.com/developer-side-hustle-learnings-earnings/>
 
 ![developer side hustle](img/b611db66fca34c0f0fbfdb4f04d1e38d.png)
 

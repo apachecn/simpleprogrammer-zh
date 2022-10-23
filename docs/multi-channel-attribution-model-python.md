@@ -1,6 +1,6 @@
 # 如何用 Python 制作多渠道归因模型
 
-> 原文:[https://simple programmer . com/multi-channel-attribute-model-python/](https://simpleprogrammer.com/multi-channel-attribution-model-python/)
+> 原文：<https://simpleprogrammer.com/multi-channel-attribution-model-python/>
 
 ![multi-channel attribution model](img/3a1c91d61217ff965740b625e6127b49.png)
 

@@ -1,6 +1,6 @@
 # 开发人员喜爱的 14 种提高生产力的软件工具
 
-> 原文:[https://simple programmer . com/productivity-boosting-software-tools/](https://simpleprogrammer.com/productivity-boosting-software-tools/)
+> 原文：<https://simpleprogrammer.com/productivity-boosting-software-tools/>
 
 ![productivity-boosting software tools](img/7c6f03ff9fb7059b0e8650f5cc925458.png)
 

@@ -1,6 +1,6 @@
 # 单人软件开发的利与弊
 
-> 原文:[https://simple programmer . com/the-pros-and-cons-of-one-person-software-development/](https://simpleprogrammer.com/the-pros-and-cons-of-one-person-software-development/)
+> 原文：<https://simpleprogrammer.com/the-pros-and-cons-of-one-person-software-development/>
 
 ![software development](img/61fb23aa58865a71f7aa62cd856ef4fb.png)
 

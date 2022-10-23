@@ -1,6 +1,6 @@
 # 作为程序员，不要卷入政治
 
-> 原文:[https://simple programmer . com/don-get-political-as-a-a-programmer/](https://simpleprogrammer.com/dont-get-political-as-a-programmer/)
+> 原文：<https://simpleprogrammer.com/dont-get-political-as-a-programmer/>
 
 我想在这里做一个简短的视频。我只想告诉你，如果你是一名软件开发人员，为什么你应该避免编程中的政治。
 

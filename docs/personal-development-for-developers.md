@@ -1,6 +1,6 @@
 # 超越技术能力的开发人员的个人发展
 
-> 原文:[https://simple programmer . com/personal-development-for-developers/](https://simpleprogrammer.com/personal-development-for-developers/)
+> 原文：<https://simpleprogrammer.com/personal-development-for-developers/>
 
 ![Personal Development for Developers](img/9a7d614de971c22a2b99f47b62a9be17.png)
 

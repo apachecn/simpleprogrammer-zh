@@ -1,6 +1,6 @@
 # 起床蝙蝠:添加烟雾测试到您的构建
 
-> 原文:[https://simple programmer . com/get-up-to-bat-add-smoke-tests-to-your-build/](https://simpleprogrammer.com/getting-up-to-bat-adding-smoke-tests-to-your-build/)
+> 原文：<https://simpleprogrammer.com/getting-up-to-bat-adding-smoke-tests-to-your-build/>
 
 一旦你已经用你闪亮的新自动化框架建立了一些冒烟测试，你会想要让那些冒烟测试尽快启动并运行…
 

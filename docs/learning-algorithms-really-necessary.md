@@ -1,6 +1,6 @@
 # 学习算法:真的有必要吗？
 
-> 原文:[https://simple programmer . com/learning-algorithms-really-必要性/](https://simpleprogrammer.com/learning-algorithms-really-necessary/)
+> 原文：<https://simpleprogrammer.com/learning-algorithms-really-necessary/>
 
 所以，你们中的一些人在学习算法的时候真的卡住了。这可能是编程社区中被问得最多的问题之一。程序员该不该学算法？对于一个软件开发人员来说真的有必要吗，尤其是在做好工作的时候。
 

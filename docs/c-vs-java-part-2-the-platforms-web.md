@@ -1,6 +1,6 @@
 # C#与 Java 第 2 部分:Web 平台
 
-> 原文:[https://simple programmer . com/c-vs-Java-part-2-the-platforms-web/](https://simpleprogrammer.com/c-vs-java-part-2-the-platforms-web/)
+> 原文：<https://simpleprogrammer.com/c-vs-java-part-2-the-platforms-web/>
 
 Web 平台是考虑任何现代软件开发环境的一个关键因素。
 

@@ -1,6 +1,6 @@
 # 5 技能学生需要在 2021 年得到他们的第一份编程工作
 
-> 原文:[https://simple programmer . com/programming-student-skills-2021/](https://simpleprogrammer.com/programming-student-skills-2021/)
+> 原文：<https://simpleprogrammer.com/programming-student-skills-2021/>
 
 ![programming jobs skills 2021](img/614dde238b7137c732a509f58b31134e.png)
 

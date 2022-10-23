@@ -1,6 +1,6 @@
 # 重新进入编程就业市场(8 年后？？？)
 
-> 原文:[https://simple programmer . com/re-enter-the-programming-job-market/](https://simpleprogrammer.com/re-entering-the-programming-job-market/)
+> 原文：<https://simpleprogrammer.com/re-entering-the-programming-job-market/>
 
 当离开工作岗位时，无论是抚养孩子、休息还是照顾父母，就业缺口都会给招聘经理留下疑问。
 

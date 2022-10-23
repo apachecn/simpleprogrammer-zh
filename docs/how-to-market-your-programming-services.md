@@ -1,6 +1,6 @@
 # 如何营销您的编程服务
 
-> 原文:[https://simple programmer . com/how-to-market-your-programming-services/](https://simpleprogrammer.com/how-to-market-your-programming-services/)
+> 原文：<https://simpleprogrammer.com/how-to-market-your-programming-services/>
 
 所以，你是一个自由职业的程序员。你已经决定走出去，开始在推特上宣传你的编程技能和服务。太好了！今天，每个人都需要一个网站、一个应用程序或软件，所以你会有很多工作要做。
 

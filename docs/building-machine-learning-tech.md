@@ -1,6 +1,6 @@
 # 构建机器学习技术的主要挑战
 
-> 原文:[https://simple programmer . com/building-machine-learning-tech/](https://simpleprogrammer.com/building-machine-learning-tech/)
+> 原文：<https://simpleprogrammer.com/building-machine-learning-tech/>
 
 机器学习是现代科技行业的圣杯。任何曾经在计算机科学领域工作过的人都在思考这个问题，随着[谷歌](https://www.sciencealert.com/google-s-machine-learning-software-has-learned-to-replicate-itself)、[脸书](https://www.wired.com/2017/02/inside-facebooks-ai-machine/)和[苹果](https://techcrunch.com/2017/10/19/apple-makes-the-case-that-even-its-most-banal-features-require-a-proficiency-in-machine-learning/)等公司从人工智能(AI)中获益，机器智能革命显然已经到来。
 

@@ -1,6 +1,6 @@
 # 什么使得代码可读:不是你想的那样
 
-> 原文:[https://simple programmer . com/what-makes-code-readable-not-what-you-think/](https://simpleprogrammer.com/what-makes-code-readable-not-what-you-think/)
+> 原文：<https://simpleprogrammer.com/what-makes-code-readable-not-what-you-think/>
 
 您经常听说编写“可读代码”有多重要
 

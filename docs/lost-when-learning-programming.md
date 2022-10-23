@@ -1,6 +1,6 @@
 # 学编程的时候很失落！
 
-> 原文:[https://simple programmer . com/lost-when-learning-programming/](https://simpleprogrammer.com/lost-when-learning-programming/)
+> 原文：<https://simpleprogrammer.com/lost-when-learning-programming/>
 
 学习编程肯定是一件非常困难和棘手的事情。
 

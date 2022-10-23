@@ -1,6 +1,6 @@
 # 如何营销自己是一个软件开发人员是活的！
 
-> 原文:[https://simple programmer . com/market-software-developer-live/](https://simpleprogrammer.com/market-software-developer-live/)
+> 原文：<https://simpleprogrammer.com/market-software-developer-live/>
 
 这一天终于到来了。
 

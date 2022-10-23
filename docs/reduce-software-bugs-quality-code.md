@@ -1,6 +1,6 @@
 # 质量始于代码:减少软件错误的 10 种方法
 
-> 原文:[https://simple programmer . com/reduce-software-bugs-quality-code/](https://simpleprogrammer.com/reduce-software-bugs-quality-code/)
+> 原文：<https://simpleprogrammer.com/reduce-software-bugs-quality-code/>
 
 软件错误是任何软件程序员的困扰，不管他们有多熟练。
 

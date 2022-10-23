@@ -1,6 +1,6 @@
 # 会议对开发者来说很重要
 
-> 原文:[https://simple programmer . com/conferences-important-for-developers/](https://simpleprogrammer.com/conferences-important-for-developers/)
+> 原文：<https://simpleprogrammer.com/conferences-important-for-developers/>
 
 许多开发人员参加聚会和会议是为了学习新的东西，或者只是为了更深入地研究某个对他们来说很重要的主题。
 

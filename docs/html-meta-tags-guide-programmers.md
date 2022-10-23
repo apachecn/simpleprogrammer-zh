@@ -1,6 +1,6 @@
 # 如何通过 HTML & Meta 标签描述页面内容[程序员指南]
 
-> 原文:[https://simple programmer . com/html-meta-tags-guide-programmers/](https://simpleprogrammer.com/html-meta-tags-guide-programmers/)
+> 原文：<https://simpleprogrammer.com/html-meta-tags-guide-programmers/>
 
 ![](img/f3be4fcf93eff2612b96afa1557c7e4f.png)
 

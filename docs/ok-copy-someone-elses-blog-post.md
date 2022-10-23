@@ -1,6 +1,6 @@
 # 抄袭别人的博文可以吗？
 
-> 原文:[https://simple programmer . com/ok-copy-someone-elses-blog-post/](https://simpleprogrammer.com/ok-copy-someone-elses-blog-post/)
+> 原文：<https://simpleprogrammer.com/ok-copy-someone-elses-blog-post/>
 
 了解如果你的主题已经被覆盖了该怎么做，以及如何让你的博客文章快速发表！
 

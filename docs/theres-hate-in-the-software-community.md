@@ -1,6 +1,6 @@
 # 在软件社区中有仇恨
 
-> 原文:[https://simple programmer . com/theres-hate-in-the-software-community/](https://simpleprogrammer.com/theres-hate-in-the-software-community/)
+> 原文：<https://simpleprogrammer.com/theres-hate-in-the-software-community/>
 
 你曾经对软件社区中的特定技术感到不合理的憎恨吗？你有没有注意到任何开发人员做出超出纯技术层面的假设或偏见？在多年对此视而不见之后，我最近开始感觉到了。
 

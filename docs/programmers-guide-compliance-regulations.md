@@ -1,6 +1,6 @@
 # 符合性规则的程序员指南
 
-> 原文:[https://simple programmer . com/programmers-guide-compliance-regulations/](https://simpleprogrammer.com/programmers-guide-compliance-regulations/)
+> 原文：<https://simpleprogrammer.com/programmers-guide-compliance-regulations/>
 
 ![programmers compliance regulations](img/cfc2f3079a5038d7c38ac80031a51e68.png)
 

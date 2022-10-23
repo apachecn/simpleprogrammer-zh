@@ -1,6 +1,6 @@
 # 程序员管理压力指南
 
-> 原文:[https://simple programmer . com/a-programmers-guide-to-managing-stress/](https://simpleprogrammer.com/a-programmers-guide-to-managing-stress/)
+> 原文：<https://simpleprogrammer.com/a-programmers-guide-to-managing-stress/>
 
 有一次我差点失去理智。这是发生在我身上最好的事情。
 

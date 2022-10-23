@@ -1,6 +1,6 @@
 # 在重点时间段编程的重要性
 
-> 原文:[https://simple programmer . com/programming-focused-time-blocks/](https://simpleprogrammer.com/programming-focused-time-blocks/)
+> 原文：<https://simpleprogrammer.com/programming-focused-time-blocks/>
 
 ![](img/b400dc58b9b46365de5f5f8cbe87b38f.png)
 

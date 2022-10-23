@@ -1,6 +1,6 @@
 # 开发人员的 13 个高效技巧
 
-> 原文:[https://simple programmer . com/productivity-for-busy-developers/](https://simpleprogrammer.com/productivity-for-busy-developers/)
+> 原文：<https://simpleprogrammer.com/productivity-for-busy-developers/>
 
 伟大的生产力是你作为一名开发人员所能拥有的最好的软技能之一。
 

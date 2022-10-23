@@ -1,6 +1,6 @@
 # 为什么你不应该以程序员的身份创业
 
-> 原文:[https://simple programmer . com/not-start-startup-as-a-a-a-programmer/](https://simpleprogrammer.com/not-start-startup-as-a-programmer/)
+> 原文：<https://simpleprogrammer.com/not-start-startup-as-a-programmer/>
 
 今天我要谈谈为什么你需要停止创业废话。相反，如果你想以程序员的身份创业，你需要做的是创建一家自举公司。
 

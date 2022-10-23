@@ -1,6 +1,6 @@
 # 乔·科兰托尼奥将个人品牌提升到了一个新的高度
 
-> 原文:[https://simple programmer . com/Joe-colantonio-is-taking-personal-branding-to-the-next-level/](https://simpleprogrammer.com/joe-colantonio-is-taking-personal-branding-to-the-next-level/)
+> 原文：<https://simpleprogrammer.com/joe-colantonio-is-taking-personal-branding-to-the-next-level/>
 
 乔·科兰托尼奥是那些真正拥有个人品牌和定位的人之一。
 

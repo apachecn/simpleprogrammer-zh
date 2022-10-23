@@ -1,6 +1,6 @@
 # 软件开发人员应该如何为未来做准备？
 
-> 原文:[https://simple programmer . com/software-developers-prepare-future/](https://simpleprogrammer.com/software-developers-prepare-future/)
+> 原文：<https://simpleprogrammer.com/software-developers-prepare-future/>
 
 软件开发领域有点像股票市场。如果你不想最终走上街头乞求改变，你就必须预测事情的发展方向。
 

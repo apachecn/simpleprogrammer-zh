@@ -1,6 +1,6 @@
 # 面向开发者的 2019 简单程序员节日礼物指南
 
-> 原文:[https://simple programmer . com/2019-programmer-holiday-gift-guide/](https://simpleprogrammer.com/2019-programmer-holiday-gift-guide/)
+> 原文：<https://simpleprogrammer.com/2019-programmer-holiday-gift-guide/>
 
 ## **更新:[点击这里查看最新的 2020 年软件开发者礼物清单](https://simpleprogrammer.com/gifts-for-programmers/)**
 

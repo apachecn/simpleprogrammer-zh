@@ -1,6 +1,6 @@
 # 指数投资程序员指南
 
-> 原文:[https://simple programmer . com/index-investing-for-programmers/](https://simpleprogrammer.com/index-investing-for-programmers/)
+> 原文：<https://simpleprogrammer.com/index-investing-for-programmers/>
 
 ![](img/76ecd9a1a6ed750d8ff923de5109f320.png)
 

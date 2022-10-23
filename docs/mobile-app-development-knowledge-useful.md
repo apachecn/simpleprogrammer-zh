@@ -1,6 +1,6 @@
 # 移动应用开发知识有用的 10 种情况
 
-> 原文:[https://simple programmer . com/mobile-app-development-knowledge-usable/](https://simpleprogrammer.com/mobile-app-development-knowledge-useful/)
+> 原文：<https://simpleprogrammer.com/mobile-app-development-knowledge-useful/>
 
 ![mobile app development knowledge](img/ba19c4d58c0ca4eab0619070b72413f5.png)
 

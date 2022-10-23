@@ -1,6 +1,6 @@
 # entreprogrammars 疯狂！第 7-12 集现已上线！
 
-> 原文:[https://simple programmer . com/entre programmers-madness-episodes-7-12-now-live/](https://simpleprogrammer.com/entreprogrammers-madness-episodes-7-12-now-live/)
+> 原文：<https://simpleprogrammer.com/entreprogrammers-madness-episodes-7-12-now-live/>
 
 感谢所有关于 Entreprogrammers 的反馈。
 

@@ -1,6 +1,6 @@
 # 使用 Var + As，一个巧妙的小技巧
 
-> 原文:[https://simple programmer . com/using-var-as-a-neat-little-trick/](https://simpleprogrammer.com/using-var-as-a-neat-little-trick/)
+> 原文：<https://simpleprogrammer.com/using-var-as-a-neat-little-trick/>
 
 也许这是每个人都已经知道的事情，但是我最近遇到了这个小 C#组合，它用关键字 *var* 解决了我的一个主要的突出问题。
 

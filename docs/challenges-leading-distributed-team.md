@@ -1,6 +1,6 @@
 # 领导分布式测试团队的挑战
 
-> 原文:[https://simple programmer . com/challenges-leading-distributed-team/](https://simpleprogrammer.com/challenges-leading-distributed-team/)
+> 原文：<https://simpleprogrammer.com/challenges-leading-distributed-team/>
 
 ![](img/df875e2323c8449e6bc92fdae0439c29.png)
 

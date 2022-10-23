@@ -1,6 +1,6 @@
 # 在我跳进 iOS 第二部之前，我希望我知道什么
 
-> 原文:[https://simple programmer . com/what-I-wish-I-know-before-I-jumped-to-IOs-part-ii/](https://simpleprogrammer.com/what-i-wish-i-knew-before-i-jumped-into-ios-part-ii/)
+> 原文：<https://simpleprogrammer.com/what-i-wish-i-knew-before-i-jumped-into-ios-part-ii/>
 
 如果你还没有[看过原帖](https://simpleprogrammer.com/2015/11/18/what-i-wished-i-knew-before-i-jumped-into-ios-part-i/)，请看完再回到这个。
 

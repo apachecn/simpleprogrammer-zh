@@ -1,6 +1,6 @@
 # 当 JavaScript 不够时:开发人员如何提高他们的沟通技巧
 
-> 原文:[https://simple programmer . com/developer-communication-skills/](https://simpleprogrammer.com/developer-communication-skills/)
+> 原文：<https://simpleprogrammer.com/developer-communication-skills/>
 
 ![](img/4e6b3751695008137d73572ef390be4d.png)
 

@@ -1,6 +1,6 @@
 # 为了保持市场竞争力，你应该问自己的 4 个问题
 
-> 原文:[https://simple programmer . com/编程-职业-竞争-市场/](https://simpleprogrammer.com/programming-career-competitive-market/)
+> 原文：<https://simpleprogrammer.com/programming-career-competitive-market/>
 
 <figure class="alignright is-resized">
 

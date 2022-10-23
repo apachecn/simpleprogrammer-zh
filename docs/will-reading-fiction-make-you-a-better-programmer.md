@@ -1,6 +1,6 @@
 # 看小说会让你成为更好的程序员吗？
 
-> 原文:[https://simple programmer . com/will-reading-fiction-make-you-a-better-programmer/](https://simpleprogrammer.com/will-reading-fiction-make-you-a-better-programmer/)
+> 原文：<https://simpleprogrammer.com/will-reading-fiction-make-you-a-better-programmer/>
 
 对于喜欢在职业生涯中不断学习的程序员来说，一般阅读有很多好处。我不是说只阅读技术书籍，甚至是非小说类的，这是我们许多人在浏览书架时的落脚点。
 

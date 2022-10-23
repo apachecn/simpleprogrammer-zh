@@ -1,6 +1,6 @@
 # 清醒梦——提高睡眠时的工作效率
 
-> 原文:[https://simple programmer . com/lucid-dreaming-increase-productivity/](https://simpleprogrammer.com/lucid-dreaming-increase-productivity/)
+> 原文：<https://simpleprogrammer.com/lucid-dreaming-increase-productivity/>
 
 睡觉是一种解脱。辛苦工作一天后，你终于有机会放松了。我们都同意，良好的睡眠是身体健康的关键，根据研究，缺乏睡眠会增加患糖尿病等疾病的几率，并对我们的记忆力产生不良影响。
 

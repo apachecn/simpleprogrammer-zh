@@ -1,6 +1,6 @@
 # 软件许可:错误和最佳实践
 
-> 原文:[https://simple programmer . com/software-licensing-errors-best-practices/](https://simpleprogrammer.com/software-licensing-mistakes-best-practices/)
+> 原文：<https://simpleprogrammer.com/software-licensing-mistakes-best-practices/>
 
 虽然软件许可是成功产品发布的一个重要方面，但是开发者经常忽略它。因此，他们的软件容易受到黑客和非法发行的攻击，从而损失收入。
 

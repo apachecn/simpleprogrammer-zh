@@ -1,6 +1,6 @@
 # 通过购买世界级门票，加快建设速度，减少浪费，保持头脑清醒
 
-> 原文:[https://simple programmer . com/writing-world-class-software-tickets/](https://simpleprogrammer.com/writing-world-class-software-tickets/)
+> 原文：<https://simpleprogrammer.com/writing-world-class-software-tickets/>
 
 ![](img/2cd2adc96506727e0cc17498437bb927.png)
 

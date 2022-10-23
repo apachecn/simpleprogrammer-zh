@@ -1,6 +1,6 @@
 # 为什么我们需要解决软件工程中的伦理问题
 
-> 原文:[https://simple programmer . com/ethical-issues-software-engineering/](https://simpleprogrammer.com/ethical-issues-software-engineering/)
+> 原文：<https://simpleprogrammer.com/ethical-issues-software-engineering/>
 
 <figure class="alignright is-resized">
 

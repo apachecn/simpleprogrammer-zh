@@ -1,6 +1,6 @@
 # 如何制作一个节目 YouTube 频道
 
-> 原文:[https://simple programmer . com/how-to-make-a-programming-YouTube-channel/](https://simpleprogrammer.com/how-to-make-a-programming-youtube-channel/)
+> 原文：<https://simpleprogrammer.com/how-to-make-a-programming-youtube-channel/>
 
 我知道你们中的很多人会看 YouTube，并对自己说，“嘿，也许我应该制作一个关于软件开发的 YouTube 频道。”这是我帮助过很多人的事情。
 

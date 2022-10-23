@@ -1,6 +1,6 @@
 # 书评:菲尔·西蒙没有收到消息
 
-> 原文:[https://simple programmer . com/book-review-message-not-received-Phil-Simon/](https://simpleprogrammer.com/book-review-message-not-received-phil-simon/)
+> 原文：<https://simpleprogrammer.com/book-review-message-not-received-phil-simon/>
 
 几周前，我给菲尔·西蒙发了一封电子邮件，附上了我的电话号码，请他给我打电话，讨论图书公关事宜。
 

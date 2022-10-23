@@ -1,6 +1,6 @@
 # QA 和测试领域中的不同角色
 
-> 原文:[https://simple programmer . com/different-roles-of-QA-and-testing/](https://simpleprogrammer.com/different-roles-of-qa-and-testing/)
+> 原文：<https://simpleprogrammer.com/different-roles-of-qa-and-testing/>
 
 这篇文章是 Kayleigh Oliver 和 Daniel Sayer 合作写的，Daniel Sayer 是意料之外的问答博客的作者。
 

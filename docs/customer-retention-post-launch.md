@@ -1,6 +1,6 @@
 # 发布后沟通:在发布后时期留住客户的 5 个最佳实践
 
-> 原文:[https://simple programmer . com/customer-retention-post-launch/](https://simpleprogrammer.com/customer-retention-post-launch/)
+> 原文：<https://simpleprogrammer.com/customer-retention-post-launch/>
 
 ![customer retention post-launch](img/6f0b89a4d185fb55c67915ba3b8604f5.png)
 

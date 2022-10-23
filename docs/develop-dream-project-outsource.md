@@ -1,6 +1,6 @@
 # 我应该自己开发我的梦想项目还是应该外包出去？
 
-> 原文:[https://simple programmer . com/develop-dream-project-outsource/](https://simpleprogrammer.com/develop-dream-project-outsource/)
+> 原文：<https://simpleprogrammer.com/develop-dream-project-outsource/>
 
 在我们的生活中，总会有那么一个时刻，我们有了那个“伟大的想法”。然而，这个伟大的想法可能会遇到一些障碍。
 

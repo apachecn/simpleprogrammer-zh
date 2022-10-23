@@ -1,6 +1,6 @@
 # 科技简历的 5 个实用技巧
 
-> 原文:[https://simple programmer . com/5-practical-tips-for-your-tech-resume/](https://simpleprogrammer.com/5-practical-tips-for-your-tech-resume/)
+> 原文：<https://simpleprogrammer.com/5-practical-tips-for-your-tech-resume/>
 
 ![tech resume](img/d916274b45e523428216c2807f2faba9.png)
 

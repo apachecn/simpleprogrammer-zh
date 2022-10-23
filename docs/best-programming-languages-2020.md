@@ -1,6 +1,6 @@
 # 2020 年自由职业者的最佳编程语言？(Js，机器学习，PYTHON？)
 
-> 原文:[https://simple programmer . com/best-programming-languages-2020/](https://simpleprogrammer.com/best-programming-languages-2020/)
+> 原文：<https://simpleprogrammer.com/best-programming-languages-2020/>
 
 对 35%的美国劳动力来说，从事自由职业是现实。它是为那些渴望更多自由，或者觉得为雇主工作限制了他们创造力的人设计的。
 

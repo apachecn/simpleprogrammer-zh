@@ -1,6 +1,6 @@
 # 作为一个编码初学者，你需要什么样的电脑？
 
-> 原文:[https://simple programmer . com/what-you-need-computer-coding-beginner/](https://simpleprogrammer.com/what-you-need-computer-coding-beginner/)
+> 原文：<https://simpleprogrammer.com/what-you-need-computer-coding-beginner/>
 
 <figure class="alignright is-resized">
 

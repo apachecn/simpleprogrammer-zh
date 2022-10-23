@@ -1,6 +1,6 @@
 # 作为开发者的被动收入:如何实现？($ 2000/月以上！)
 
-> 原文:[https://simple programmer . com/passive-income-developer-2000-month/](https://simpleprogrammer.com/passive-income-developer-2000-month/)
+> 原文：<https://simpleprogrammer.com/passive-income-developer-2000-month/>
 
 很多开发人员梦想赚钱，增加他们的总收入。虽然现在有很多补充收入的选择，但被动收入绝对是最受关注的。
 

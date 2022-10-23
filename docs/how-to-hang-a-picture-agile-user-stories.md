@@ -1,6 +1,6 @@
 # 如何挂一幅画:敏捷用户故事
 
-> 原文:[https://simple programmer . com/how-to-hang-a-picture-agile-user-stories/](https://simpleprogrammer.com/how-to-hang-a-picture-agile-user-stories/)
+> 原文：<https://simpleprogrammer.com/how-to-hang-a-picture-agile-user-stories/>
 
 有多少次我们完成了一个敏捷用户故事或者待办事项，却以这样的事情结束？
 

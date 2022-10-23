@@ -1,6 +1,6 @@
 # 软件开发职业道路
 
-> 原文:[https://simple programmer . com/software-development-career-paths/](https://simpleprogrammer.com/software-development-career-paths/)
+> 原文：<https://simpleprogrammer.com/software-development-career-paths/>
 
 软件开发职业道路有很多(也称为软件工程职业道路)。在这篇文章中，我们将讨论:
 

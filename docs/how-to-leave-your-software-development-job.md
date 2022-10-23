@@ -1,6 +1,6 @@
 # 如何离开你的软件开发工作(不毁掉你的未来)
 
-> 原文:[https://simple programmer . com/how-to-leave-your-software-development-job/](https://simpleprogrammer.com/how-to-leave-your-software-development-job/)
+> 原文：<https://simpleprogrammer.com/how-to-leave-your-software-development-job/>
 
 离职的最佳方式似乎很明显，但足够多的软件开发人员完全搞砸了这一点，让我觉得值得写一个简短的章节。
 

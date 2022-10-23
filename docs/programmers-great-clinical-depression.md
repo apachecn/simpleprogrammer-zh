@@ -1,6 +1,6 @@
 # 程序员的临床抑郁症
 
-> 原文:[https://simple programmer . com/programmers-great-clinical-depression/](https://simpleprogrammer.com/programmers-great-clinical-depression/)
+> 原文：<https://simpleprogrammer.com/programmers-great-clinical-depression/>
 
 我有多年的临床抑郁症史，由几个不同的医学专家诊断。它在日常对话中不常出现，一般来说，我实际上没有任何症状。
 

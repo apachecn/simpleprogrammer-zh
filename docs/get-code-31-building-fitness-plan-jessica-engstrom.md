@@ -1,6 +1,6 @@
 # 起床编码 31:与杰西卡·英斯特朗一起制定健身计划
 
-> 原文:[https://simple programmer . com/get-code-31-building-fitness-plan-Jessica-engstrom/](https://simpleprogrammer.com/get-code-31-building-fitness-plan-jessica-engstrom/)
+> 原文：<https://simpleprogrammer.com/get-code-31-building-fitness-plan-jessica-engstrom/>
 
 许多开发人员知道如何开始一项新技术，但是开始一个健身计划可能是令人生畏的。
 

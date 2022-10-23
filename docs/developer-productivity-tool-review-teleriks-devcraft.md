@@ -1,6 +1,6 @@
 # 开发者生产力工具回顾:Telerik 的 Devcraft
 
-> 原文:[https://simple programmer . com/developer-productivity-tool-review-teleriks-devcraft/](https://simpleprogrammer.com/developer-productivity-tool-review-teleriks-devcraft/)
+> 原文：<https://simpleprogrammer.com/developer-productivity-tool-review-teleriks-devcraft/>
 
 我没有在这个博客上做很多产品评论，这是有原因的。
 

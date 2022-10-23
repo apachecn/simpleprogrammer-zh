@@ -1,6 +1,6 @@
 # 如何获得远程程序员的工作？
 
-> 原文:[https://simple programmer . com/get-a-job-as-a-remote-programmer/](https://simpleprogrammer.com/get-a-job-as-a-remote-programmer/)
+> 原文：<https://simpleprogrammer.com/get-a-job-as-a-remote-programmer/>
 
 当我做一份朝九晚五的普通工作时，我经常幻想自己创业——为自己工作。
 

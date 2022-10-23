@@ -1,6 +1,6 @@
 # 里卡多·巴博萨在应用程序运行时添加代码
 
-> 原文:[https://simple programmer . com/Ricardo-barb OSA-adds-code-while-app-is-running/](https://simpleprogrammer.com/ricardo-barbosa-adds-code-while-app-is-running/)
+> 原文：<https://simpleprogrammer.com/ricardo-barbosa-adds-code-while-app-is-running/>
 
 里卡多·巴博萨认为他不是“真正的”企业家，只是因为他白天为一家电信公司工作。然而，他称自己本质上是一名企业家，为其他开发者快速完成工作创造产品和系统。他一直是。NET 空间和微软技术已经很长时间了。
 

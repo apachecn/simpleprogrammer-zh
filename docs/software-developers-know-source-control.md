@@ -1,6 +1,6 @@
 # 关于源代码管理，软件开发人员应该知道什么
 
-> 原文:[https://simple programmer . com/software-developers-know-source-control/](https://simpleprogrammer.com/software-developers-know-source-control/)
+> 原文：<https://simpleprogrammer.com/software-developers-know-source-control/>
 
 我一直对源代码管理有一种爱恨交加的关系。
 

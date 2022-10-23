@@ -1,6 +1,6 @@
 # 书评:务实的程序员
 
-> 原文:[https://simple programmer . com/book-review-the-practical-programmer/](https://simpleprogrammer.com/book-review-the-pragmatic-programmer/)
+> 原文：<https://simpleprogrammer.com/book-review-the-pragmatic-programmer/>
 
 我最近读完了 T2、安德鲁·亨特和戴维·托马斯的《实用程序员》。
 

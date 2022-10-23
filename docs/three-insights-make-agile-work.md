@@ -1,6 +1,6 @@
 # 让敏捷开发为您服务的三个见解
 
-> 原文:[https://simple programmer . com/three-insights-make-agile-work/](https://simpleprogrammer.com/three-insights-make-agile-work/)
+> 原文：<https://simpleprogrammer.com/three-insights-make-agile-work/>
 
 在面对面的测试中，敏捷软件开发几乎总是被认为优于更老、更传统的瀑布框架。与其像瀑布方法所规定的那样，在一个长系列的阶段中顺序地组织一个产品的开发，不如说敏捷所承诺的光明未来——正如它的名字所暗示的那样——对变化的反应要快得多。
 

@@ -1,6 +1,6 @@
 # 程序员如何在抖音视频中融入家庭
 
-> 原文:[https://simple programmer . com/programmers-incorporate-family-tiktok/](https://simpleprogrammer.com/programmers-incorporate-family-tiktok/)
+> 原文：<https://simpleprogrammer.com/programmers-incorporate-family-tiktok/>
 
 ![programmers tiktok](img/c3cfb4fd8f60f5b02630234afe3f7260.png)
 

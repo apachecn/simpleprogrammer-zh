@@ -1,6 +1,6 @@
 # 2022 年十大新兴 Web 开发前端框架
 
-> 原文:[https://simple programmer . com/top-10-emerging-front-end-frameworks/](https://simpleprogrammer.com/top-10-emerging-front-end-frameworks/)
+> 原文：<https://simpleprogrammer.com/top-10-emerging-front-end-frameworks/>
 
 ***目录:***
 

@@ -1,6 +1,6 @@
 # 在疫情期间作为远程程序员寻找新客户
 
-> 原文:[https://simple programmer . com/new-clients-remote-programmer-疫情/](https://simpleprogrammer.com/new-clients-remote-programmer-pandemic/)
+> 原文：<https://simpleprogrammer.com/new-clients-remote-programmer-pandemic/>
 
 ![pandemic programmer new clients](img/58f55bd29bb501aa5629ae1baff1b40c.png)
 

@@ -1,6 +1,6 @@
 # 程序员在竞争激烈的虚拟现实游戏行业中增加机会的 5 种方法
 
-> 原文:[https://simple programmer . com/programmers-竞技-VR-游戏-行业/](https://simpleprogrammer.com/programmers-competitive-vr-gaming-industry/)
+> 原文：<https://simpleprogrammer.com/programmers-competitive-vr-gaming-industry/>
 
 ![VR Gaming Industry](img/20ec9f93a6578a346094b7043772fba8.png)
 

@@ -1,6 +1,6 @@
 # 你需要知道的临时员工权利和福利
 
-> 原文:[https://simple programmer . com/temporary-employee-rights-benefits/](https://simpleprogrammer.com/temporary-employee-rights-benefits/)
+> 原文：<https://simpleprogrammer.com/temporary-employee-rights-benefits/>
 
 ![temporary employee rights](img/be5f2e052d5f082447714c40875da241.png)
 

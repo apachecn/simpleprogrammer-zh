@@ -1,6 +1,6 @@
 # 塞拉在线的创始人后来怎么样了？
 
-> 原文:[https://simple programmer . com/ever-happen-founders-Sierra-online/](https://simpleprogrammer.com/ever-happened-founders-sierra-online/)
+> 原文：<https://simpleprogrammer.com/ever-happened-founders-sierra-online/>
 
 我童年最美好的回忆包括玩冒险游戏，如[太空探索、](http://guysfromandromeda.com/)T2、国王探索、T3 和[荣耀探索。](http://en.wikipedia.org/wiki/Quest_for_Glory)
 

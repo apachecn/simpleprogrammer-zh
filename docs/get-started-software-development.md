@@ -1,6 +1,6 @@
 # 软件开发如何入门
 
-> 原文:[https://simple programmer . com/get-started-software-development/](https://simpleprogrammer.com/get-started-software-development/)
+> 原文：<https://simpleprogrammer.com/get-started-software-development/>
 
 当我刚开始做软件开发时，我不知道自己在做什么。
 

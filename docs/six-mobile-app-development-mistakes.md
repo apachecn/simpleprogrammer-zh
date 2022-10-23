@@ -1,6 +1,6 @@
 # 六个可能毁掉你的应用的移动应用开发错误
 
-> 原文:[https://simple programmer . com/six-mobile-app-development-errors/](https://simpleprogrammer.com/six-mobile-app-development-mistakes/)
+> 原文：<https://simpleprogrammer.com/six-mobile-app-development-mistakes/>
 
 你认为你的想法会成为移动应用商店的下一个大事件吗？也许你有一款产品或服务非常适合手机应用程序，或者你只是想开发下一款热门游戏，在[应用商店](https://itunes.apple.com/)和[谷歌 Play 商店](https://play.google.com/store?hl=en)掀起一阵风暴。无论你的想法是什么，你都需要谨慎行事，以正确的方式开发你的移动应用。
 

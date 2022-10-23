@@ -1,6 +1,6 @@
 # PHP Web 开发:是时候退休了吗？
 
-> 原文:[https://simple programmer . com/PHP-we b-development-retire-old/](https://simpleprogrammer.com/php-web-development-retire-old/)
+> 原文：<https://simpleprogrammer.com/php-web-development-retire-old/>
 
 PHP 是当今万维网的支柱。目前，世界上超过四分之三的网站都是由 PHP 驱动的。说到服务器端编程语言，PHP——超文本预处理器，对于那些后来者来说——没有竞争对手。
 

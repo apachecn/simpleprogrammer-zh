@@ -1,6 +1,6 @@
 # 如何写出让人不会忽视的专业邮件
 
-> 原文:[https://simple programmer . com/write-professional-emails-people-wont-ignore/](https://simpleprogrammer.com/write-professional-emails-people-wont-ignore/)
+> 原文：<https://simpleprogrammer.com/write-professional-emails-people-wont-ignore/>
 
 你有没有试过写一封专业的邮件却失败了？你的老板忽视了你，你没有得到那份工作，等等…
 

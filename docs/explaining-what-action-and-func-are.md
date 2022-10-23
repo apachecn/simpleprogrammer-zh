@@ -1,6 +1,6 @@
 # 解释什么是动作和功能
 
-> 原文:[https://simple programmer . com/explaining-what-action-and-func-are/](https://simpleprogrammer.com/explaining-what-action-and-func-are/)
+> 原文：<https://simpleprogrammer.com/explaining-what-action-and-func-are/>
 
 在 C#中，Action 和 Func 是减少代码重复和耦合的非常有用的工具。
 

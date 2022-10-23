@@ -1,6 +1,6 @@
 # Selenium Webdriver 的并行测试——自动化
 
-> 原文:[https://simple programmer . com/parallel-testing-selenium-web driver-automation-steroids/](https://simpleprogrammer.com/parallel-testing-selenium-webdriver-automation-steroids/)
+> 原文：<https://simpleprogrammer.com/parallel-testing-selenium-webdriver-automation-steroids/>
 
 ## 介绍
 

@@ -1,6 +1,6 @@
 # Android 中单元测试的最佳方式:第 2 部分
 
-> 原文:[https://simple programmer . com/the-best-way-to-unit-test-in-Android-part-2/](https://simpleprogrammer.com/the-best-way-to-unit-test-in-android-part-2/)
+> 原文：<https://simpleprogrammer.com/the-best-way-to-unit-test-in-android-part-2/>
 
 在我的上一篇文章中，我介绍了 Android 中单元测试的两种选择。
 

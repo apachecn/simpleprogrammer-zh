@@ -1,6 +1,6 @@
 # 什么是接口？
 
-> 原文:[https://simple programmer . com/back-to-basics-what-a-an-interface/](https://simpleprogrammer.com/back-to-basics-what-is-an-interface/)
+> 原文：<https://simpleprogrammer.com/back-to-basics-what-is-an-interface/>
 
 这是我的[回归基础系列](https://simpleprogrammer.com/2010/10/30/getting-back-to-basics-introduction-and-why/)的第一部分。
 

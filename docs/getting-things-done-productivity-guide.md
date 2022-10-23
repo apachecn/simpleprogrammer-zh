@@ -1,6 +1,6 @@
 # 完成工作:程序员生产力指南
 
-> 原文:[https://simple programmer . com/getting-things-done-productivity-guide/](https://simpleprogrammer.com/getting-things-done-productivity-guide/)
+> 原文：<https://simpleprogrammer.com/getting-things-done-productivity-guide/>
 
 ![](img/71780918dbb1fe23aad99a90c16b3ff3.png)
 

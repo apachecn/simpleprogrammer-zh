@@ -1,6 +1,6 @@
 # 如何通过联盟营销将你的编程博客货币化
 
-> 原文:[https://simple programmer . com/moneye-programmine-blog-affiliate-marketing/](https://simpleprogrammer.com/monetize-programming-blog-affiliate-marketing/)
+> 原文：<https://simpleprogrammer.com/monetize-programming-blog-affiliate-marketing/>
 
 ![programming affiliate marketing](img/284c4b633529e45acc939dc27adcc433.png)
 

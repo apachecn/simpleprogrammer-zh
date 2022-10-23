@@ -1,6 +1,6 @@
 # 今年如何成为更好的软件开发人员
 
-> 原文:[https://simple programmer . com/better-software-developer-year/](https://simpleprogrammer.com/better-software-developer-year/)
+> 原文：<https://simpleprogrammer.com/better-software-developer-year/>
 
 如果你没有有意识地年复一年地努力提高，就很容易陷入平庸。
 

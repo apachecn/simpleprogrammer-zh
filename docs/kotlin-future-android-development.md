@@ -1,6 +1,6 @@
 # 科特林:Android 开发的未来？
 
-> 原文:[https://simple programmer . com/kot Lin-future-Android-development/](https://simpleprogrammer.com/kotlin-future-android-development/)
+> 原文：<https://simpleprogrammer.com/kotlin-future-android-development/>
 
 你听说过科特林吗？Kotling 已经被选为 Android 开发的官方编程语言。
 

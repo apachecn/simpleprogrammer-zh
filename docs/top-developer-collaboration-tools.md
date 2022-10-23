@@ -1,6 +1,6 @@
 # 顶级开发人员协作工具
 
-> 原文:[https://simple programmer . com/top-developer-collaboration-tools/](https://simpleprogrammer.com/top-developer-collaboration-tools/)
+> 原文：<https://simpleprogrammer.com/top-developer-collaboration-tools/>
 
 <figure class="alignright is-resized">
 

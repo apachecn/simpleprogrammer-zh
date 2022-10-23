@@ -1,6 +1,6 @@
 # 开发人员应该学习的 3 个简单销售技巧来促进他们的职业发展
 
-> 原文:[https://simple programmer . com/3-sales-techniques-boost-career/](https://simpleprogrammer.com/3-sales-techniques-boost-career/)
+> 原文：<https://simpleprogrammer.com/3-sales-techniques-boost-career/>
 
 如果了解更多销售知识，每个开发人员都可以极大地改善他们的职业生涯。今天，我想用三个既定的销售原则来分析如何推销自己。与一些人的想法相反，销售技巧并不总是低俗的。我们都熟悉那些不辞职的销售人员，但是有一种方法可以不偷偷摸摸地销售。事实上，你可以用一种让客户一想到和你合作就垂涎三尺的方式来销售。
 

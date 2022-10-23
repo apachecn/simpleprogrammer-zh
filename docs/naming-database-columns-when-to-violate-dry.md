@@ -1,6 +1,6 @@
 # 命名数据库列，何时违反 DRY
 
-> 原文:[https://simple programmer . com/naming-database-columns-when-to-violate-dry/](https://simpleprogrammer.com/naming-database-columns-when-to-violate-dry/)
+> 原文：<https://simpleprogrammer.com/naming-database-columns-when-to-violate-dry/>
 
 干=不重复自己。
 

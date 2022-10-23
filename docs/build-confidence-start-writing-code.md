@@ -1,6 +1,6 @@
 # 如何建立信心&开始编写自己的代码
 
-> 原文:[https://simple programmer . com/build-confidence-start-writing-code/](https://simpleprogrammer.com/build-confidence-start-writing-code/)
+> 原文：<https://simpleprogrammer.com/build-confidence-start-writing-code/>
 
 自信。有些程序员有，有些程序员没有。一个把成功程序员和一般程序员区分开来的东西。
 

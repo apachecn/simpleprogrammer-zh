@@ -1,6 +1,6 @@
 # 2021 程序员礼物指南
 
-> 原文:[https://simple programmer . com/software-developer-tech-geek-Christmas-gifts/](https://simpleprogrammer.com/software-developer-tech-geek-christmas-gifts/)
+> 原文：<https://simpleprogrammer.com/software-developer-tech-geek-christmas-gifts/>
 
 欢迎来到我们的 2021 年程序员礼物指南！与我们的其他文章不同，这篇文章不仅仅是为我们简单的程序员准备的。
 

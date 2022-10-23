@@ -1,6 +1,6 @@
 # vue vs . React:2021 年最好的 JavaScript 框架是哪个
 
-> 原文:[https://simple programmer . com/view-vs-react/](https://simpleprogrammer.com/vue-vs-react/)
+> 原文：<https://simpleprogrammer.com/vue-vs-react/>
 
 JavaScript 框架的世界在不断变化，几乎每年都有新的领先者。这就是为什么在你读到这句话的时候，关于哪个 JavaScript 框架最好的答案无疑会有所不同！
 

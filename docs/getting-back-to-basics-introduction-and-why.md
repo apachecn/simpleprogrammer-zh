@@ -1,6 +1,6 @@
 # 回到基础:简介和原因
 
-> 原文:[https://simple programmer . com/getting-back-to-basics-introduction-and-why/](https://simpleprogrammer.com/getting-back-to-basics-introduction-and-why/)
+> 原文：<https://simpleprogrammer.com/getting-back-to-basics-introduction-and-why/>
 
 在 Java 和。今天，我开始担心我们做很多事情仅仅是因为“那是你如何做的”我认为这是一个危险的地方。
 

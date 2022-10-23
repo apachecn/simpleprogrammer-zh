@@ -1,6 +1,6 @@
 # 单元测试和自动化黑盒测试
 
-> 原文:[https://simple programmer . com/back-to-basics-unit-testing-automated-black box-testing-and-decisions/](https://simpleprogrammer.com/back-to-basics-unit-testing-automated-blackbox-testing-and-conclusions/)
+> 原文：<https://simpleprogrammer.com/back-to-basics-unit-testing-automated-blackbox-testing-and-conclusions/>
 
 如果你从[回归基础系列](https://simpleprogrammer.com/back-to-basics-series/)的[开始](https://simpleprogrammer.com/2010/10/30/getting-back-to-basics-introduction-and-why/)一直关注我，你会知道我开始重新评估一些公认的最佳实践真理，特别是关于单元测试、依赖注入和控制容器的反转。
 

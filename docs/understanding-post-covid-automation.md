@@ -1,6 +1,6 @@
 # 理解后 Covid 自动化和人工智能
 
-> 原文:[https://simple programmer . com/understanding-post-covid-automation/](https://simpleprogrammer.com/understanding-post-covid-automation/)
+> 原文：<https://simpleprogrammer.com/understanding-post-covid-automation/>
 
 ![post-covid automation](img/5bf32cf2da91143dbb98841b1d627d8c.png)
 

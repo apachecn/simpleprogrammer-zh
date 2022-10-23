@@ -1,6 +1,6 @@
 # 如何让你的编程博客永远不落主题
 
-> 原文:[https://simple programmer . com/never-run-out-of-topics-programming-blog/](https://simpleprogrammer.com/never-run-out-of-topics-programming-blog/)
+> 原文：<https://simpleprogrammer.com/never-run-out-of-topics-programming-blog/>
 
 ![ideas for programming blog](img/c93e781e077cf9005d0b830298654c07.png)
 

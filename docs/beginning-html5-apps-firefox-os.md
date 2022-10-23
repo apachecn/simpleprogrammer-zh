@@ -1,6 +1,6 @@
 # Firefox 操作系统的 HTML5 应用入门
 
-> 原文:[https://simple programmer . com/beginning-html 5-apps-Firefox-OS/](https://simpleprogrammer.com/beginning-html5-apps-firefox-os/)
+> 原文：<https://simpleprogrammer.com/beginning-html5-apps-firefox-os/>
 
 我的最新课程刚刚在 [Pluralsight](https://simpleprogrammer.com/pluralsight) 上发布:
 

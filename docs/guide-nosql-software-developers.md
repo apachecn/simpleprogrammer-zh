@@ -1,6 +1,6 @@
 # 软件开发人员 NoSQL 指南
 
-> 原文:[https://simple programmer . com/guide-no SQL-software-developers/](https://simpleprogrammer.com/guide-nosql-software-developers/)
+> 原文：<https://simpleprogrammer.com/guide-nosql-software-developers/>
 
 如果你在关注后端开发或大数据领域，你可能已经注意到，在过去的几年里，有很多关于 NoSQL 数据库的宣传。虽然有些人似乎对它们非常热情，但其他人可能认为它们是一个噱头:它们有不同的、不寻常的数据模型，不熟悉的应用程序编程接口，有时还有不清楚的应用程序。
 

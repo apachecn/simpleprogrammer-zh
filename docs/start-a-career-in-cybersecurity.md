@@ -1,6 +1,6 @@
 # 开始网络安全职业生涯？
 
-> 原文:[https://simple programmer . com/start-a-career-in-cyber security/](https://simpleprogrammer.com/start-a-career-in-cybersecurity/)
+> 原文：<https://simpleprogrammer.com/start-a-career-in-cybersecurity/>
 
 当许多人开始他们的网络安全职业旅程时，他们开始评估将需要哪些技能，并且无疑会考虑这些技能是否是他们可以学习的，甚至是想要学习的。一个不太常见但非常相关的问题是关于编程的需要，以及编程技能对于刚开始学习网络安全的人来说是否是强制性的。
 

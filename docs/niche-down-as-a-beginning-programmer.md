@@ -1,6 +1,6 @@
 # 我应该定位为一名初级程序员吗
 
-> 原文:[https://simple programmer . com/niche-down-as-a-beginning-programmer/](https://simpleprogrammer.com/niche-down-as-a-beginning-programmer/)
+> 原文：<https://simpleprogrammer.com/niche-down-as-a-beginning-programmer/>
 
 今天我们将讨论当你刚开始做程序员时，你是否应该找到自己的位置。
 

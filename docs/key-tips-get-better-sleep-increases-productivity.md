@@ -1,6 +1,6 @@
 # 获得更好睡眠的关键提示(提高生产力)
 
-> 原文:[https://simple programmer . com/key-tips-get-better-sleep-increases-productivity/](https://simpleprogrammer.com/key-tips-get-better-sleep-increases-productivity/)
+> 原文：<https://simpleprogrammer.com/key-tips-get-better-sleep-increases-productivity/>
 
 对于任何人来说，晚上睡个好觉都是非常重要的。当我们谈论睡眠时，每个人都有一个共同的因素，不管你是运动员还是程序员，这就是质量。
 

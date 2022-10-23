@@ -1,6 +1,6 @@
 # 如何保护您的远程团队免受网络攻击
 
-> 原文:[https://simple programmer . com/keep-remote-team-safe-cyber-attacks/](https://simpleprogrammer.com/keep-remote-team-safe-cyber-attacks/)
+> 原文：<https://simpleprogrammer.com/keep-remote-team-safe-cyber-attacks/>
 
 ![](img/a4f3f970c88edd889bffed708d34f069.png)
 

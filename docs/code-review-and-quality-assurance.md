@@ -1,6 +1,6 @@
 # 现代开发人员，第 4 部分:代码审查和质量保证
 
-> 原文:[https://simple programmer . com/code-review-and-quality-assurance/](https://simpleprogrammer.com/code-review-and-quality-assurance/)
+> 原文：<https://simpleprogrammer.com/code-review-and-quality-assurance/>
 
 <figure class="alignright is-resized">
 

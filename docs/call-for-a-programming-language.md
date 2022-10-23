@@ -1,6 +1,6 @@
 # 呼唤编程语言
 
-> 原文:[https://simple programmer . com/call-for-a-programming-language/](https://simpleprogrammer.com/call-for-a-programming-language/)
+> 原文：<https://simpleprogrammer.com/call-for-a-programming-language/>
 
 ## 为什么我们还需要另一种编程语言？
 

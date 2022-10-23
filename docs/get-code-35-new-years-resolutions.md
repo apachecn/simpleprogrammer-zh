@@ -1,6 +1,6 @@
 # 起床编码 35:新年决心
 
-> 原文:[https://simple programmer . com/get-code-35-new-years-resolutions/](https://simpleprogrammer.com/get-code-35-new-years-resolutions/)
+> 原文：<https://simpleprogrammer.com/get-code-35-new-years-resolutions/>
 
 又到了一年中的这个时候，每个人都在制定新年计划，最终减肥并去健身房。
 

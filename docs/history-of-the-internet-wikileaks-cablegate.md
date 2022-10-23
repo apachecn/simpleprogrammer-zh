@@ -1,6 +1,6 @@
 # 互联网的历史:第 22 部分-维基解密电缆门
 
-> 原文:[https://simple programmer . com/history-of-the-internet-Wikileaks-cable gate/](https://simpleprogrammer.com/history-of-the-internet-wikileaks-cablegate/)
+> 原文：<https://simpleprogrammer.com/history-of-the-internet-wikileaks-cablegate/>
 
 在第 21 部分，我们讲述了维基解密的早期和它的创始人朱利安·阿桑奇。2010 年初，阿桑奇从一等兵曼宁那里获得了大量信息。这包括同年出版的有争议的[阿富汗战争日志](https://en.wikipedia.org/wiki/Afghan_War_documents_leak)和[伊拉克战争日志](https://en.wikipedia.org/wiki/Iraq_War_documents_leak)。
 

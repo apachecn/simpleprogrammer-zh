@@ -1,6 +1,6 @@
 # 2016 年软件开发者播客奖获奖者
 
-> 原文:[https://simple programmer . com/winners-2016-软件-开发者-播客-奖项/](https://simpleprogrammer.com/winners-2016-software-developer-podcast-awards/)
+> 原文：<https://simpleprogrammer.com/winners-2016-software-developer-podcast-awards/>
 
 简单程序员软件开发者播客奖已经落下帷幕。
 

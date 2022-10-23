@@ -1,6 +1,6 @@
 # 2021 年值得成为软件开发人员的 6 个理由
 
-> 原文:[https://simple programmer . com/reasons-to-be-a-a-software-developer-2021/](https://simpleprogrammer.com/reasons-to-become-a-software-developer-2021/)
+> 原文：<https://simpleprogrammer.com/reasons-to-become-a-software-developer-2021/>
 
 ![becoming a software developer](img/e7d309665ede24a50276c78337903b79.png)
 

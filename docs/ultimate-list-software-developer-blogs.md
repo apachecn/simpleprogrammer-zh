@@ -1,6 +1,6 @@
 # 软件开发人员博客的终极列表
 
-> 原文:[https://simple programmer . com/ultimate-list-software-developer-blogs/](https://simpleprogrammer.com/ultimate-list-software-developer-blogs/)
+> 原文：<https://simpleprogrammer.com/ultimate-list-software-developer-blogs/>
 
 据我所知，所有最好的软件开发者博客的“总列表”并不存在。你可以找到小型的特定语言列表，但是没有包含大量不同语言的列表。由于开发者播客的[终极列表似乎如此受欢迎，我决定制作一份所有最佳软件开发者博客的主列表。
 如果您发现有些地方不太合适，或者列表中缺少某个优秀的资源，请联系我，我会做出适当的修改。

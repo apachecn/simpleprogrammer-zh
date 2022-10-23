@@ -1,6 +1,6 @@
 # 给开发人员的简历写作技巧，促进你的职业发展
 
-> 原文:[https://simple programmer . com/writing-tips-software-developer-resume/](https://simpleprogrammer.com/writing-tips-software-developer-resume/)
+> 原文：<https://simpleprogrammer.com/writing-tips-software-developer-resume/>
 
 ![](img/dbc66bc91ed6a761f81d7cc0d830db0f.png)
 

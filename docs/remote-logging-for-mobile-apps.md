@@ -1,6 +1,6 @@
 # 移动应用的远程日志记录–bug fender
 
-> 原文:[https://simple programmer . com/remote-logging-for-mobile-apps/](https://simpleprogrammer.com/remote-logging-for-mobile-apps/)
+> 原文：<https://simpleprogrammer.com/remote-logging-for-mobile-apps/>
 
 调试总是这么难。在移动世界，这要困难得多。我将告诉你一些我的经历。
 
