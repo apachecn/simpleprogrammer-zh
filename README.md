@@ -25,7 +25,7 @@
 
 ### 其他
 
-*   在我们的 [apachecn/simpleprogramming-zh](https://github.com/apachecn/simpleprogramming-zh) github 上提 issue.
+*   在我们的 [apachecn/simpleprogrammer-zh](https://github.com/apachecn/simpleprogrammer-zh) github 上提 issue.
 *   发邮件到 Email: `apachecn@163.com`.
 *   在我们的 [组织学习交流群](https://www.apachecn.org/#/docs/join) 中联系群主/管理员即可.
 
@@ -34,24 +34,24 @@
 ### Docker
 
 ```
-docker pull apachecn0/simpleprogramming-zh
-docker run -tid -p <port>:80 apachecn0/simpleprogramming-zh
+docker pull apachecn0/simpleprogrammer-zh
+docker run -tid -p <port>:80 apachecn0/simpleprogrammer-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### PYPI
 
 ```
-pip install simpleprogramming-zh
-simpleprogramming-zh <port>
+pip install simpleprogrammer-zh
+simpleprogrammer-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### NPM
 
 ```
-npm install -g simpleprogramming-zh
-simpleprogramming-zh <port>
+npm install -g simpleprogrammer-zh
+simpleprogrammer-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
